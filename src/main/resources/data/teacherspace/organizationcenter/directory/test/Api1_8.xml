@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>引用目录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <custom_system_id>51</custom_system_id>
+        <ref_id>9144</ref_id>
+        <ref_level>1</ref_level>
+        <quote_system>1</quote_system>
+        <quote_system_type>1</quote_system_type>
+        <ref_type>2</ref_type>
+    </test>
+
+</data>

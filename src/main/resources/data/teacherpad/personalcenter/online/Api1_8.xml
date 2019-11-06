@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>编辑班级</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <class_id>34162</class_id>
+        <class_name>改_接口崔三</class_name>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>编辑班级token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <class_id>32092</class_id>
+        <class_name>改_接口崔三</class_name>
+    </exceptionTest>
+
+
+</data>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功获得错题本科目列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+    </exceptionTest>
+
+</data>
+

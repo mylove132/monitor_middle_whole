@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>题目分组-移动题目的分组</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <question_id>5963279</question_id>
+        <group_id>1001147</group_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>移动题目的分组-题目id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <question_id></question_id>
+        <group_id>1001147</group_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>移动题目的分组-组id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <question_id>5963279</question_id>
+        <group_id></group_id>
+    </exceptionTest>
+
+</data>

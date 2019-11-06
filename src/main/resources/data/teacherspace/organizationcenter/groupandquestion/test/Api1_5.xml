@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>音频校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <audio_url>http://7vzua7.com1.z0.glb.clouddn.com/MP3-19M.mp3</audio_url>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>音频校验-音频url为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <audio_url></audio_url>
+    </exceptionTest>
+
+</data>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>上课审核学生</testcaseName>
+        <caseType>1</caseType>
+        <expectedCode>code:0</expectedCode>
+        <course_id>890185</course_id>
+    </test>
+</data>

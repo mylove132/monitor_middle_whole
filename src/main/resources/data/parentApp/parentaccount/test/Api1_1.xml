@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>登录成功</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <account>18516280768</account>
+        <pwd>5vet04B51lo=</pwd>
+    </test>
+
+</data>
+

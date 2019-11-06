@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>新增/编辑课程包</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <custom_directory_id>2158725</custom_directory_id>
+        <custom_system_id>36344</custom_system_id>
+        <share_type>school</share_type>
+        <title>多资源</title>
+        <resource_ids>1808267,1,ppt</resource_ids>
+    </test>
+</data>

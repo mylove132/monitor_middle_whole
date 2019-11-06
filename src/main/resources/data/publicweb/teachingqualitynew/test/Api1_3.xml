@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+    <testcaseName>知识点贡献</testcaseName>
+    <expectedCode>code:0</expectedCode>
+    <caseType>0</caseType>
+    <begin_time>1522771200000</begin_time>
+    <end_time>1522771200000</end_time>
+    <stage>0</stage>
+    <grade>0</grade>
+    <subject>0</subject>
+    <page_size>10</page_size>
+    <page>0</page>
+    <type>1</type>
+    </test>
+
+    <test>
+        <testcaseName>资源贡献</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <begin_time>1522771200000</begin_time>
+        <end_time>1522771200000</end_time>
+        <stage>0</stage>
+        <grade>0</grade>
+        <subject>0</subject>
+        <page_size>10</page_size>
+        <page>0</page>
+        <type>2</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <begin_time></begin_time>
+        <end_time></end_time>
+        <stage></stage>
+        <grade></grade>
+        <subject></subject>
+        <order></order>
+        <sort></sort>
+        <page_size></page_size>
+        <page></page>
+    </exceptionTest>
+
+</data>
+

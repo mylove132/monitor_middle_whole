@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Mall" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+    <!--shenbingbing start-->
+    <test name="address" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.mall.mallh5.address"/>
+        </packages>
+    </test>
+    <test name="user" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.mall.mallh5.user"/>
+        </packages>
+    </test>
+    <test name="order" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.mall.mallh5.order"/>
+        </packages>
+    </test>
+
+    <test name="cart" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.mall.mallh5.cart"/>
+        </packages>
+    </test>
+   <test name="homepage" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.mall.mallh5.homepage"/>
+        </packages>
+    </test>
+    <test name="pay" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.mall.mallh5.pay"/>
+        </packages>
+    </test>
+
+    <!--shenbingbing end-->
+
+</suite>

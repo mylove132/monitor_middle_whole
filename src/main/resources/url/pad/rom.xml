@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api2_1Name>2.1 登录</Api2_1Name>
+    <Api2_1>user/login</Api2_1>
+
+    <Api2_2Name>2.2 注销</Api2_2Name>
+    <Api2_2>user/logout</Api2_2>
+
+    <Api2_3Name>2.3 修改密码</Api2_3Name>
+    <Api2_3>user/modifypwd</Api2_3>
+
+    <Api2_5Name>2.5 自动登录</Api2_5Name>
+    <Api2_5>user/autologin</Api2_5>
+
+    <Api2_7Name>2.7 上传用户头像</Api2_7Name>
+    <Api2_7>user/uploadavatar</Api2_7>
+
+</ApiUrl>

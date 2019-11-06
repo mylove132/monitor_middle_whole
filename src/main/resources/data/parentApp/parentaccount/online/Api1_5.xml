@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>注册失败</testcaseName>
+        <expectedCode>meta.ecode:40000</expectedCode>
+        <caseType>1</caseType>
+        <account>17326850148</account>
+        <pwd>PnLg5UCE1Bk=</pwd>
+        <code>1234</code>
+        <traceno>PnLg5UCE1Bk=</traceno>
+    </exceptionTest>
+
+</data>
+

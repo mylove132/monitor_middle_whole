@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <Api1_1Name>家长app用户名密码登陆</Api1_1Name>
+    <Api1_1>/plusapi/signin</Api1_1>
+
+    <Api1_2Name>家长自动登录</Api1_2Name>
+    <Api1_2>/plusapi/quicklogin</Api1_2>
+
+    <Api1_3Name>家长修改密码</Api1_3Name>
+    <Api1_3>/plusapi/modifypwd</Api1_3>
+
+    <Api1_4Name>发送验证码</Api1_4Name>
+    <Api1_4>/plusapi/sendcode</Api1_4>
+
+    <Api1_5Name>关联学生</Api1_5Name>
+    <Api1_5>/plusapi/bindingall</Api1_5>
+
+    <Api1_6Name>创建和修改学生信息</Api1_6Name>
+    <Api1_6>/plusapi/upstudentaccount</Api1_6>
+
+    <Api1_7Name>获取banner</Api1_7Name>
+    <Api1_7>/plusapi/ad/getBanner</Api1_7>
+
+    <Api1_9Name>学生获取年级</Api1_9Name>
+    <Api1_9>/plusapi/getgradeinfo</Api1_9>
+
+    <Api2_1Name>用户修改个人信息（v2.9.1+）</Api2_1Name>
+    <Api2_1>/plusapi/user/modify</Api2_1>
+
+    <Api2_2Name>用户绑定手机号（v2.9.1 +）</Api2_2Name>
+    <Api2_2>/plusapi/user/bindphone</Api2_2>
+
+    <Api2_3Name>用户解绑手机号（v2.9.1+）</Api2_3Name>
+    <Api2_3>/plusapi/user/unbindphone</Api2_3>
+
+    <Api2_4Name>获取学生信息的 9.5</Api2_4Name>
+    <Api2_4>/plusapi/user/pullStudent</Api2_4>
+
+    <Api2_5Name>扫码关联学生</Api2_5Name>
+    <Api2_5>/plusapi/bindingall</Api2_5>
+
+    <Api2_6Name>扫码获取学生信息</Api2_6Name>
+    <Api2_6>/plusapi/user/pullstudeninfor</Api2_6>
+
+
+
+    <Api5_1Name>退出登录</Api5_1Name>
+    <Api5_1>/plusapi/signout</Api5_1>
+
+</ApiUrl>

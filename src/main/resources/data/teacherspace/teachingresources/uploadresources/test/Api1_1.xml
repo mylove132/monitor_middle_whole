@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>上传题集</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <file_name>test</file_name>
+        <md5>rw_NaVqgDnbO0.pptx</md5>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>上传题集-filename为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <file_name></file_name>
+        <md5>rw_NaVqgDnbO0.pptx</md5>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>上传题集-md5为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <file_name>test</file_name>
+        <md5></md5>
+    </exceptionTest>
+
+</data>

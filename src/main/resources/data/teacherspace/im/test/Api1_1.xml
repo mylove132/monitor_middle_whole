@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取未读消息</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <ids>81951221519,81951221249,81951210585</ids>
+    </test>
+</data>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.3 知识点报告</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>2311</kid>
+        <type>2</type>
+        <ktype>2</ktype>
+        <klevel>3</klevel>
+    </test>
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.3 知识点报告-kid为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1001</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<kid>0</kid>-->
+        <!--<type>2</type>-->
+        <!--<ktype>2</ktype>-->
+        <!--<klevel>3</klevel>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.3 知识点报告-type为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1015</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<kid>2311</kid>-->
+        <!--<type>0</type>-->
+        <!--<ktype>2</ktype>-->
+        <!--<klevel>3</klevel>-->
+    <!--</exceptionTest>-->
+
+
+</data>
+

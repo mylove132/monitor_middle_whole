@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>请求服务器获取小米 TOKEN 接口</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+    </test>
+
+</data>
+

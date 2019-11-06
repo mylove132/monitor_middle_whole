@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>原手机号校验</testcaseName>
+        <expectedCode>code:3005</expectedCode>
+        <caseType>1</caseType>
+        <verify_code>18516280768</verify_code>
+        <trace_no>test</trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>验证手机号-trace_no为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <verify_code>1234</verify_code>
+        <trace_no></trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>验证手机号-verify_code为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <verify_code></verify_code>
+        <trace_no>18516280768</trace_no>
+    </exceptionTest>
+</data>

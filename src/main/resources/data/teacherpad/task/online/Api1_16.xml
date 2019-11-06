@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>批改搜索接口</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <package_desc>3</package_desc>
+        <scene_type>8</scene_type>
+    </test>
+
+
+
+</data>
+

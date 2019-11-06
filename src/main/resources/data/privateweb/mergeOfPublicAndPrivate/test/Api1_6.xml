@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取操作记录--审核记录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <apply_type>0</apply_type>
+        <review_result>0</review_result>
+        <page>1</page>
+        <page_size>10</page_size>
+        <review_time_end>2019-08-30</review_time_end>
+        <review_time_start>2019-02-28</review_time_start>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <apply_type></apply_type>
+        <review_result></review_result>
+        <page></page>
+        <page_size></page_size>
+        <review_time_end></review_time_end>
+        <review_time_start></review_time_start>
+    </exceptionTest>
+
+</data>

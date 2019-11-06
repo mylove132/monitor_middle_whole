@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api1_1Name>1.1 课前预习资源列表</Api1_1Name>
+    <Api1_1>preview/prelist</Api1_1>
+
+    <Api1_2Name>1.2 资源打开上报</Api1_2Name>
+    <Api1_2>preview/resreport</Api1_2>
+
+    <Api1_3Name>1.3 获取课前预习习题</Api1_3Name>
+    <Api1_3>preview/prexe</Api1_3>
+
+    <Api1_4Name>1.4 课前预习提交答案</Api1_4Name>
+    <Api1_4>preview/prsubmit</Api1_4>
+
+    <Api1_5Name>1.5 预习历史列表</Api1_5Name>
+    <Api1_5>preview/prehis</Api1_5>
+
+</ApiUrl>

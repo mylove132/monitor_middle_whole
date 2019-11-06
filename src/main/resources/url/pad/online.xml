@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api1_1Name>1.1获取科目列表</Api1_1Name>
+    <Api1_1>online/sksubjectlist</Api1_1>
+
+    <Api1_2Name>1.2 获取课程列表</Api1_2Name>
+    <Api1_2>online/skres</Api1_2>
+
+    <Api1_3Name>1.3获取上课课程习题接口</Api1_3Name>
+    <Api1_3>online/skgetcont</Api1_3>
+
+    <Api1_4Name>1.4 上课提交答题接口</Api1_4Name>
+    <Api1_4>online/sksbmt</Api1_4>
+
+    <Api1_5Name>1.5 主观题批改接口</Api1_5Name>
+    <Api1_5>online/skcrt</Api1_5>
+
+    <Api1_6Name>1.6 获取课程资源是否可用</Api1_6Name>
+    <Api1_6>online/getresaval</Api1_6>
+
+    <Api1_7Name>1.7 图片上传</Api1_7Name>
+    <Api1_7>online/oluploadfile</Api1_7>
+
+    <Api1_8Name>1.8 软件升级</Api1_8Name>
+    <Api1_8>online/cheolup</Api1_8>
+
+    <Api1_9Name>1.9 新的获取课程列表</Api1_9Name>
+    <Api1_9>online/skcourses/</Api1_9>
+
+    <Api1_10Name>1.10 获取课程资源列表</Api1_10Name>
+    <Api1_10>online/skcres/</Api1_10>
+
+    <Api1_11Name>1.11 获取上课长连接ticket地址接口</Api1_11Name>
+    <Api1_11>online/ticket/</Api1_11>
+
+</ApiUrl>

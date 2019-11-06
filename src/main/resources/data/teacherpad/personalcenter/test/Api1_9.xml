@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>移除账号--学生不存在</testcaseName>
+        <expectedCode>meta.ecode:2000</expectedCode>
+        <caseType>1</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <class_id>32092</class_id>
+        <password>
+            pBDfk0fhbG++q8OzktwVU4+P+nXtT1WtLqAG1fEsdjsWGZj7fQIZrVavgYr5vUNAz2DSwOh/jg+PceDmSpdcCeXzykBiTpJcKEAyIQH4AaT64VIwdckZvopFa1oyd65IF+BDPTjJJ3oAS6DNxKV3/Y/M6WJ1zJxcEj1sxe4EnXQ=
+        </password>
+        <student_id>81951087983</student_id>
+    </exceptionTest>
+
+
+</data>
+

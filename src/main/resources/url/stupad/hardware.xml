@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api1_2Name>2.1魔镜知识点列表接口</Api1_2Name>
+    <Api1_2>magicmirrors/klist</Api1_2>
+
+    <Api1_3Name>3.1观象台知识点列表接口</Api1_3Name>
+    <Api1_3>observatory/klist</Api1_3>
+
+    <!--<Api1_4Name>4.1知识点数据接口</Api1_4Name>-->
+    <!--<Api1_4>autolearning/kreport</Api1_4>-->
+
+    <Api1_5Name>4.2知识点报告页统计个数和正确率</Api1_5Name>
+    <Api1_5>autolearning/caculateres</Api1_5>
+
+    <Api1_6Name>4.3知识点报告页加入魔镜，加入主屏 从主屏移除，我学会了</Api1_6Name>
+    <Api1_6>autolearning/koperation</Api1_6>
+
+    <Api1_7Name>5.1智能推荐数据接口</Api1_7Name>
+    <Api1_7>wealth/smartres</Api1_7>
+
+    <Api1_8Name>5.3末级知识点资源详情接口</Api1_8Name>
+    <Api1_8>wealth/resfilterlist</Api1_8>
+
+    <Api1_9Name>5.4资源数据报告页接口（今日/全部）</Api1_9Name>
+    <Api1_9>wealth/statistics</Api1_9>
+
+    <Api1_10Name>6.1知识点已学会接口</Api1_10Name>
+    <Api1_10>autolearning/learnedrecords</Api1_10>
+</ApiUrl>

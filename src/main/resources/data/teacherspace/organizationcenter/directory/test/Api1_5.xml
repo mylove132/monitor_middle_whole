@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>添加目录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <level>1</level>
+        <system_id>51</system_id>
+        <parent_id>2007096</parent_id>
+        <index>8</index>
+    </test>
+
+</data>

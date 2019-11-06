@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>课程管理-老师是否已经排课</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <end_time>2018-07-27 02:22</end_time>
+        <start_time>2018-07-27 02:21</start_time>
+        <teacher_id>62951260126</teacher_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <end_time></end_time>
+        <start_time></start_time>
+        <teacher_id></teacher_id>
+    </exceptionTest>
+
+</data>
+

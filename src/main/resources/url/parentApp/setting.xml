@@ -1,0 +1,25 @@
+﻿<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<ApiUrl>-->
+<!--<testUrlHeader>http://middleapp.xk12.cn</testUrlHeader>-->
+<!--<onlineUrlHeader>http://jzapp.okjiaoyu.cn</onlineUrlHeader>-->
+
+<!--&lt;!&ndash;&ndash;&gt;-->
+<!--<test-loginUser>18516280768</test-loginUser>-->
+<!--<test-password>PnLg5UCE1Bk=</test-password>-->
+<!--<test-validateCode></test-validateCode>-->
+<!--<test-password_new>2838bae836e82ddedc81bdccc29e75c6</test-password_new>-->
+
+<!--<online-loginUser>18516280768</online-loginUser>-->
+<!--<online-password>5vet04B51lo=</online-password>-->
+<!--<online-validateCode></online-validateCode>-->
+<!--<online-password_new>2838bae836e82ddedc81bdccc29e75c6</online-password_new>-->
+
+<!--&lt;!&ndash;<mailReceivers>chaozhe@okjiaoyu.cn</mailReceivers>&ndash;&gt;-->
+<!--<mailReceivers>okayqa@okjiaoyu.cn;okjiazhang@okjiaoyu.cn;java@okjiaoyu.cn;op@okjiaoyu.cn</mailReceivers>-->
+<!--&lt;!&ndash;<mailReceivers>shenzhenhua@okjiaoyu.cn</mailReceivers>&ndash;&gt;-->
+
+
+<!--<errorlogPath-linux>/xdfapp/logs/middle_monitors/online/error.log</errorlogPath-linux>-->
+<!--<errorlogPath-windows>E:\\xdfapp\\logs\\middle_monitors\\online\\errorlog.log</errorlogPath-windows>-->
+
+<!--</ApiUrl>-->

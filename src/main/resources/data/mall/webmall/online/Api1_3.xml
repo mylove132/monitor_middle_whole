@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>修改购物车数量</testcaseName>
+        <expectedCode>status:37101</expectedCode>
+        <caseType>1</caseType>
+        <c>Cart</c>
+        <a>changeOkayMallCartGoodsNum</a>
+        <m>OkayMall</m>
+        <num>1</num>
+        <ischk>1</ischk>
+    </exceptionTest>
+
+</data>
+

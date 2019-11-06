@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!-- <test>
+         <testcaseName>1.4 课前预习提交答案</testcaseName>
+        &lt;!&ndash;期限内，是24311&ndash;&gt;
+         <expectedCode>meta.ecode:0</expectedCode>
+         <caseType>1</caseType>
+         <uid>newest</uid>
+         <token>newest</token>
+         <workid>2</workid>
+         <duration>125000</duration>
+         <qid1>1410621</qid1>
+         &lt;!&ndash;<qid2>1410616</qid2>&ndash;&gt;
+     </test>-->
+
+    <exceptionTest>
+        <testcaseName>1.4 课前预习提交答案-workid为空</testcaseName>
+        <!--期限内，是24311-->
+        <expectedCode>meta.ecode:1228</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>0</workid>
+        <duration>125000</duration>
+        <qid1>1410621</qid1>
+        <!--<qid2>1410616</qid2>-->
+    </exceptionTest>
+
+</data>
+

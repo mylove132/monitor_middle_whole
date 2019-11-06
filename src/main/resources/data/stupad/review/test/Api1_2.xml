@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1.2 作业获取习题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>3</workid>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.2 作业获取习题-workid为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>0</workid>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>错题没有找到</testcaseName>-->
+    <!--<expectedCode>meta.ecode:22308</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<qid>1404637</qid>-->
+    <!--</exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <qid>1404637</qid>
+    </exceptionTest>
+
+</data>
+

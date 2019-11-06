@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取某场景下所有未读消息数-deep_learning</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <scene>deep_learning</scene>
+    </test>
+    <test>
+        <testcaseName>获取某场景下所有未读消息数-im</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <scene>im</scene>
+    </test>
+</data>

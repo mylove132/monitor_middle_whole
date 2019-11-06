@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Mallh5_loginName>家长APP登录-商城手机H5-smart-mall-server</Mallh5_loginName>
+    <Mallh5_login>/plusapi/signin</Mallh5_login>
+
+    <Api1_1Name>购物车:全选、反选</Api1_1Name>
+    <Api1_1>/api/v1/carts/handle</Api1_1>
+
+    <Api1_2Name>购物车:删除购物车商品</Api1_2Name>
+    <Api1_2>/api/v1/carts/handle</Api1_2>
+
+    <Api1_3Name>购物车:更新商品数量</Api1_3Name>
+    <Api1_3>/api/v1/carts/handle</Api1_3>
+
+    <Api1_4Name>购物车:购物车列表</Api1_4Name>
+    <Api1_4>/api/v1/carts/list</Api1_4>
+
+    <Api1_5Name>购物车:购物车校验</Api1_5Name>
+    <Api1_5>/api/v1/carts/handle</Api1_5>
+
+    <Api1_6Name>购物车记录删除</Api1_6Name>
+    <Api1_6>/api/v1/carts/handle</Api1_6>
+
+    <Api1_7Name>选中状态更新</Api1_7Name>
+    <Api1_7>/api/v1/carts/handle</Api1_7>
+</ApiUrl>

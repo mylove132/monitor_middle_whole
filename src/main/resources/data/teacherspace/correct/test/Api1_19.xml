@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>一键智能批改</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <link_id>1241744</link_id>
+        <publish_id>655179</publish_id>
+        <question_id>431266</question_id>
+        <student_id>81951189153</student_id>
+        <type>6</type>
+    </test>
+    <exceptionTest>
+        <testcaseName>一键智能批改</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>0</caseType>
+        <link_id>1241744</link_id>
+        <publish_id>655179</publish_id>
+        <question_id>431266</question_id>
+        <student_id>81951189153</student_id>
+        <type>6</type>
+    </exceptionTest>
+</data>

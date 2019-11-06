@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Mallh5_loginName>家长APP登录-商城手机H5-smart-mall-server</Mallh5_loginName>
+    <Mallh5_login>/plusapi/signin</Mallh5_login>
+
+    <Api1_1Name>IOS支付验证</Api1_1Name>
+    <Api1_1>/api/v1/pay/applePay</Api1_1>
+
+    <Api1_2Name>IOS生成订单</Api1_2Name>
+    <Api1_2>/api/v1/order/iosOrderSubmit</Api1_2>
+
+    <Api1_3Name>IOS获取productId</Api1_3Name>
+    <Api1_3>/api/v1/order/iosGetProduct</Api1_3>
+
+    <Api1_4Name>获取支付URL</Api1_4Name>
+    <Api1_4>/api/v1/pay/getPayUrl/26578/5/3</Api1_4>
+
+    <Api1_5Name>获取支付方式列表</Api1_5Name>
+    <Api1_5>/api/v1/pay/getPayList/app</Api1_5>
+
+</ApiUrl>

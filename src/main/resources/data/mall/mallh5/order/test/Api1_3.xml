@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>提交订单</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <isCarts>0</isCarts>
+        <goodsId>105</goodsId>
+        <goodsCnt>1</goodsCnt>
+        <addressId>29</addressId>
+        <remark>备注</remark>
+    </test>
+   <!-- <exceptionTest>
+        <testcaseName>商品已下架</testcaseName>
+        <expectedCode>meta.code:900303</expectedCode>
+        <caseType>0</caseType>
+        <isCarts>0</isCarts>
+        <goodsId>51</goodsId>
+        <goodsCnt>1</goodsCnt>
+        <addressId>37</addressId>
+        <remark>备注</remark>
+    </exceptionTest>-->
+</data>

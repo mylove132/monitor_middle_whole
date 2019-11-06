@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.37[自主学习]-- 查询资源是否停用</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <iccid>isFake</iccid>
+        <resId>1900261</resId>
+        <resType>3</resType>
+    </test>
+
+</data>
+

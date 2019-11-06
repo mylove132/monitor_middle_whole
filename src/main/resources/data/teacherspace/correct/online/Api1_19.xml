@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>一键智能批改</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <link_id>1228635</link_id>
+        <publish_id>650191</publish_id>
+        <question_id>429445</question_id>
+        <student_id>82951051120</student_id>
+        <type>8</type>
+    </test>
+</data>
+

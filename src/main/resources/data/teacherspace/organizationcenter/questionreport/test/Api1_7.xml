@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--<test>-->
+    <!--<testcaseName>获取单题的习题报告</testcaseName>-->
+    <!--<expectedCode>0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<history_id>12</history_id>-->
+    <!--<question_id>1408494</question_id>-->
+    <!--<type>1</type>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>获取单题的习题报告-历史id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id></history_id>
+        <question_id>1408494</question_id>
+        <type>1</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取单题的习题报告-历史id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <history_id>X</history_id>
+        <question_id>1408494</question_id>
+        <type>1</type>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>获取单题的习题报告-问题id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id>623</history_id>
+        <question_id></question_id>
+        <type>1</type>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>获取单题的习题报告-问题id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <history_id>623</history_id>
+        <question_id>X</question_id>
+        <type>1</type>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>获取单题的习题报告-type为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id>623</history_id>
+        <question_id>1408494</question_id>
+        <type></type>
+    </exceptionTest>
+
+    <!--<test>-->
+    <!--<testcaseName>获取单题的习题报告-type错误</testcaseName>-->
+    <!--<expectedCode>3996</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<history_id>623</history_id>-->
+    <!--<question_id>1408494</question_id>-->
+    <!--<type>10</type>-->
+    <!--</test>-->
+
+
+</data>
+

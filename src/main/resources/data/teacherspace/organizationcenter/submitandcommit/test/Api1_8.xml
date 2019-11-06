@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>批注</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <collection_id>2047</collection_id>
+        <type>4</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951053316</student_id>
+        <question_id>2437135</question_id>
+        <struct_id>3</struct_id>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+        <answer>
+            %7B%22posttl_svg%22:%5B%22%3C?xml%20version=%5C%221.0%5C%22%20encoding=%5C%22UTF-8%5C%22?%3E%3C!DOCTYPE%20svg%20PUBLIC%20%5C%22-//W3C//DTD%20SVG%201.1//EN%5C%22%20%5C%22http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%5C%22%3E%3Csvg%20version=%5C%221.2%5C%22%20xmlns=%5C%22http://www.w3.org/2000/svg%5C%22%20xmlns:xlink=%5C%22http://www.w3.org/1999/xlink%5C%22%20xml:space=%5C%22preserve%5C%22%20viewBox=%5C%220%200%20850%20613.428%5C%22%3E%3Cdesc%3ECreated%20with%20Snap%3C/desc%3E%3Cdefs%3E%3C/defs%3E%3Cg%20data-id=%5C%22pen%5C%22%3E%3Cpath%20d=%5C%22M329%20186L331%20188M331%20188L333%20188M333%20188L342%20188M342%20188L359%20188M359%20188L377%20189M377%20189L394%20190M394%20190L416%20196M416%20196L435%20202M435%20202L451%20209M451%20209L465%20219M465%20219L474%20229M474%20229L482%20245M482%20245L488%20259M488%20259L491%20275M491%20275L492%20290M492%20290L492%20300M492%20300L492%20307M492%20307L484%20312M484%20312L471%20316M471%20316L450%20318M450%20318L426%20318M426%20318L401%20315M401%20315L383%20309M383%20309L367%20295M367%20295L356%20273M356%20273L350%20236M350%20236L350%20202M350%20202L353%20177M353%20177L365%20159M365%20159L386%20147M386%20147L428%20159M428%20159L475%20207M475%20207L499%20247M499%20247L516%20281M516%20281L526%20305M526%20305L532%20328M532%20328L533%20342M533%20342L533%20348M533%20348L531%20351M531%20351L527%20352M527%20352L523%20351M523%20351L520%20347%5C%22%20fill=%5C%22none%5C%22%20stroke=%5C%22#ff0000%5C%22%20stroke-width=%5C%222%5C%22%3E%3C/path%3E%3C/g%3E%3C/svg%3E%22,%22%3C?xml%20version=%5C%221.0%5C%22%20encoding=%5C%22UTF-8%5C%22?%3E%3C!DOCTYPE%20svg%20PUBLIC%20%5C%22-//W3C//DTD%20SVG%201.1//EN%5C%22%20%5C%22http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%5C%22%3E%3Csvg%20version=%5C%221.2%5C%22%20xmlns=%5C%22http://www.w3.org/2000/svg%5C%22%20xmlns:xlink=%5C%22http://www.w3.org/1999/xlink%5C%22%20xml:space=%5C%22preserve%5C%22%20viewBox=%5C%220%200%20850%20613.428%5C%22%3E%3C/svg%3E%22,%22%3C?xml%20version=%5C%221.0%5C%22%20encoding=%5C%22UTF-8%5C%22?%3E%3C!DOCTYPE%20svg%20PUBLIC%20%5C%22-//W3C//DTD%20SVG%201.1//EN%5C%22%20%5C%22http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%5C%22%3E%3Csvg%20version=%5C%221.2%5C%22%20xmlns=%5C%22http://www.w3.org/2000/svg%5C%22%20xmlns:xlink=%5C%22http://www.w3.org/1999/xlink%5C%22%20xml:space=%5C%22preserve%5C%22%20viewBox=%5C%220%200%20850%20613.428%5C%22%3E%3C/svg%3E%22,%22%3C?xml%20version=%5C%221.0%5C%22%20encoding=%5C%22UTF-8%5C%22?%3E%3C!DOCTYPE%20svg%20PUBLIC%20%5C%22-//W3C//DTD%20SVG%201.1//EN%5C%22%20%5C%22http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%5C%22%3E%3Csvg%20version=%5C%221.2%5C%22%20xmlns=%5C%22http://www.w3.org/2000/svg%5C%22%20xmlns:xlink=%5C%22http://www.w3.org/1999/xlink%5C%22%20xml:space=%5C%22preserve%5C%22%20viewBox=%5C%220%200%20850%20613.428%5C%22%3E%3C/svg%3E%22%5D,%22posttl_url%22:%5B%22http://ap.okjiaoyu.cn/ap_FkmLBbXs6A.okpng%22,%22http://ap.okjiaoyu.cn/ap_FkmLBAW9yg.okpng%22,%22http://ap.okjiaoyu.cn/ap_FkmLCXOdry.okpng%22,%22http://ap.okjiaoyu.cn/ap_FkmLDoM6NG.okpng%22%5D%7D
+        </answer>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>批注-type错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>2</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批注-发布id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批注-学生id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id></student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批注-题目id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id></question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批注-structid错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id></struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批注-answer错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer></answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>批注-资源id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id></resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批注-linkid错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id></link_id>
+    </exceptionTest>
+
+</data>
+

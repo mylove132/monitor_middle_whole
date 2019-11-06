@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>商品中心-查看会员操作记录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <vip_type_id>30</vip_type_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <vip_type_id></vip_type_id>
+    </exceptionTest>
+
+</data>
+

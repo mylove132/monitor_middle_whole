@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>导航栏中获取单题的数量</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <subject_id>6</subject_id>
+        <org_id>135</org_id>
+        <org_type>2</org_type>
+        <query_type>1</query_type>
+    </test>
+</data>

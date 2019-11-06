@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>结算页商品信息</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileCart</c>
+        <a>orderPrepare</a>
+        <arr></arr>
+    </test>
+
+</data>
+

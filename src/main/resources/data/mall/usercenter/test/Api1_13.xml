@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取短信验证码</testcaseName>
+        <expectedCode>result:true</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileUsers</c>
+        <a>getPhoneVerifyCode</a>
+        <userPhone>18810569168</userPhone>
+    </test>
+
+</data>
+

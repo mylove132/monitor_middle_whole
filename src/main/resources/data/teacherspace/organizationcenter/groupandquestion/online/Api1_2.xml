@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除题目</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id></id>
+    </exceptionTest>
+
+</data>

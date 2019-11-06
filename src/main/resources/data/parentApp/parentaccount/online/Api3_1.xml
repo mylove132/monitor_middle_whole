@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>添加（学生）帐号失败</testcaseName>
+        <expectedCode>meta.ecode:40000</expectedCode>
+        <caseType>1</caseType>
+        <studentid>1234</studentid>
+        <studentpwd>PnLg5UCE1Bk=</studentpwd>
+    </exceptionTest>
+
+</data>
+

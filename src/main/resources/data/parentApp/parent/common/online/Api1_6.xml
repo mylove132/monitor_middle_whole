@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>微课点击上报</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+     <duration>1</duration>
+        <kid>5630</kid>
+        <klevel>2</klevel>
+        <ktype>1</ktype>
+        <micduation>271027</micduation>
+        <refereeid>62951262286</refereeid>
+        <resid>2404158</resid>
+        <restype>3</restype>
+        <scene>4</scene>
+        <sid>19</sid>
+      <stayduration>1</stayduration>
+        <type>13</type>
+    </test>
+</data>
+

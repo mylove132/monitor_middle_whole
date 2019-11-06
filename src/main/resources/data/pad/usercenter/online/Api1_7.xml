@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>成功上传头像</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <purpose>1</purpose>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <purpose>1</purpose>
+    </exceptionTest>
+</data>
+

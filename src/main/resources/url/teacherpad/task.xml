@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Teacherpad_LoginName>教师pd登录</Teacherpad_LoginName>
+    <Teacherpad_Login>/api/t_pad/user/login/</Teacherpad_Login>
+
+    <Api1_1Name>按学生获取题集报告</Api1_1Name>
+    <Api1_1>/api/t_pad/report/student_by_quesionReport</Api1_1>
+
+    <Api1_2Name>获取当前任务资源列表</Api1_2Name>
+    <Api1_2>/api/t_pad/task/publish_resource_detail</Api1_2>
+
+    <Api1_3Name>按题获取当前学生报告</Api1_3Name>
+    <Api1_3>/api/t_pad/report/quesion_by_studentReport</Api1_3>
+
+    <Api1_4Name>提交批改数据</Api1_4Name>
+    <Api1_4>/api/t_pad/rectify/submit</Api1_4>
+
+    <Api1_5Name>查看总体详情</Api1_5Name>
+    <Api1_5>/api/t_pad/report/all_detail</Api1_5>
+
+    <Api1_6Name>查询已发布的任务</Api1_6Name>
+    <Api1_6>/api/t_pad/task/publish_list</Api1_6>
+
+    <!--<Api1_7Name>检查是否支持智能批改</Api1_7Name>-->
+    <!--<Api1_7>/api/t_pad/rectify/check_ai_status</Api1_7>-->
+
+    <Api1_8Name>获取作答情况</Api1_8Name>
+    <Api1_8>/api/t_pad/rectify/quizset_quiz_or_student</Api1_8>
+
+    <Api1_9Name>获取当前资源使用情况</Api1_9Name>
+    <Api1_9>/api/t_pad/resource/study</Api1_9>
+
+    <Api1_10Name>获取当前资源的详情</Api1_10Name>
+    <Api1_10>/api/t_pad/resource/detail</Api1_10>
+
+    <Api1_11Name>获取当前资源的详情</Api1_11Name>
+    <Api1_11>/api/t_pad/resource/res_definition</Api1_11>
+
+    <Api1_12Name>习题/课件_资源详情接口</Api1_12Name>
+    <Api1_12>/api/t_pad/resource/res_detail</Api1_12>
+
+    <Api1_13Name>删除接口</Api1_13Name>
+    <Api1_13>/api/t_pad/resource/res_delete</Api1_13>
+
+    <!--<Api1_14Name>课程包删除接口</Api1_14Name>-->
+    <!--<Api1_14>/api/t_pad/resource/course_pkg_delete</Api1_14>-->
+
+    <Api1_15Name>获取课程包详情接口</Api1_15Name>
+    <Api1_15>/api/t_pad/resource/course_pkg_detail</Api1_15>
+
+    <Api1_16Name>批改搜索接口</Api1_16Name>
+    <Api1_16>/api/t_pad/task/publish_list_packageDesc</Api1_16>
+</ApiUrl>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>转移资源并删除目录</testcaseName>
+        <expectedCode>code:60054</expectedCode>
+        <caseType>0</caseType>
+        <delete_id>3129946</delete_id>
+        <res_to_id>3129945</res_to_id>
+    </test>
+
+</data>

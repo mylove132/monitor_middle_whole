@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>更新商品数量</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <cartId>1</cartId>
+        <checked>1</checked>
+        <goodsCnt>1</goodsCnt>
+        <goodsId>1</goodsId>
+        <handle>changeNum</handle>
+    </test>
+</data>

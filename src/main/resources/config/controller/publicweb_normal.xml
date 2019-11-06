@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="PublicWeb" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="classportal" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.publicweb.classportal"/>
+        </packages>
+    </test>
+
+    <test name="reconstructingSchool" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.publicweb.reconstructingSchool"/>
+        </packages>
+    </test>
+
+    <test name="resourceLibrary" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.publicweb.resourceLibrary"/>
+        </packages>
+    </test>
+
+    <test name="teachingquality" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="o kjiaoyu.qa.middle.auto.testcase.publicweb.teachingquality"/>
+        </packages>
+    </test>
+
+    <test name="teachingqualitynew" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.publicweb.teachingqualitynew"/>
+        </packages>
+    </test>
+
+
+    <test name="teachingreport" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.publicweb.teachingreport"/>
+        </packages>
+    </test>
+
+
+    <test name="teachingresource" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.publicweb.teachingresource"/>
+        </packages>
+    </test>
+
+</suite>

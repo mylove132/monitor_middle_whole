@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>1.16 重置密码-验证码不正确</testcaseName>
+        <expectedCode>meta.ecode:1099</expectedCode>
+        <caseType>1</caseType>
+        <uname>81951055741</uname>
+        <pwd>newest</pwd>
+        <verifycode>1234</verifycode>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.16 重置密码-验证码为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uname>81951055741</uname>
+        <pwd>newest</pwd>
+        <verifycode></verifycode>
+    </exceptionTest>
+</data>
+

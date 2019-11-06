@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功按知识点刷题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <flag>1</flag>
+        <id>244</id>
+        <level>2</level>
+        <name>zxz</name>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <flag>2</flag>
+        <id>244</id>
+        <level>1</level>
+        <name>zxz</name>
+    </exceptionTest>
+
+</data>
+

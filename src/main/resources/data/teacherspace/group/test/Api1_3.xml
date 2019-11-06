@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>学生切换小组</testcaseName>
+        <expectedCode>code:70006</expectedCode>
+        <caseType>1</caseType>
+        <group_id>36</group_id>
+        <old_group_id>37</old_group_id>
+        <student_id>81110318</student_id>
+    </exceptionTest>
+</data>

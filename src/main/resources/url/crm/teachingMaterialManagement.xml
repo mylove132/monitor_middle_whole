@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Crm_LoginName>crm后台登录</Crm_LoginName>
+    <Crm_Login>/login</Crm_Login>
+
+    <!--<Crm_LoginOutName>crm后台退出</Crm_LoginOutName>-->
+    <!--<Crm_LoginOut>/logout</Crm_LoginOut>-->
+
+    <Api1_1Name>教材版本管理--获取包含的知识点</Api1_1Name>
+    <Api1_1>/tmaterial/chosen_topic</Api1_1>
+
+    <Api1_2Name>教材版本管理--获取操作记录</Api1_2Name>
+    <Api1_2>/tmaterial/operation_log</Api1_2>
+
+    <Api1_3Name>教材版本管理--获取教材版本</Api1_3Name>
+    <Api1_3>/tmaterial/list_all_version</Api1_3>
+
+    <Api1_4Name>教材版本管理--获取知识点主题</Api1_4Name>
+    <Api1_4>/tmaterial/list_chapter_topic</Api1_4>
+
+    <Api1_5Name>教材版本管理--获取知识点模块</Api1_5Name>
+    <Api1_5>/tmaterial/list_chapter_module</Api1_5>
+
+    <Api1_6Name>教材版本管理--获取知识点模块下的单元</Api1_6Name>
+    <Api1_6>/tmaterial/list_chapter_unit</Api1_6>
+
+    <Apil_7Name>教材版本管理--请求学段下学科</Apil_7Name>
+    <Api1_7>/tmaterial/list_subject</Api1_7>
+
+    <Apil_8Name>教材版本管理--获取分册列表</Apil_8Name>
+    <Api1_8>/tmaterial/list_fascicle</Api1_8>
+
+    <Api1_9Name>教材版本管理-获取所有分册</Api1_9Name>
+    <Api1_9>/tmaterial/list_all_fascicle</Api1_9>
+
+    <Api1_10Name>教材版本管理-获取教材版本信息</Api1_10Name>
+    <Api1_10>/tmaterial/get_version</Api1_10>
+
+    <Api1_11Name>教材版本管理-获取教材版本信息</Api1_11Name>
+    <Api1_11>/tmaterial/list_version</Api1_11>
+
+    <Api1_12Name>教材版本管理-获取章节列表</Api1_12Name>
+    <Api1_12>/tmaterial/list_chapter</Api1_12>
+
+    <Api1_13Name>教材版本管理-获取章节列表</Api1_13Name>
+    <Api1_13>/tmaterial/list_chapter</Api1_13>
+</ApiUrl>

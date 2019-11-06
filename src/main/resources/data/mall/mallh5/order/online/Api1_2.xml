@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>我的订单列表查询（type=0）为服务订单</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <page>1</page>
+        <pageSize>2</pageSize>
+        <type>0</type>
+    </test>
+    <test>
+        <testcaseName>我的订单列表查询（type=1）为实物订单</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <page>1</page>
+        <pageSize>2</pageSize>
+        <type>1</type>
+    </test>
+</data>

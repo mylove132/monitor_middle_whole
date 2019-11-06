@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>商品中心--获取会员选项</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <category_id>FWNRLHY3</category_id>
+        <org_id>640</org_id>
+        <org_type>4</org_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <category_id></category_id>
+        <org_id></org_id>
+        <org_type></org_type>
+    </exceptionTest>
+
+</data>
+

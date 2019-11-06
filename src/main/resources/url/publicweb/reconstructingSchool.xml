@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pw_LoginName>学校后台登录</Pw_LoginName>
+    <Pw_Login>/login</Pw_Login>
+
+    <Api1_1Name>获取全部学段学科</Api1_1Name>
+    <Api1_1>/api_courseware/teacher/getstagesubject</Api1_1>
+
+    <Api2_1Name>教师管理-列表接口</Api2_1Name>
+    <Api2_1>/api_courseware/teacher/getlist</Api2_1>
+
+    <Api2_2Name>教师管理-编辑查看老师</Api2_2Name>
+    <Api2_2>/api_courseware/teacher/getdetail</Api2_2>
+
+    <Api2_3Name>教师管理-编辑查看老师</Api2_3Name>
+    <Api2_3>/api_courseware/teacher/resetpassword</Api2_3>
+
+    <Api2_4Name>教师管理-启用停用账号</Api2_4Name>
+    <Api2_4>/api_courseware/teacher/unsetaccount</Api2_4>
+
+    <Api2_5Name>教师管理-共享权限</Api2_5Name>
+    <Api2_5>/api_courseware/teacher/unsetshare</Api2_5>
+</ApiUrl>

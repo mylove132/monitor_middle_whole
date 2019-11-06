@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取习题显示内容</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <collection_id>809409</collection_id>
+        <query_old_quiz>1</query_old_quiz>
+        <type>1</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <collection_id>178849</collection_id>
+        <query_old_quiz>1</query_old_quiz>
+        <type>1</type>
+    </exceptionTest>
+
+
+</data>
+

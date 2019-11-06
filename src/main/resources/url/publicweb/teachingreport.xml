@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pw_LoginName>学校后台登录</Pw_LoginName>
+    <Pw_Login>/login</Pw_Login>
+
+
+    <Api1_2Name>总体情况-列表</Api1_2Name>
+    <Api1_2>/api_courseware/statistics/teaching/allusage</Api1_2>
+
+    <Api1_3Name>教师使用情况-列表</Api1_3Name>
+    <Api1_3>/api_courseware/statistics/teaching/teacherusage</Api1_3>
+
+
+</ApiUrl>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>答案提交失败</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>1</workid>
+        <duration>125000</duration>
+        <qid1>1414338</qid1>
+        <qid2>1410636</qid2>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <workid>1</workid>
+        <duration>125000</duration>
+        <qid1>1414338</qid1>
+        <qid2>1410636</qid2>
+    </exceptionTest>
+
+</data>
+

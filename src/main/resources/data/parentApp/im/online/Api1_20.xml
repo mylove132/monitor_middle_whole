@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取群信息并创建群</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+      <!--  <accounts>0</accounts>-->
+        <keyId>1</keyId>
+        <keyType>1</keyType>
+        <scene>deep_learning</scene>
+        <topicName>test</topicName>
+    </test>
+</data>

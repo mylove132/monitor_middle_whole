@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>注销</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>注销失败</testcaseName>
+        <expectedCode>meta.ecode:2011</expectedCode>
+        <caseType>1</caseType>
+        <token>used</token>
+        <uid>expired</uid>
+    </exceptionTest>
+
+</data>
+

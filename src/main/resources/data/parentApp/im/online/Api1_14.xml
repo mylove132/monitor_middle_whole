@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据联系人ids获取未读消息数-深度学习</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <ids>P-CC000085</ids>
+        <keyId>1</keyId>
+        <keyType>deep_learning</keyType>
+        <scene>deep_learning</scene>
+    </test>
+
+    <test>
+        <testcaseName>根据联系人ids获取未读消息数-im场景</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <ids>P-CC000085</ids>
+        <keyId>1</keyId>
+        <keyType>deep_learning</keyType>
+        <scene>im</scene>
+    </test>
+</data>

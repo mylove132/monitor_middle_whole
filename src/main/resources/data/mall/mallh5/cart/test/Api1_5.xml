@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>购物车校验</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <handle>cartsCheck</handle>
+    </test>
+</data>

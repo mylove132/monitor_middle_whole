@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>微课列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <!-- <child_id>81951196022</child_id>-->
+        <k_id>17803</k_id>
+        <page>1</page>
+        <role>0</role>
+    </test>
+</data>

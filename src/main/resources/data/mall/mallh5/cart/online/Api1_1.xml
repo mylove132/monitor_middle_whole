@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>全选</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <handle>checked</handle>
+        <checkedAll>1</checkedAll>
+        <checked>1</checked>
+    </test>
+    <test>
+        <testcaseName>反选</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <handle>checked</handle>
+        <checkedAll>1</checkedAll>
+        <checked>0</checked>
+    </test>
+</data>

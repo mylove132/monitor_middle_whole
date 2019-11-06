@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>取消订单</testcaseName>
+        <expectedCode>status:37302</expectedCode>
+        <caseType>1</caseType>
+        <c>Orders</c>
+        <a>okayMallOrderCancel</a>
+        <m>OkayMall</m>
+        <orderId>256</orderId>
+        <orderStatus>2</orderStatus>
+    </exceptionTest>
+
+</data>
+

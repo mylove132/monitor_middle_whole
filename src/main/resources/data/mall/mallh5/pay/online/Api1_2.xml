@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>IOS生成订单</testcaseName>
+        <expectedCode>meta.code:170102</expectedCode>
+        <caseType>0</caseType>
+        <goodsId></goodsId>
+        <role>0</role>
+    </exceptionTest>
+</data>

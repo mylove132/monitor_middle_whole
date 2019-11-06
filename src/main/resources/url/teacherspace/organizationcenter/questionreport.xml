@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 查询题集中的题目的正确率</Api1_1Name>
+    <Api1_1>quizcenter/report_quizset_statics</Api1_1>
+
+    <Api1_2Name>1.2 按学生获取习题报告</Api1_2Name>
+    <Api1_2>quizcenter/report_student</Api1_2>
+
+    <Api1_3Name>1.3 获取某个学生的测评报告详情</Api1_3Name>
+    <Api1_3>quizcenter/report_student_detail</Api1_3>
+
+    <Api1_4Name>1.4 根发布的作业，查看某个学生的习题报告</Api1_4Name>
+    <Api1_4>quizcenter/report_students_question</Api1_4>
+
+    <Api1_5Name>1.5 根据发布的作业，获取学生列表</Api1_5Name>
+    <Api1_5>quizcenter/quizset_history_students</Api1_5>
+
+    <Api1_6Name>1.6 提交批改信息</Api1_6Name>
+    <Api1_6>quizcenter/quiz_correction</Api1_6>
+
+    <Api1_7Name>1.7 获取单题的习题报告</Api1_7Name>
+    <Api1_7>quizcenter/report_quiz</Api1_7>
+
+</ApiUrl>

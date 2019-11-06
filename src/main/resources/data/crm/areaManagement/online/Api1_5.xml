@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>区域管理-获取区域列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>79</id>
+        <type>3</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <id></id>
+        <type></type>
+    </exceptionTest>
+
+
+
+</data>
+

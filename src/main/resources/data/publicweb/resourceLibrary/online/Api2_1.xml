@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>自建体系-列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <stage_id>1</stage_id>
+        <subject_id>3</subject_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <stage_id></stage_id>
+        <subject_id></subject_id>
+    </exceptionTest>
+
+</data>
+

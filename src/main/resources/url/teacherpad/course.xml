@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Teacherpad_LoginName>教师pd登录</Teacherpad_LoginName>
+    <Teacherpad_Login>/api/t_pad/user/login/</Teacherpad_Login>
+
+    <Api1_2Name>查询已发布课程</Api1_2Name>
+    <Api1_2>/api/t_pad/res_package/pkg_list_pub</Api1_2>
+
+    <Api1_3Name>上课</Api1_3Name>
+    <Api1_3>/api/t_pad/classroom/course_start</Api1_3>
+
+    <Api1_4Name>下课</Api1_4Name>
+    <Api1_4>/api/t_pad/classroom/course_close</Api1_4>
+
+    <Api1_5Name>开放资源给学生</Api1_5Name>
+    <Api1_5>/api/t_pad/classroom/course_unlock</Api1_5>
+
+    <Api1_6Name>获取Socket连接Token</Api1_6Name>
+    <Api1_6>/api/t_pad/classroom/socket_config_detail</Api1_6>
+
+    <Api1_7Name>获取习题显示内容</Api1_7Name>
+    <Api1_7>/api/t_pad/classroom/quizset_detail</Api1_7>
+
+    <Api1_8Name>获取习题的学生作答详情</Api1_8Name>
+    <Api1_8>/api/t_pad/classroom/quiz_answer_list</Api1_8>
+
+    <Api1_9Name>获取资源列表</Api1_9Name>
+    <Api1_9>/api/t_pad/classroom/course_detail</Api1_9>
+
+
+    <Api1_10Name>获取向pad透传数据</Api1_10Name>
+    <Api1_10>/api/t_pad/classroom/to_spad</Api1_10>
+
+    <Api1_11Name>获取学生列表</Api1_11Name>
+    <Api1_11>/api/t_pad/classroom/class_students</Api1_11>
+
+    <Api1_12Name>获取教师班级</Api1_12Name>
+    <Api1_12>/api/t_pad/user/class_list</Api1_12>
+
+    <Api1_13Name>随堂习题报告</Api1_13Name>
+    <Api1_13>/api/t_pad/res_package/quizset_report</Api1_13>
+
+    <Api1_14Name>获取当前班级正在上课的列表</Api1_14Name>
+    <Api1_14>/api/t_pad/classroom/in_calss_list</Api1_14>
+
+</ApiUrl>

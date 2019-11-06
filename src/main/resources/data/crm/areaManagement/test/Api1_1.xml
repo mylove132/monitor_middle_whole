@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>区域管理-根据学校类型获取对应的主管方</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>80</id>
+        <org_type>4</org_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <id></id>
+        <org_type></org_type>
+    </exceptionTest>
+
+</data>
+

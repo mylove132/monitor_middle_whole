@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="PlatformResource" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="resource" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.platformresource.login"/>
+        </packages>
+    </test>
+
+
+</suite>

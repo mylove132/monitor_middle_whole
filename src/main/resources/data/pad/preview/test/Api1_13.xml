@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>预习章节获取资源列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <cid>7760</cid>
+        <restype>4</restype>
+        <cpage>1</cpage>
+        <psize>1</psize>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <cid>3</cid>
+        <restype>4</restype>
+        <cpage>1</cpage>
+        <psize>1</psize>
+    </exceptionTest>
+
+</data>
+

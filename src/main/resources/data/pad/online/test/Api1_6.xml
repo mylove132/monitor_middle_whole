@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功获取课程资源是否可用</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <resourceid>6248</resourceid>
+        <classid>2058</classid>
+        <courseid>19363</courseid>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <resourceid>6248</resourceid>
+        <classid>2058</classid>
+        <courseid>19363</courseid>
+    </exceptionTest>
+
+</data>
+

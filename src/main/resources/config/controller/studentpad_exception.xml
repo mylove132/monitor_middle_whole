@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MySuite" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="homework" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.homework"/>
+        </packages>
+    </test>
+
+    <test name="evaluate" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.evaluate"/>
+        </packages>
+    </test>
+
+    <test name="review" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.review"/>
+        </packages>
+    </test>
+
+    <test name="wrongbook" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.wrongbook"/>
+        </packages>
+    </test>
+
+    <test name="preview" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.preview"/>
+        </packages>
+    </test>
+
+    <test name="usercenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.usercenter"/>
+        </packages>
+    </test>
+
+    <test name="online" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.online"/>
+        </packages>
+    </test>
+
+    <test name="login" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="okjiaoyu.qa.middle.auto.testcase.pad.rom.Api2_1"/>
+        </classes>
+    </test>
+
+    <test name="logout" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="okjiaoyu.qa.middle.auto.testcase.pad.rom.Api2_2"/>
+        </classes>
+    </test>
+
+    <test name="modifyPwd" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="okjiaoyu.qa.middle.auto.testcase.pad.rom.Api2_3"/>
+        </classes>
+    </test>
+
+    <!--<test name="getUserInfo" preserve-order="true">-->
+    <!--<groups>-->
+    <!--<run>-->
+    <!--<include name="exception"/>-->
+    <!--</run>-->
+    <!--</groups>-->
+    <!--<classes>-->
+    <!--<class name="okjiaoyu.qa.middle.auto.testcase.pad.rom.Api2_5"/>-->
+    <!--</classes>-->
+    <!--</test>-->
+
+    <test name="autoLogin" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="okjiaoyu.qa.middle.auto.testcase.pad.rom.Api2_5"/>
+        </classes>
+    </test>
+
+    <test name="materials" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.materials"/>
+        </packages>
+    </test>
+
+    <test name="workbook" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.workbook"/>
+        </packages>
+    </test>
+
+    <test name="mcourses" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.mcourses"/>
+        </packages>
+    </test>
+
+    <test name="widget" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.widget"/>
+        </packages>
+    </test>
+
+    <test name="common" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.pad.common"/>
+        </packages>
+    </test>
+</suite>

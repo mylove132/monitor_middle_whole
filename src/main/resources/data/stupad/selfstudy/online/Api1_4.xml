@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.4 知识点相关资源</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>531</kid>
+        <klevel>1</klevel>
+        <ktype>1</ktype>
+        <type>2</type>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+        <syncrestype>3</syncrestype>
+    </test>
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.4 知识点相关资源-kid为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1005</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<kid>0</kid>-->
+        <!--<klevel>1</klevel>-->
+        <!--<ktype>1</ktype>-->
+        <!--<type>2</type>-->
+        <!--<pagesize>1</pagesize>-->
+        <!--<currentpage>1</currentpage>-->
+        <!--<syncrestype>3</syncrestype>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.4 知识点相关资源-klevel为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:0</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<kid>531</kid>-->
+        <!--<klevel>1</klevel>-->
+        <!--<ktype>1</ktype>-->
+        <!--<type>2</type>-->
+        <!--<pagesize>1</pagesize>-->
+        <!--<currentpage>1</currentpage>-->
+        <!--<syncrestype>3</syncrestype>-->
+    <!--</exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>1.4 知识点相关资源-ktype为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>531</kid>
+        <klevel>1</klevel>
+        <ktype>0</ktype>
+        <type>2</type>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+        <syncrestype>3</syncrestype>
+    </exceptionTest>
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.4 知识点相关资源-type为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1005</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<kid>531</kid>-->
+        <!--<klevel>1</klevel>-->
+        <!--<ktype>1</ktype>-->
+        <!--<type>0</type>-->
+        <!--<pagesize>1</pagesize>-->
+        <!--<currentpage>1</currentpage>-->
+        <!--<syncrestype>3</syncrestype>-->
+    <!--</exceptionTest>-->
+
+</data>
+

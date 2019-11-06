@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <settings>
+        <setting name="cacheEnabled" value="true"/>
+    </settings>
+
+    <typeAliases>
+        <typeAlias alias="ApkHistory" type="okjiaoyu.qa.persistance.model.ApkHistory"/>
+        <typeAlias alias="EntityTestcase" type="okjiaoyu.qa.persistance.model.EntityTestcase"/>
+        <typeAlias alias="RequestHistory" type="okjiaoyu.qa.persistance.model.RequestHistory"/>
+        <typeAlias alias="EntityInterface" type="okjiaoyu.qa.persistance.model.EntityInterface"/>
+        <typeAlias alias="EntityModule" type="okjiaoyu.qa.persistance.model.EntityModule"/>
+        <typeAlias alias="EntityProject" type="okjiaoyu.qa.persistance.model.EntityProject"/>
+        <typeAlias alias="LinkProjectEnv" type="okjiaoyu.qa.persistance.model.LinkProjectEnv"/>
+        <typeAlias alias="EntityEnv" type="okjiaoyu.qa.persistance.model.EntityEnv"/>
+        <typeAlias alias="TestHistory" type="okjiaoyu.qa.persistance.model.TestHistory"/>
+    </typeAliases>
+
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <!--<dataSource type="POOLED">-->
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <!--<property name="url" value="jdbc:mysql://localhost:3306/okqa_monitor_web_57" />-->
+                <property name="url" value="jdbc:mysql://172.18.4.55:3306/okqa_monitor_web_57"/>
+                <property name="username" value="root"/>
+                <property name="password" value="dsjw2016"/>
+
+                <property name="poolMaximumActiveConnections" value="10"/>
+                <property name="poolTimeToWait" value="5000"/>
+                <property name="poolPingEnabled" value="true"/>
+                <property name="poolPingQuery" value="select 1 from entity_project"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/EntityEnvMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/EntityInterfaceMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/EntityModuleMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/EntityProjectMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/EntityTestcaseMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/LinkProjectEnvMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/RequestHistoryMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/TestHistoryMapper.xml"/>
+        <mapper resource="okjiaoyu/qa/persistance/mapper/ApkHistoryMapper.xml"/>
+    </mappers>
+
+</configuration>

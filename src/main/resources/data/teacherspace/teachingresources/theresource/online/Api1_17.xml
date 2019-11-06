@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取资源操作历史</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <res_id>361584</res_id>
+        <res_type>2</res_type>
+        <page>1</page>
+        <page_size>10</page_size>
+    </test>
+
+</data>

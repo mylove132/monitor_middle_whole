@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>家长账号登录-账号不存在</testcaseName>
+        <expectedCode>meta.ecode:40006</expectedCode>
+        <caseType>0</caseType>
+        <role>0</role>
+        <type>1</type>
+        <account>18011454</account>
+        <pwd>NUjT61hb5CvYcu+Gu9AkUQ==1</pwd>
+    </test>
+</data>
+

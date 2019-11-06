@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>用户活跃度概览</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <code></code>
+        <end></end>
+        <is_pad></is_pad>
+        <org_type>2</org_type>
+        <start></start>
+        <user_code>G-RC000028</user_code>
+        <user_type>3</user_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>各区县活跃度用户对比，未校验必填项</testcaseName>
+        <expectedCode>code:3</expectedCode>
+        <caseType>0</caseType>
+        <code></code>
+        <end></end>
+        <is_pad></is_pad>
+        <org_type></org_type>
+        <start></start>
+        <user_code></user_code>
+        <user_type></user_type>
+    </exceptionTest>
+
+</data>
+

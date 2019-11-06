@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.5 预习历史列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <sid>3</sid>
+        <syid>2015</syid>
+        <cp>1</cp>
+        <ps>1</ps>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.5 预习历史列表-syid为空</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <sid>5</sid>
+        <syid>0</syid>
+        <cp>1</cp>
+        <ps>1</ps>
+    </exceptionTest>
+
+</data>
+

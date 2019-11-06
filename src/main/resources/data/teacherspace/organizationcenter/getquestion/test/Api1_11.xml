@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>我的某个题集</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <collection_id>278545</collection_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>我的某个题集-题集id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <collection_id></collection_id>
+    </exceptionTest>
+
+</data>
+

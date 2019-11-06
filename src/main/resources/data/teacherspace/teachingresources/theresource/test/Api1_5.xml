@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>保存资源包</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>0</caseType>
+        <resource_ids>24582,1,ppt</resource_ids>
+        <title>test</title>
+        <chapter_id>1042306</chapter_id>
+        <chapter_level>3</chapter_level>
+        <directory_id>178</directory_id>
+        <topics></topics>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>保存资源包-资源id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <resource_ids></resource_ids>
+        <title>test</title>
+        <chapter_id>1042306</chapter_id>
+        <chapter_level>3</chapter_level>
+        <directory_id>178</directory_id>
+        <topics></topics>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存资源包-title为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <resource_ids>24582,1,ppt</resource_ids>
+        <title></title>
+        <chapter_id>1042306</chapter_id>
+        <chapter_level>3</chapter_level>
+        <directory_id>178</directory_id>
+        <topics></topics>
+    </exceptionTest>
+
+
+</data>

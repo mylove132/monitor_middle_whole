@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>地址-删除收货地址-不存在的地址删除</testcaseName>
+        <expectedCode>meta.code:700204</expectedCode>
+        <caseType>0</caseType>
+        <addressIdList>[117]</addressIdList>
+    </exceptionTest>
+</data>

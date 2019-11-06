@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取banner</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <type>OKAYPLUS_DOWNLOAD</type>
+        <pagesize>1</pagesize>
+    </test>
+
+   <!-- <test>
+        <testcaseName>获取banner-pagesize不传递</testcaseName>
+        <expectedCode>meta.ecode:900102</expectedCode>
+        <caseType>0</caseType>
+        <type>OKAYPLUS_DOWNLOAD</type>
+    </test>
+
+    <test>
+        <testcaseName>获取banner-type为空</testcaseName>
+        <expectedCode>meta.ecode:900102</expectedCode>
+        <caseType>0</caseType>
+        <type>OKAYPLUS_DOWNLOAD</type>
+        <pagesize>1</pagesize>
+    </test>-->
+    <test>
+        <testcaseName>获取banner-分页查询</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <type>OKAYPLUS_DOWNLOAD</type>
+        <pagesize>2</pagesize>
+    </test>
+</data>
+

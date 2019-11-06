@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>学生档案--运营列表--购买记录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <student_id>82951260671</student_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <student_id></student_id>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1_1添加收藏</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>used</uid>
+        <token>used</token>
+        <rid>5455</rid>
+        <type>1</type>
+        <custom_directory_id>184277</custom_directory_id>
+        <custom_system_id>6229</custom_system_id>
+    </test>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>通道错误，不能查询APP升级</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1001</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<app>com.okay.t_classroom</app>-->
+    <!--<vcode>11000</vcode>-->
+    <!--<orgtype>2</orgtype>-->
+    <!--<sid>80</sid>-->
+    <!--<sidlist>80</sidlist>-->
+    <!--<channel>t</channel>-->
+    <!--</exceptionTest>-->
+
+</data>
+

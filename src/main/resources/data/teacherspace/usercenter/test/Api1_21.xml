@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>我的习题列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <index>0</index>
+        <page_size>10</page_size>
+        <sort_type>1</sort_type>
+        <custom_directory_id>2563</custom_directory_id>
+        <origin>0</origin>
+    </test>
+</data>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>更新题目</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <status>0</status>
+        <html>{"body":"<p>test</p>","options":["<p>test</p>","<p>test</p>","<p>test</p>","<p>test</p>"],"analysis":"<p>
+            test</p>","answer":["A"],"questions":[]}
+        </html>
+        <id>7675579</id>
+        <level>1</level>
+        <ref>0</ref>
+        <type>1</type>
+        <topic>0</topic>
+        <chapter>9145</chapter>
+        <versionId>19</versionId>
+        <directoryId>178</directoryId>
+        <customDirectoryId>3129910</customDirectoryId>
+        <groupId>101586</groupId>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>更新题目-id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type>4</type>
+        <!--<json>{"body":[{"type":"text","value":"test"}],"options":[[{"type":"option","value":"A"},{"type":"text","value":"test"}],[{"type":"option","value":"B"},{"type":"text","value":"test"}],[{"type":"option","value":"C"},{"type":"text","value":"test"}],[{"type":"option","value":"D"},{"type":"text","value":"特色"}]],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":[{"type":"text","value":"set"}],"questions":[]}</json>-->
+        <html>{"body":"<p>
+            某制衣厂计划完成一批服装的订货任务。若每天完成20套服装，那么就比订货任务少生产100套；若每天生产23套，那么就可以超出订货任务20套。这批服装原计划多少天完成任务？订货任务是多少套服装？</p>","audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["<p>
+            40天完成。900套服装，东冬</p>"],"analysis":"
+            <p>此题利用解方程。设完成天数比较简单。
+                <br/>
+            </p>
+            ","questions":[]}
+        </html>
+        <group>0</group>
+        <topic>1801</topic>
+        <chapter>0</chapter>
+        <ref>0</ref>
+        <level>2</level>
+        <source>testmodify</source>
+        <id></id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>更新题目-type为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type></type>
+        <!--<json>{"body":[{"type":"text","value":"test"}],"options":[[{"type":"option","value":"A"},{"type":"text","value":"test"}],[{"type":"option","value":"B"},{"type":"text","value":"test"}],[{"type":"option","value":"C"},{"type":"text","value":"test"}],[{"type":"option","value":"D"},{"type":"text","value":"特色"}]],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":[{"type":"text","value":"set"}],"questions":[]}</json>-->
+        <html>{"body":"<p>
+            某制衣厂计划完成一批服装的订货任务。若每天完成20套服装，那么就比订货任务少生产100套；若每天生产23套，那么就可以超出订货任务20套。这批服装原计划多少天完成任务？订货任务是多少套服装？</p>","audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["<p>
+            40天完成。900套服装，东冬</p>"],"analysis":"
+            <p>此题利用解方程。设完成天数比较简单。
+                <br/>
+            </p>
+            ","questions":[]}
+        </html>
+        <group>0</group>
+        <topic>1801</topic>
+        <chapter>0</chapter>
+        <ref>0</ref>
+        <level>2</level>
+        <source>testmodify</source>
+        <id>1414338</id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>更新题目-html为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type>4</type>
+        <html></html>
+        <group>0</group>
+        <topic>1801</topic>
+        <chapter>0</chapter>
+        <ref>0</ref>
+        <level>2</level>
+        <source>testmodify</source>
+        <id>1414338</id>
+    </exceptionTest>
+
+</data>
+

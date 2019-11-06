@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取上传的题集详情</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <question_ids>7530290,7530291,7530306,7530300,7530292,7530296,7530295,7530307</question_ids>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取上传的题集详情-questionid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <question_ids></question_ids>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取上传的题集详情-questionid错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <question_ids>X</question_ids>
+    </exceptionTest>
+
+</data>

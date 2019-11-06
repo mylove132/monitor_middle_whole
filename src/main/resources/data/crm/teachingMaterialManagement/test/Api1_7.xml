@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>教材版本管理--请求学段下学科</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <section>2</section>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <section></section>
+    </exceptionTest>
+
+</data>
+

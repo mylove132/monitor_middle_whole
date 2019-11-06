@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>成功获得章节列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>3</id>
+        <flag>1</flag>
+        <bookid>3</bookid>
+    </test>
+
+    <test>
+        <testcaseName>成功获得知识点列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>3</id>
+        <flag>2</flag>
+        <bookid>3</bookid>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <id>3</id>
+        <flag>2</flag>
+        <bookid>3</bookid>
+    </exceptionTest>
+
+</data>
+

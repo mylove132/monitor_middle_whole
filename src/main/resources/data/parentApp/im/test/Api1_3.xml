@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>请求上传图片文件，回传地址（七牛）</testcaseName>
+        <expectedCode>meta.ecode:40001</expectedCode>
+        <caseType>0</caseType>
+        <avatar>C:\Users\lin\Desktop\1.gif.png</avatar>
+    </exceptionTest>
+
+</data>
+

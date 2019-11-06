@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>导航栏中获取题集的数量</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <directory_id>280</directory_id>
+        <org_id>80</org_id>
+        <org_type>2</org_type>
+    </test>
+</data>

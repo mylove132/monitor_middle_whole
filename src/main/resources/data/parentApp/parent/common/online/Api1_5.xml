@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>苹果IAP请求商城生成订单</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <buystatus>1</buystatus>
+        <roletype>0</roletype>
+        <viptype>1</viptype>
+    </test>
+</data>
+

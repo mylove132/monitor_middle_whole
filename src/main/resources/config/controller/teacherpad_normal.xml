@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TeacherPad" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="personalcenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherpad.personalcenter"/>
+        </packages>
+    </test>
+
+    <test name="course" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherpad.course"/>
+        </packages>
+    </test>
+
+    <test name="task" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherpad.task"/>
+        </packages>
+    </test>
+
+    <test name="launcher" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherpad.launcher"/>
+        </packages>
+    </test>
+    <test name="prepare" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherpad.prepare"/>
+        </packages>
+    </test>
+    <test name="application" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherpad.application"/>
+        </packages>
+    </test>
+</suite>

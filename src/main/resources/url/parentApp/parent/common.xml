@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <Api1_1Name>1.1判断学生帐号是否绑定家长</Api1_1Name>
+    <Api1_1>/plusapi/witch/isbind</Api1_1>
+
+    <Api1_2Name>1.2会员-获取30元微课商品ID</Api1_2Name>
+    <Api1_2>/plusapi/product/weike</Api1_2>
+
+    <Api1_3Name>1.3分享H5-微课详情落地页</Api1_3Name>
+    <Api1_3>/plusapi/witch/weikedetail</Api1_3>
+
+    <Api1_4Name>1.4 ios支付-根据订单号查询商品ID</Api1_4Name>
+    <Api1_4>/plusapi/getproducid</Api1_4>
+
+    <Api1_5Name>1.5 ios支付-苹果IAP请求商城生成订单</Api1_5Name>
+    <Api1_5>/plusapi/icreateorder</Api1_5>
+
+    <Api1_6Name>微课点击上报成功</Api1_6Name>
+    <Api1_6>/plusapi/wkdatareport</Api1_6>
+
+    <Api1_7Name>深度学习：1.1深度学习列表</Api1_7Name>
+    <Api1_7>/plusapi/deepstudy/getlist</Api1_7>
+
+    <Api1_8Name>深度学习：1.2用户接受协议授权接口</Api1_8Name>
+    <Api1_8>/plusapi/deepstudy/protocollog</Api1_8>
+
+    <Api1_9Name>深度学习：1.3获取Okay+最新版本协议</Api1_9Name>
+    <Api1_9>/plusapi/agreement/getdata</Api1_9>
+
+    <Api2_1Name>深度学习：1.4获取深度学习服务权限</Api2_1Name>
+    <Api2_1>/plusapi/deepstudy/getserver</Api2_1>
+
+    <Api2_2Name>app应用相关：1.5包下载接口</Api2_2Name>
+    <Api2_2>/plusapi/temore/download</Api2_2>
+
+    <Api2_3Name>banner管理-1.6获取banner</Api2_3Name>
+    <Api2_3>/plusapi/ad/getBannerunuid</Api2_3>
+
+</ApiUrl>

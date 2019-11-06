@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Mallh5_loginName>家长APP登录-商城手机H5-smart-mall-server</Mallh5_loginName>
+    <Mallh5_login>/plusapi/signin</Mallh5_login>
+
+    <Api1_1Name>订单:取消订单</Api1_1Name>
+    <Api1_1>/api/v1/order/cancelOrder</Api1_1>
+
+    <Api1_2Name>订单:我的订单列表</Api1_2Name>
+    <Api1_2>/api/v1/order/list</Api1_2>
+
+    <Api1_3Name>订单:提交订单</Api1_3Name>
+    <Api1_3>/api/v1/order/okayMallOrderSubmit</Api1_3>
+
+    <Api1_4Name>订单:获取支付方式-app</Api1_4Name>
+    <Api1_4>/api/v1/pay/getPayList/app</Api1_4>
+
+    <Api1_5Name>订单:获取支付方式-wap</Api1_5Name>
+    <Api1_5>/api/v1/pay/getPayList/wap</Api1_5>
+
+   <!-- <Api1_6Name>订单:订单提交数据</Api1_6Name>
+    <Api1_6>/api/v1/order/confirm</Api1_6>-->
+
+    <Api1_7Name>订单:订单详情</Api1_7Name>
+    <Api1_7>/api/v1/order/details</Api1_7>
+</ApiUrl>

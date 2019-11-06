@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Teacherpad_LoginName>教师pd登录</Teacherpad_LoginName>
+    <Teacherpad_Login>/api/t_pad/user/login</Teacherpad_Login>
+
+    <Api1_1Name>深度学习入口</Api1_1Name>
+    <Api1_1>/api/t_pad/launcher/deeplearnport</Api1_1>
+
+
+
+</ApiUrl>

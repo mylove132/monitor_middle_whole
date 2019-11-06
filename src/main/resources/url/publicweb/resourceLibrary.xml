@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pw_LoginName>学校后台登录</Pw_LoginName>
+    <Pw_Login>/login</Pw_Login>
+
+
+    <Api1_1Name>资源列表-获取学段</Api1_1Name>
+    <Api1_1>/api_courseware/stage</Api1_1>
+
+    <Api1_2Name>资源库-根据体系类型选择获取对应的目录结构</Api1_2Name>
+    <Api1_2>/api_courseware/resouce/classify</Api1_2>
+
+    <Api1_3Name>资源库-版本列表</Api1_3Name>
+    <Api1_3>/api_courseware/version_list</Api1_3>
+
+    <Api1_4Name>资源库-根据版本id获取年级列表</Api1_4Name>
+    <Api1_4>/api_courseware/directory_list</Api1_4>
+
+    <Api1_5Name>资源库-资源列表</Api1_5Name>
+    <Api1_5>/api_courseware/resource/res_list</Api1_5>
+
+    <Api1_6Name>资源库-资源详情</Api1_6Name>
+    <Api1_6>/api_courseware/resource/preview</Api1_6>
+
+    <Api1_7Name>资源库-资源列表-课程包</Api1_7Name>
+    <Api1_7>/api_courseware/resource/coursePackageDetail</Api1_7>
+
+    <Api2_1Name>自建体系-列表</Api2_1Name>
+    <Api2_1>/api_courseware/classifys</Api2_1>
+
+    <Api2_2Name>自建体系_学科_根据学段获取旗下学科信息</Api2_2Name>
+    <Api2_2>/api_courseware/subjects</Api2_2>
+
+    <Api2_3Name>自建体系_目录结构_获取某体系下的目录结构</Api2_3Name>
+    <Api2_3>/api_courseware/catalogs</Api2_3>
+
+    <Api2_4Name>自建体系_获取某一个体系</Api2_4Name>
+    <Api2_4>/api_courseware/classifys/system/infor</Api2_4>
+
+    <Api2_5Name>自建体系_目录结构_获取父级下的子级集合,必填项未校验</Api2_5Name>
+    <Api2_5>/api_courseware/catalogs/children</Api2_5>
+</ApiUrl>

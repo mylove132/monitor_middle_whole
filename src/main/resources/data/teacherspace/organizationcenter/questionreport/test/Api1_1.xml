@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>查询题集中的题目的正确率</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <history_id>96</history_id>
+        <collection_id>107</collection_id>
+        <type>6</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>查询题集中的题目的正确率-历史id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <collection_id></collection_id>
+        <quizset_id>107</quizset_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>查询题集中的题目的正确率-题集id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id>96</history_id>
+        <collection_id></collection_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>查询题集中的题目的正确率-type超出限定</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id>96</history_id>
+        <collection_id>107</collection_id>
+        <type>3</type>
+    </exceptionTest>
+
+</data>
+

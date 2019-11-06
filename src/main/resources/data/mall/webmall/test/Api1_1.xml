@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>购物车商品数量选中</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <c>Cart</c>
+        <a>changeOkayMallCartGoodListNum</a>
+        <m>OkayMall</m>
+        <goodsId>255</goodsId>
+        <num>1</num>
+        <ischk>1</ischk>
+    </test>
+
+</data>
+

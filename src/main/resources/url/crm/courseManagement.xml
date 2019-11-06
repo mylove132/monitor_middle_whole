@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Crm_LoginName>crm后台登录</Crm_LoginName>
+    <Crm_Login>/login</Crm_Login>
+
+    <!--<Crm_LoginOutName>crm后台退出</Crm_LoginOutName>-->
+    <!--<Crm_LoginOut>/logout</Crm_LoginOut>-->
+
+    <Api1_1Name>课程管理-获取学生详情</Api1_1Name>
+    <Api1_1>/schedule/student_info</Api1_1>
+
+    <Api1_2Name>课程管理-获取机构接口</Api1_2Name>
+    <Api1_2>/schedule/orglist</Api1_2>
+
+    <Api1_3Name>课程管理-待排课学生列表</Api1_3Name>
+    <Api1_3>/schedule/ksu_student_list</Api1_3>
+
+    <Api1_4Name>课程管理-老师是否已排课</Api1_4Name>
+    <Api1_4>/schedule/check_teacher_time</Api1_4>
+
+    <Api1_5Name>课程管理-获取商品列表名称</Api1_5Name>
+    <Api1_5>/schedule/ksu_list</Api1_5>
+
+    <Api1_6Name>课程管理-查看取消排课原因</Api1_6Name>
+    <Api1_6>/schedule/cancel_show</Api1_6>
+
+    <Api1_7Name>课程管理-筛选列表接口</Api1_7Name>
+    <Api1_7>/schedule/lists</Api1_7>
+
+    <Api1_8Name>课程管理-获取课程详情</Api1_8Name>
+    <Api1_8>/schedule/info</Api1_8>
+</ApiUrl>

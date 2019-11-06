@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>提交批改数据</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <link_id>855382</link_id>
+        <publish_id>467869</publish_id>
+        <question_id>4742651</question_id>
+        <scene_type>6</scene_type>
+        <struct_id>3</struct_id>
+        <student_id>81951069213</student_id>
+        <sub_question_id>4742651</sub_question_id>
+        <index></index>
+        <status>1</status>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <link_id>764851</link_id>
+        <publish_id>423947</publish_id>
+        <question_id>4645272</question_id>
+        <scene_type>6</scene_type>
+        <struct_id>4</struct_id>
+        <student_id>81951069213</student_id>
+        <sub_question_id>4645272</sub_question_id>
+        <index></index>
+        <status>1</status>
+    </exceptionTest>
+
+
+</data>
+

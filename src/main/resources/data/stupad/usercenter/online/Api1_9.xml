@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1意见反馈列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <currentpage>1</currentpage>
+    </test>
+
+</data>
+

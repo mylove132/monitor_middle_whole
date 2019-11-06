@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据条件获取我的习题列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <custom_directory_level>1</custom_directory_level>
+        <custom_directory_id>3129909</custom_directory_id>
+        <page>1</page>
+        <custom_system_id>101586</custom_system_id>
+    </test>
+
+    <test>
+        <testcaseName>根据条件获取我的习题列表-默认页面</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <custom_directory_level>1</custom_directory_level>
+        <custom_directory_id>3129909</custom_directory_id>
+        <page></page>
+        <custom_system_id>101586</custom_system_id>
+    </test>
+
+</data>
+

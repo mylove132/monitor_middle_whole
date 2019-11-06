@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>题集或题目id错误</testcaseName>
+        <!--bug,应返回未找到题集-->
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>1219778</workid>
+        <from>3</from>
+        <id>1409105</id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <workid>1219778</workid>
+        <from>3</from>
+        <id>1409105</id>
+    </exceptionTest>
+
+</data>
+

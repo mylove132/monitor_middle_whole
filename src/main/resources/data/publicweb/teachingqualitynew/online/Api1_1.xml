@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>教师资源贡献情况-总体数据情况</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <begin_time>1522771200000</begin_time>
+        <end_time>1522771200000</end_time>
+        <stage>0</stage>
+        <grade>0</grade>
+        <subject>0</subject>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>教师资源贡献情况-总体数据情况,必填项未选</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <begin_time></begin_time>
+        <end_time></end_time>
+        <stage></stage>
+        <grade></grade>
+        <subject></subject>
+    </exceptionTest>
+
+</data>
+

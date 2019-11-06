@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取资源</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>1164647</id>
+        <type>1</type>
+    </test>
+
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>获取资源-type超限</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<id>1164647</id>-->
+    <!--<type>11</type>-->
+    <!--</exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>获取资源-id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id></id>
+        <type>11</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取资源-type为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id>1164647</id>
+        <type></type>
+    </exceptionTest>
+</data>
+

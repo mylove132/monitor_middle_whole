@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.22 [自主学习]--学科学情列表（学情指南新增）-正确率</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <type>0</type>
+    </test>
+
+
+    <test>
+        <testcaseName>1.22 [自主学习]--学科学情列表（学情指南新增）-待消灭错题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <type>1</type>
+    </test>
+</data>
+

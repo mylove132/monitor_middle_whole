@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取学生信息的 9.5</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <studentid>81951367632</studentid>
+    </test>
+    <test>
+        <testcaseName>获取学生信息的 9.5-用户不存在</testcaseName>
+        <expectedCode>meta.ecode:70007</expectedCode>
+        <caseType>0</caseType>
+        <studentid>6547657676</studentid>
+    </test>
+</data>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>提交失败</testcaseName>
+        <!--期限内，是24311-->
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>2</id>
+        <duration>125000</duration>
+        <qid1>1410621</qid1>
+        <qid2>1410616</qid2>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <!--期限内，是24311-->
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <id>2</id>
+        <duration>125000</duration>
+        <qid1>1410621</qid1>
+        <qid2>1410616</qid2>
+    </exceptionTest>
+
+</data>
+

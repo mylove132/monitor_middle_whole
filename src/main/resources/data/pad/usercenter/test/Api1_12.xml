@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>修改教材版本</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <sid>1</sid>
+        <tid>1</tid>
+        <bid>3</bid>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>修改教材版本token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <sid>1</sid>
+        <tid>1</tid>
+        <bid>3</bid>
+    </exceptionTest>
+</data>
+

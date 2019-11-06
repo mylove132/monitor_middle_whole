@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>提交订单</testcaseName>
+        <expectedCode>status:-1</expectedCode>
+        <caseType>0</caseType>
+        <c>Cart</c>
+        <a>okayMallSubmitOrder</a>
+        <m>OkayMall</m>
+        <consigneeId>13611</consigneeId>
+        <invoiceClient>个人</invoiceClient>
+        <needreceipt>1</needreceipt>
+        <payway>0</payway>
+    </exceptionTest>
+
+</data>
+

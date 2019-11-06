@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>创建群信息(beta)-topicName为空</testcaseName>
+        <expectedCode>meta.ecode:-5</expectedCode>
+        <caseType>0</caseType>
+        <!--<accounts>1</accounts>-->
+        <scene>im</scene>
+        <topicName></topicName>
+        <uniqueKey>65476876879879</uniqueKey>
+    </test>
+</data>

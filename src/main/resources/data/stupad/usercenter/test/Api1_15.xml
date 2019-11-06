@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1.15 申请重置密码</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uname>81951055741</uname>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.15 申请重置密码-uname为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uname></uname>
+    </exceptionTest>
+</data>
+

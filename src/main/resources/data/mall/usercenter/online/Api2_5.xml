@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>获取验证码</testcaseName>
+        <expectedCode>msg:手机号格式不正确</expectedCode>
+        <caseType>0</caseType>
+        <c>Users</c>
+        <a>getPhoneVerifyCode</a>
+        <userPhone></userPhone>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>自动登录成功</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <!--<uid>99101788</uid>-->
+        <token>newest</token>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:40003</expectedCode>
+        <caseType>0</caseType>
+        <token>expired</token>
+    </exceptionTest>
+
+</data>
+

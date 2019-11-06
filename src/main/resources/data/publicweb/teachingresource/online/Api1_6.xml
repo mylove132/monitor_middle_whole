@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>自建体系_目录结构_获取父级下的子级集合</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>145</id>
+    </test>
+
+
+    <exceptionTest>
+        <testcaseName>自建体系_目录结构_获取父级下的子级集合,必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <id></id>
+    </exceptionTest>
+</data>
+

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 创建资源</Api1_1Name>
+    <Api1_1>resource/res_create_bat</Api1_1>
+
+    <Api1_2Name>1.2 更新资源</Api1_2Name>
+    <Api1_2>resource/res_update</Api1_2>
+
+    <Api1_3Name>1.3 获取资源</Api1_3Name>
+    <Api1_3>resource/res_info</Api1_3>
+
+    <Api1_4Name>1.4 下载资源</Api1_4Name>
+    <Api1_4>resource/res_down</Api1_4>
+
+    <Api1_5Name>1.5 保存资源包</Api1_5Name>
+    <Api1_5>res_package/pkg_add</Api1_5>
+
+    <Api1_6Name>1.6 创建、更新并发布资源包</Api1_6Name>
+    <Api1_6>res_package/pkg_add_pub</Api1_6>
+
+    <Api1_8Name>1.8 取消已经发布的资源包</Api1_8Name>
+    <Api1_8>res_package/pkg_pub_cancel</Api1_8>
+
+    <Api1_9Name>1.9 获取已经发布课程的资源详情</Api1_9Name>
+    <Api1_9>res_package/pkg_detail_pub</Api1_9>
+
+    <!--<Api1_10Name>1.10 获取已备课程列表</Api1_10Name>-->
+    <!--<Api1_10>res_package/pkg_list_course</Api1_10>-->
+
+    <Api1_12Name>1.12 我的资源列表</Api1_12Name>
+    <Api1_12>resource/res_my</Api1_12>
+
+    <!--<Api1_13Name>1.13 获取我的资源包</Api1_13Name>-->
+    <!--<Api1_13>res_package/pkg_list</Api1_13>-->
+
+    <Api1_14Name>1.14 获取资源包详情</Api1_14Name>
+    <Api1_14>res_package/pkg_detail</Api1_14>
+
+    <Api1_15Name>1.15 默认目录数据获取</Api1_15Name>
+    <Api1_15>resource/res_unclassified</Api1_15>
+
+    <Api1_16Name>1.16 获取文件上传token</Api1_16Name>
+    <Api1_16>resource/res_tokens</Api1_16>
+
+    <Api1_17Name>1.17 获取资源操作历史</Api1_17Name>
+    <Api1_17>resource/res_list_history_oper</Api1_17>
+
+    <Api1_18Name>1.18 微课库列表</Api1_18Name>
+    <Api1_18>resource/res_list_micro_video</Api1_18>
+
+    <Api1_19Name>1.19 素材库列表</Api1_19Name>
+    <Api1_19>resource/res_list_material</Api1_19>
+
+    <Api1_20Name>1.20 获取专题列表</Api1_20Name>
+    <Api1_20>special/special_list</Api1_20>
+</ApiUrl>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>关联学生成功</testcaseName>
+        <expectedCode>meta.ecode:40044</expectedCode>
+        <caseType>0</caseType>
+        <role>0</role>
+        <studentid>81951367632</studentid>
+        <studentpwd>ERbItiEsZ4c=</studentpwd>
+    </test>
+</data>
+

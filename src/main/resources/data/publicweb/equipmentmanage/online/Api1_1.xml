@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>01教学情况</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <org_code>G-RC000072</org_code>
+        <org_type>3</org_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>01教学情况,必填项未校验</testcaseName>
+        <expectedCode>code:1001</expectedCode>
+        <caseType>0</caseType>
+        <org_code></org_code>
+        <org_type></org_type>
+    </exceptionTest>
+
+</data>
+

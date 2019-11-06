@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 获取可挂接的自定义目录</Api1_1Name>
+    <Api1_1>ksu/ksu_list</Api1_1>
+
+    <Api1_2Name>1.2 我的商品目录</Api1_2Name>
+    <Api1_2>ksu/add_ksu_list</Api1_2>
+
+    <Api1_3Name>1.3 简约排课列表</Api1_3Name>
+    <Api1_3>ksu/list_order</Api1_3>
+
+    <Api1_4Name>1.4 待办事项列表</Api1_4Name>
+    <Api1_4>ksu/list_todo</Api1_4>
+
+    <Api1_5Name>1.5 发布排课</Api1_5Name>
+    <Api1_5>ksu/lesson_pub</Api1_5>
+
+    <Api1_6Name>1.6 课程列表</Api1_6Name>
+    <Api1_6>ksu/list_lesson</Api1_6>
+
+    <Api1_7Name>1.7 获取没有排课的订单数</Api1_7Name>
+    <Api1_7>ksu/count_order_no_lesson</Api1_7>
+
+    <Api1_8Name>1.8 查看订单下的课程</Api1_8Name>
+    <Api1_8>ksu/list_lesson_by_order</Api1_8>
+
+</ApiUrl>

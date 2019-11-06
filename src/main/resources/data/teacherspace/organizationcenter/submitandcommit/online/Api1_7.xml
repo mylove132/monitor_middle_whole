@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>批改</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>20052</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id></student_id>
+        <!--<student_id>82951051121</student_id>-->
+        <question_id>2424958</question_id>
+        <struct_id>4</struct_id>
+        <link_id>12</link_id>
+        <answer>%5B%7B%22index%22%3A%221%22%2C%22status%22%3A1%7D%5D</answer>
+    </exceptionTest>
+</data>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <Api1_1Name>微课列表</Api1_1Name>
+    <Api1_1>/plusapi/observe/weikelist</Api1_1>
+
+    <Api1_2Name>知识点列表</Api1_2Name>
+    <Api1_2>/plusapi/observe/knowlegelist</Api1_2>
+
+    <Api1_3Name>获取有效地区</Api1_3Name>
+    <Api1_3>/plusapi/observe/getarea</Api1_3>
+
+    <Api1_4Name>获取知识详情</Api1_4Name>
+    <Api1_4>/plusapi/observe/getknowdetail</Api1_4>
+
+    <Api1_5Name>获取折线图</Api1_5Name>
+    <Api1_5>/plusapi/observe/getlinepic</Api1_5>
+
+</ApiUrl>

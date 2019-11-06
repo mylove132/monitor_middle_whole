@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>重置密码-发送验证码</testcaseName>
+        <expectedCode>status:30200</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileUsers</c>
+        <a>okayMallFindPassFirst</a>
+        <verifyTel>18516280768</verifyTel>
+    </test>
+
+</data>
+

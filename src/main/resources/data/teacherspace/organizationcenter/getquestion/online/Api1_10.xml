@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>题纠错</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <id> </id>
+        <collection_id>1</collection_id>
+        <code>1</code>
+        <remark>test</remark>
+    </test>
+
+</data>
+

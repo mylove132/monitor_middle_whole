@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <Api1_1Name>专栏下发表留言[√]zmq</Api1_1Name>
+    <Api1_1>/plusapi/witch/subcomment</Api1_1>
+
+    <Api1_2Name>专栏下留言列表[√]zmq</Api1_2Name>
+    <Api1_2>/plusapi/witch/commentlist</Api1_2>
+
+    <Api1_3Name>专栏列表</Api1_3Name>
+    <Api1_3>/plusapi/expert/topics</Api1_3>
+
+    <Api1_4Name>专栏详情</Api1_4Name>
+    <Api1_4>/plusapi/expert/topicdetail</Api1_4>
+
+    <Api1_5Name>专栏资源列表</Api1_5Name>
+    <Api1_5>/plusapi/expert/talks</Api1_5>
+
+    <Api1_6Name>专栏资源详情</Api1_6Name>
+    <Api1_6>/plusapi/expert/talkdetail</Api1_6>
+
+    <Api1_7Name>分享H5获取留言</Api1_7Name>
+    <Api1_7>/plusapi/expert/sharecomment</Api1_7>
+
+    <Api1_8Name>音频播放上报</Api1_8Name>
+    <Api1_8>/plusapi/expert/audiolisten</Api1_8>
+
+    <Api1_9Name>专栏内容分享上报(3.1.3)</Api1_9Name>
+    <Api1_9>/plusapi/expert/talksharereport</Api1_9>
+
+    <Api2_1Name>专栏内容列表</Api2_1Name>
+    <Api2_1>/plusapi/expert/talklist</Api2_1>
+
+    <Api2_2Name>专栏内容阅读上报</Api2_2Name>
+    <Api2_2>/plusapi/expert/readlisten</Api2_2>
+
+    <Api2_3Name>分享专栏 (h5)</Api2_3Name>
+    <Api2_3>/plusapi/expert/sharetopic</Api2_3>
+
+    <Api2_4Name>分享专栏资源</Api2_4Name>
+    <Api2_4>/plusapi/expert/sharetalk</Api2_4>
+
+    <Api2_5Name>回信列表 （h5）</Api2_5Name>
+    <Api2_5>/plusapi/observe/replylist</Api2_5>
+
+    <Api2_6Name>我的回信列表（3.1.3）</Api2_6Name>
+    <Api2_6>/plusapi/observe/mycommentlist</Api2_6>
+
+
+</ApiUrl>

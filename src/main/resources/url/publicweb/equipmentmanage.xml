@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pw_LoginName>学校后台登录</Pw_LoginName>
+    <Pw_Login>/login</Pw_Login>
+
+    <Api1_1Name>01教学情况</Api1_1Name>
+    <Api1_1>/equipment/teaching_status</Api1_1>
+
+</ApiUrl>

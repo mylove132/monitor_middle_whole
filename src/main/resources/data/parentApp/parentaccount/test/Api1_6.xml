@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>忘记密码</testcaseName>
+        <expectedCode>meta.ecode:40004</expectedCode>
+        <caseType>1</caseType>
+        <phone>18516280768</phone>
+        <newpwd>PnLg5UCE1Bk=</newpwd>
+        <code>1234</code>
+        <traceno>PnLg5UCE1Bk=</traceno>
+    </exceptionTest>
+
+</data>
+

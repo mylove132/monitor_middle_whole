@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>已提交的题list</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <publish_id>20052</publish_id>
+        <type>7</type>
+        <resource_id>13</resource_id>
+        <link_id>12</link_id>
+    </test>
+</data>

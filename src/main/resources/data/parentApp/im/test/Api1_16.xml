@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据联系人ids获取联系人信息_APP</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <ids>P-CC000085</ids>
+      <!--  <keyId>1</keyId>
+        <keyType>1</keyType>-->
+        <scene>im</scene>
+    </test>
+
+</data>

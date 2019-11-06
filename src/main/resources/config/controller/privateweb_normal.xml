@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="PrivateWeb" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="trademanagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.privateweb.tradeManagement"/>
+        </packages>
+    </test>
+
+    <test name="orderManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.privateweb.orderManagement"/>
+        </packages>
+    </test>
+    102164
+    <test name="dataPerception" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.privateweb.dataPerception"/>
+        </packages>
+    </test>
+
+    <test name="productCenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.privateweb.productCenter"/>
+        </packages>
+    </test>
+
+    <test name="authorityManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.privateweb.authorityManagement"/>
+        </packages>
+    </test>
+
+    <test name="mergeOfPublicAndPrivate" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.privateweb.mergeOfPublicAndPrivate"/>
+        </packages>
+    </test>
+</suite>

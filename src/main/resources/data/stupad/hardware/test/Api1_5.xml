@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>4.2知识点报告页统计个数和正确率</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <ktype>2</ktype>
+        <kid>9233</kid>
+        <klevel>2</klevel>
+        <type>6</type>
+    </test>
+
+</data>
+

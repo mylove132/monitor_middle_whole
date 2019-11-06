@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取发布缓存操作数据</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <has_simul>1</has_simul>
+        <type>1</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取发布缓存操作数据-hassimul为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <has_simul></has_simul>
+        <type>1</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取发布缓存操作数据-type为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <has_simul>1</has_simul>
+        <type></type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取发布缓存操作数据-type错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <has_simul>1</has_simul>
+        <type>11</type>
+    </exceptionTest>
+</data>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>修改目录名称</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id>2127645</id>
+        <parent_id>0</parent_id>
+        <custom_system_id></custom_system_id>
+    </exceptionTest>
+
+</data>

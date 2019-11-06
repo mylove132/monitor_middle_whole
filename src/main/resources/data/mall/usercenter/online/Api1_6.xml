@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>重置密码-验证验证码</testcaseName>
+        <expectedCode>status:31003</expectedCode>
+        <caseType>1</caseType>
+        <c>MobileUsers</c>
+        <a>okayMallFindPassSecond</a>
+        <verifyTel>18516280768</verifyTel>
+        <verifyCode>1234</verifyCode>
+    </exceptionTest>
+
+</data>
+

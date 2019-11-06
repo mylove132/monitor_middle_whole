@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>修改保存题集(该目录已删除或废弃)</testcaseName>
+        <expectedCode>code:60059</expectedCode>
+        <caseType>0</caseType>
+        <collection_id>361722</collection_id>
+        <title>测试上课</title>
+        <question_ids>10309025,10309024</question_ids>
+        <directory_id></directory_id>
+        <topics></topics>
+        <sort_type>1</sort_type>
+        <custom_system_id>36344</custom_system_id>
+        <custom_directory_id>2158725</custom_directory_id>
+    </test>
+
+</data>
+
+

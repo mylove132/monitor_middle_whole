@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ParentApp" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="parentaccount" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parentaccount"/>
+        </packages>
+    </test>
+
+    <test name="im" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.im"/>
+        </packages>
+    </test>
+
+
+    <!--shenbingbing add start -->
+    <test name="account" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.account"/>
+        </packages>
+    </test>
+
+    <!-- <test name="deeplearning" preserve-order="true">
+         <groups>
+             <run>
+                 <include name="exception"/>
+             </run>
+         </groups>
+         <packages>
+             <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.deeplearning"/>
+         </packages>
+     </test>
+ -->
+    <!--  <test name="gxt" preserve-order="true">
+          <groups>
+              <run>
+                  <include name="exception"/>
+              </run>
+          </groups>
+          <packages>
+              <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.gxt"/>
+          </packages>
+      </test>-->
+
+    <test name="mj" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.mj"/>
+        </packages>
+    </test>
+
+    <!-- <test name="my" preserve-order="true">
+         <groups>
+             <run>
+                 <include name="exception"/>
+             </run>
+         </groups>
+         <packages>
+             <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.my"/>
+         </packages>
+     </test>-->
+
+    <!--  <test name="shareh5" preserve-order="true">
+          <groups>
+              <run>
+                  <include name="exception"/>
+              </run>
+          </groups>
+          <packages>
+              <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.shareh5"/>
+          </packages>
+      </test>
+      <test name="wk" preserve-order="true">
+          <groups>
+              <run>
+                  <include name="exception"/>
+              </run>
+          </groups>
+          <packages>
+              <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.wk"/>
+          </packages>
+      </test>-->
+    <!--  <test name="column" preserve-order="true">
+          <groups>
+              <run>
+                  <include name="exception"/>
+              </run>
+          </groups>
+          <packages>
+              <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.column"/>
+          </packages>
+      </test>-->
+    <!-- <test name="common" preserve-order="true">
+         <groups>
+             <run>
+                 <include name="exception"/>
+             </run>
+         </groups>
+         <packages>
+             <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.common"/>
+         </packages>
+     </test>-->
+    <!--<test name="iospay" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.parentApp.parent.iospay"/>
+        </packages>
+    </test>-->
+    <!--shenbingbing add end-->
+
+</suite>

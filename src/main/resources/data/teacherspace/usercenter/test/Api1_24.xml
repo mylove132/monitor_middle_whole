@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>创建班级---班级名称大于20</testcaseName>
+        <expectedCode>code:70274</expectedCode>
+        <caseType>1</caseType>
+        <class_name>aaaaaaaaaaaaaaaaaaaaaaa</class_name>
+    </exceptionTest>
+</data>

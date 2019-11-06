@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>发现列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <pageNo>1</pageNo>
+        <pageSize>10</pageSize>
+    </test>
+
+    <test>
+        <testcaseName>发现列表-非必传参数为空</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+    </test>
+</data>
+

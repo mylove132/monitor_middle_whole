@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="PrivateWeb" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="areaManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.areaManagement"/>
+        </packages>
+    </test>
+
+    <test name="courseManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.courseManagement"/>
+        </packages>
+    </test>
+
+    <test name="schoolManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.schoolManagement"/>
+        </packages>
+    </test>
+
+    <test name="studentFiles" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.studentFiles"/>
+        </packages>
+    </test>
+
+    <test name="teachingMaterialManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.teachingMaterialManagement"/>
+        </packages>
+    </test>
+
+    <test name="productCenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.productCenter"/>
+        </packages>
+    </test>
+
+    <test name="orderManagement" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.orderManagement"/>
+        </packages>
+    </test>
+
+    <test name="applicationCenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="exception"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.crm.applicationCenter"/>
+        </packages>
+    </test>
+</suite>

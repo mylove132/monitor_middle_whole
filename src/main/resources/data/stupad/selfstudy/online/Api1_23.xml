@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.23 [自主学习]--学科对应知识点列表-章节体系知识点</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <ktype>2</ktype>
+        <sid>5</sid>
+        <type>0</type>
+        <timespan>0</timespan>
+        <bookid>280</bookid>
+        <pagesize>12</pagesize>
+        <currentpage>1</currentpage>
+    </test>
+
+
+    <test>
+        <testcaseName>1.23 [自主学习]--学科对应知识点列表-知识点体系知识点</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <ktype>1</ktype>
+        <sid>5</sid>
+        <type>0</type>
+        <timespan>0</timespan>
+        <bookid>280</bookid>
+        <pagesize>12</pagesize>
+        <currentpage>1</currentpage>
+    </test>
+</data>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取家长购买老师订单信息</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <teacherId>62951270240</teacherId>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>家长未购买老师的数据</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <teacherId>62951270162</teacherId>
+    </exceptionTest>
+
+</data>
+

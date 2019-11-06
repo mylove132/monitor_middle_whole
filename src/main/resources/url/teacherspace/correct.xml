@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 使用智能批改结果</Api1_1Name>
+    <Api1_1>correct/use_ai_result</Api1_1>
+
+    <Api1_2Name>1.2 根据学生id获取作答结果</Api1_2Name>
+    <Api1_2>correct/get_results_by_student</Api1_2>
+
+    <Api1_3Name>1.3 根据题目id获取学生作答结果</Api1_3Name>
+    <Api1_3>correct/get_results_by_quiz</Api1_3>
+
+    <Api1_4Name>1.4 获取学生作答结果</Api1_4Name>
+    <Api1_4>correct/summary_students</Api1_4>
+
+    <Api1_5Name>1.5 获取批改基础信息</Api1_5Name>
+    <Api1_5>correct/quizset_info</Api1_5>
+
+    <Api1_6Name>1.6 获取按题查看作答</Api1_6Name>
+    <Api1_6>correct/summary_quiz</Api1_6>
+
+    <Api1_7Name>1.7 进批改之前判断是否可以进入</Api1_7Name>
+    <Api1_7>correct/check_quizset</Api1_7>
+
+    <Api1_8Name>1.8 批改结果提交</Api1_8Name>
+    <Api1_8>rectify/submit</Api1_8>
+
+    <Api1_9Name>1.9 批改数据提交</Api1_9Name>
+    <Api1_9>correct/submit_comment</Api1_9>
+
+    <Api1_10Name>1.10 上课接口</Api1_10Name>
+    <Api1_10>classroom/course_start</Api1_10>
+
+    <Api1_11Name>1.11 下课接口</Api1_11Name>
+    <Api1_11>classroom/course_close</Api1_11>
+
+    <Api1_12Name>1.12 修改习题作答控制为学生自主答题</Api1_12Name>
+    <Api1_12>classroom/course_update_control_type</Api1_12>
+
+    <Api1_13Name>1.13 课堂详情</Api1_13Name>
+    <Api1_13>classroom/course_detail</Api1_13>
+
+    <Api1_14Name>1.14 获取已发布课程的资源详情</Api1_14Name>
+    <Api1_14>res_package/pkg_detail_pub</Api1_14>
+
+    <Api1_15Name>1.15 已发布的上课</Api1_15Name>
+    <Api1_15>res_package/pkg_list_pub</Api1_15>
+
+    <Api1_16Name>1.16 立即公布答案</Api1_16Name>
+    <Api1_16>res_package/pkg_show_answer</Api1_16>
+
+    <Api1_17Name>1.17 立即发布任务</Api1_17Name>
+    <Api1_17>res_package/pkg_task_publish</Api1_17>
+
+    <Api1_18Name>1.18 获取发布缓存操作数据</Api1_18Name>
+    <Api1_18>res_package/pkg_cache_load</Api1_18>
+
+    <Api1_19Name>1.19 获取单题的习题报告</Api1_19Name>
+    <Api1_19>correct/all_use_ai</Api1_19>
+</ApiUrl>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除学生账号失败</testcaseName>
+        <expectedCode>meta.ecode:40022</expectedCode>
+        <caseType>1</caseType>
+        <studentid>1234</studentid>
+    </exceptionTest>
+
+</data>
+

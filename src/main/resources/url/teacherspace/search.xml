@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 公共题集列表</Api1_1Name>
+    <Api1_1>teacher-center/exercise?</Api1_1>
+
+    <Api1_2Name>1.2 获取题列表</Api1_2Name>
+    <Api1_2>teacher-center/search_singlequiz</Api1_2>
+
+    <Api1_3Name>1.3 综合试卷列表</Api1_3Name>
+    <Api1_3>teacher-center/paper</Api1_3>
+
+    <Api1_4Name>1.4 文库搜索</Api1_4Name>
+    <Api1_4>resource/wenku_search</Api1_4>
+
+    <Api1_5Name>1.5 平台搜索</Api1_5Name>
+    <Api1_5>teacher-center/platform_res</Api1_5>
+
+    <Api1_6Name>1.6 获取单题的数量</Api1_6Name>
+    <Api1_6>teacher-center/queryChapKnowlCount</Api1_6>
+
+    <Api1_8Name>1.8 推荐和搜索课件列表</Api1_8Name>
+    <Api1_8>teacher-center/course_list</Api1_8>
+
+    <Api1_9Name>1.9 推荐和搜索习题列表</Api1_9Name>
+    <Api1_9>teacher-center/exercise_list</Api1_9>
+
+    <Api1_10Name>1.10 推荐和搜索课程包列表</Api1_10Name>
+    <Api1_10>teacher-center/course_package_list</Api1_10>
+
+    <Api1_11Name>1.11 推荐和搜索微课列表</Api1_11Name>
+    <Api1_11>teacher-center/res_list_micro_video</Api1_11>
+
+    <Api1_12Name>1.12 推荐和搜索素材库列表</Api1_12Name>
+    <Api1_12>teacher-center/material_platform_resouce</Api1_12>
+</ApiUrl>

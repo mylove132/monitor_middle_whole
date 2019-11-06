@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>文库搜索</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <directory_id>46</directory_id>
+        <page>1</page>
+        <uid>61168445</uid>
+        <keyword>test</keyword>
+    </test>
+</data>

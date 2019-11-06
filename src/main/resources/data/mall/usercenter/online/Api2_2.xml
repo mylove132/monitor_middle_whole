@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取收货地址列表</testcaseName>
+        <expectedCode>status:35201</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileAddress</c>
+        <a>del</a>
+        <m>OkayMall</m>
+        <id>62</id>
+    </test>
+    <exceptionTest>
+        <testcaseName>获取收货地址列表-商品名称为空</testcaseName>
+        <expectedCode>status:35201</expectedCode>
+        <caseType>1</caseType>
+        <c>MobileAddress</c>
+        <a>del</a>
+        <m>OkayMall</m>
+        <id></id>
+    </exceptionTest>
+</data>
+

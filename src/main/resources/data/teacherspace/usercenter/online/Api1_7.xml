@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>验证手机号</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <verify_code>1234</verify_code>
+        <phone_num>18516280768</phone_num>
+    </exceptionTest>
+
+</data>

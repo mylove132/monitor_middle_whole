@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>更改商品数量</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileCart</c>
+        <a>changeGoodsNum</a>
+        <goodsId>100</goodsId>
+        <num>2</num>
+    </exceptionTest>
+    <exceptionTest>
+        <testcaseName>更改商品数量-商品id为空</testcaseName>
+        <expectedCode>status:-1</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileCart</c>
+        <a>changeGoodsNum</a>
+        <goodsId></goodsId>
+        <num></num>
+    </exceptionTest>
+
+</data>
+

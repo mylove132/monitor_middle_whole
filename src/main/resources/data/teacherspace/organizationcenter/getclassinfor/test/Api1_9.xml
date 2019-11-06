@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>删除学生</testcaseName>
+        <expectedCode>code:3002</expectedCode>
+        <caseType>0</caseType>
+        <password>123456</password>
+        <class_id>1951</class_id>
+        <student_id>81951060809</student_id>
+    </test>
+
+</data>

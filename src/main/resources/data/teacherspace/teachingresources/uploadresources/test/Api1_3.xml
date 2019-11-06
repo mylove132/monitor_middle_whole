@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>保存未上传题集</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <collection_id>327741</collection_id>
+        <directory_id>178</directory_id>
+        <question_ids>7554125,7554141,7554135,7554130,7554134,7554142</question_ids>
+        <share_info>327741</share_info>
+        <sort_type>2</sort_type>
+        <title>初中语文样卷</title>
+        <topics></topics>
+    </test>
+
+    <test>
+        <testcaseName>保存未上传题集</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <collection_id>327741</collection_id>
+        <directory_id>178</directory_id>
+        <question_ids>7554125,7554141,7554135,7554130,7554134,7554142</question_ids>
+        <share_info>327741</share_info>
+        <sort_type>1</sort_type>
+        <title>初中语文样卷</title>
+        <topics></topics>
+    </test>
+
+
+    <exceptionTest>
+        <testcaseName>保存未上传题集-collectionid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <collection_id></collection_id>
+        <directory_id>178</directory_id>
+        <question_ids>7554125,7554141,7554135,7554130,7554134,7554142</question_ids>
+        <share_info>327741</share_info>
+        <sort_type>2</sort_type>
+        <title>初中语文样卷</title>
+        <topics></topics>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存未上传题集-directory_id为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <collection_id>327741</collection_id>
+        <directory_id></directory_id>
+        <question_ids>7554125,7554141,7554135,7554130,7554134,7554142</question_ids>
+        <share_info>327741</share_info>
+        <sort_type>2</sort_type>
+        <title>初中语文样卷</title>
+        <topics></topics>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存未上传题集-question_ids为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <collection_id>327741</collection_id>
+        <directory_id>178</directory_id>
+        <question_ids></question_ids>
+        <share_info>327741</share_info>
+        <sort_type>2</sort_type>
+        <title>初中语文样卷</title>
+        <topics></topics>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存未上传题集-title为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <collection_id>327741</collection_id>
+        <directory_id>178</directory_id>
+        <question_ids>7554125,7554141,7554135,7554130,7554134,7554142</question_ids>
+        <share_info>327741</share_info>
+        <sort_type>2</sort_type>
+        <title></title>
+        <topics></topics>
+    </exceptionTest>
+</data>

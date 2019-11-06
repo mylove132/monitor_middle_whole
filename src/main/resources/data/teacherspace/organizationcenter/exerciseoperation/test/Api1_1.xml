@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>保存题集（该目录已删除或废弃）</testcaseName>
+        <expectedCode>code:60059</expectedCode>
+        <caseType>0</caseType>
+        <!--<title>test1</title>-->
+        <question_ids>2550833</question_ids>
+        <!--<chapter_id>9145</chapter_id>-->
+        <!--<chapter_level>2</chapter_level>-->
+        <sort_type>1</sort_type>
+        <directory_id></directory_id>
+        <topics></topics>
+        <share_type>platform</share_type>
+        <custom_system_id>36344</custom_system_id>
+        <custom_directory_id>2158725</custom_directory_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>保存题集-题目id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <!--<title>test</title>-->
+        <question_ids></question_ids>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <sort_type>1</sort_type>
+        <directory_id>178</directory_id>
+        <topics></topics>
+        <share_type>platform</share_type>
+        <custom_system_id>101586</custom_system_id>
+        <custom_directory_id>3129910</custom_directory_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存题集-custom_system_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <!--<title>test</title>-->
+        <question_ids>2504492</question_ids>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <sort_type>1</sort_type>
+        <directory_id></directory_id>
+        <topics></topics>
+        <share_type>platform</share_type>
+        <custom_system_id></custom_system_id>
+        <custom_directory_id>3129910</custom_directory_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存题集-custom_directory_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <!--<title>test</title>-->
+        <question_ids>2504492</question_ids>
+        <chapter_id>9145</chapter_id>
+        <chapter_level>2</chapter_level>
+        <sort_type>1</sort_type>
+        <directory_id></directory_id>
+        <topics></topics>
+        <share_type>platform</share_type>
+        <custom_system_id>101586</custom_system_id>
+        <custom_directory_id></custom_directory_id>
+    </exceptionTest>
+
+
+</data>

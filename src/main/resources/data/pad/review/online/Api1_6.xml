@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>重复提交答题答案</testcaseName>
+        <!--<expectedCode>1024</expectedCode>-->
+        <!--bug-->
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <flag>2</flag>
+        <from>3</from>
+        <workid>1219778</workid>
+        <qid>1409105</qid>
+        <qtype>4</qtype>
+        <result>2</result>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <flag>2</flag>
+        <from>3</from>
+        <workid>1219778</workid>
+        <qid>1409105</qid>
+        <qtype>4</qtype>
+        <submitanswer>this is a answer</submitanswer>
+        <result>2</result>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.1 作业资源列表协议</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pid>123</pid>
+        <cp>1</cp>
+        <ps>1</ps>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.1 作业资源列表协议-pid为0</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pid>0</pid>
+        <cp>1</cp>
+        <ps>1</ps>
+    </exceptionTest>
+
+</data>
+

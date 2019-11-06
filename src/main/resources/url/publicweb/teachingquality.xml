@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pw_LoginName>学校后台登录</Pw_LoginName>
+    <Pw_Login>/login</Pw_Login>
+
+    <Api1_1Name>各区县或学校教师学生使用比较</Api1_1Name>
+    <Api1_1>/statistic/area_use</Api1_1>
+
+    <Api1_2Name>学生使用情况</Api1_2Name>
+    <Api1_2>/statistic/student_use</Api1_2>
+
+    <Api1_3Name>教师使用情况</Api1_3Name>
+    <Api1_3>/statistic/teacher_use</Api1_3>
+
+
+    <Api3_1Name>答题场景分布</Api3_1Name>
+    <Api3_1>/statistic/answer_scene</Api3_1>
+
+    <Api3_2Name>答题数量或正确率</Api3_2Name>
+    <Api3_2>/statistic/answer_result</Api3_2>
+
+    <Api3_3Name>答题难度分布</Api3_3Name>
+    <Api3_3>/statistic/answer_difficulty</Api3_3>
+
+    <Api3_4Name>自主、非自主答题平均值</Api3_4Name>
+    <Api3_4>/statistic/initiative_average</Api3_4>
+
+    <Api3_5Name>自主、非自主答题概览</Api3_5Name>
+    <Api3_5>/statistic/initiative_result</Api3_5>
+
+    <Api3_6Name>获取学科列表</Api3_6Name>
+    <Api3_6>/statistic/subject_list</Api3_6>
+
+    <Api4_1Name>各区县活跃度用户对比</Api4_1Name>
+    <Api4_1>/statistic/area_active</Api4_1>
+
+    <Api4_2Name>各区县活跃度用户对比</Api4_2Name>
+    <Api4_2>/statistic/user_active</Api4_2>
+
+    <Api5_1Name>获取用户信息</Api5_1Name>
+    <Api5_1>/platform_admin/statistic/login/info</Api5_1>
+</ApiUrl>

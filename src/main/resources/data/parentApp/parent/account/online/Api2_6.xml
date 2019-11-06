@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>扫码获取学生信息</testcaseName>
+        <expectedCode>meta.ecode:900402</expectedCode>
+        <caseType>0</caseType>
+        <ticket>4354656</ticket>
+    </exceptionTest>
+</data>

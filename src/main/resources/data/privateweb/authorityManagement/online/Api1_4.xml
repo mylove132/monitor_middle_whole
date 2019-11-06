@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>权限管理-根据搜索查管理组成员</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <keyword>试</keyword>
+    </test>
+
+
+
+</data>
+

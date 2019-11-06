@@ -1,0 +1,23 @@
+﻿<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<ApiUrl>-->
+<!--<testUrlHeader>http://resource1.xk12.cn</testUrlHeader>-->
+<!--<onlineUrlHeader>http://baise.ziyuanyun.cn</onlineUrlHeader>-->
+
+<!--&lt;!&ndash;&ndash;&gt;-->
+<!--<test-loginUser>6106328</test-loginUser>-->
+<!--<test-password>2838bae836e82ddedc81bdccc29e75c6</test-password>-->
+<!--<test-password_old>9c56ea0313a37c7d8fdb19ba0eb29afa</test-password_old>-->
+<!--<login_type>0</login_type>-->
+
+<!--<online-loginUser>18516280768</online-loginUser>-->
+<!--<online-password>5vet04B51lo=</online-password>-->
+<!--<online-validateCode></online-validateCode>-->
+<!--<online-password_new>2838bae836e82ddedc81bdccc29e75c6</online-password_new>-->
+
+<!--<mailReceivers>chaozhe@okjiaoyu.cn</mailReceivers>-->
+<!--&lt;!&ndash;<mailReceivers>okayqa@okjiaoyu.cn;okjiazhang@okjiaoyu.cn;java@okjiaoyu.cn;op@okjiaoyu.cn</mailReceivers>&ndash;&gt;-->
+
+<!--<errorlogPath-linux>/xdfapp/logs/middle_monitors/online/error.log</errorlogPath-linux>-->
+<!--<errorlogPath-windows>E:\\xdfapp\\logs\\middle_monitors\\online\\errorlog.log</errorlogPath-windows>-->
+
+<!--</ApiUrl>-->

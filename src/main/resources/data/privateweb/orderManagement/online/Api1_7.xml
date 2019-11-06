@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>订单管理2.0--获取退款/货理由</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <deliver_type>1</deliver_type>
+        <reason_type>1</reason_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <deliver_type></deliver_type>
+        <reason_type></reason_type>
+    </exceptionTest>
+
+</data>
+

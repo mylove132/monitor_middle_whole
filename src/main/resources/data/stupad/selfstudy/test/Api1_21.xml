@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.21 获取（推荐微课，推荐单题）相关知识点信息-微课</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <resid>1900261</resid>
+        <qid></qid>
+    </test>
+
+
+    <test>
+        <testcaseName>1.21 获取（推荐微课，推荐单题）相关知识点信息-单题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <resid></resid>
+        <qid>1410106</qid>
+    </test>
+</data>
+

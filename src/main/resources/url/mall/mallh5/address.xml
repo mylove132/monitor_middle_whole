@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Mallh5_loginName>家长APP登录-商城手机H5-smart-mall-server</Mallh5_loginName>
+    <Mallh5_login>/plusapi/signin</Mallh5_login>
+
+    <Api1_1Name>用户地址:地址-删除收货地址</Api1_1Name>
+    <Api1_1>/api/v1/user/deladdress</Api1_1>
+
+    <Api1_2Name>用户地址:地址-收货地址列表</Api1_2Name>
+    <Api1_2>/api/v1/user/addressList</Api1_2>
+
+    <Api1_3Name>用户地址:修改收货地址</Api1_3Name>
+    <Api1_3>/api/v1/user/putaddress</Api1_3>
+
+    <Api1_4Name>用户地址:家长查询学生</Api1_4Name>
+    <Api1_4>/api/v1/user/childrenInfo</Api1_4>
+
+    <Api1_5Name>用户地址:获取用户信息</Api1_5Name>
+    <Api1_5>/api/v1/user/finduser</Api1_5>
+
+    <Api1_6Name>用户地址:获取省市区</Api1_6Name>
+    <Api1_6>/api/v1/user/district</Api1_6>
+</ApiUrl>

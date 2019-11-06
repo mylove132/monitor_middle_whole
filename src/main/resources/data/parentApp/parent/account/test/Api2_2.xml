@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>用户绑定手机号（v2.9.1 +）-验证码错误</testcaseName>
+        <expectedCode>meta.ecode:40004</expectedCode>
+        <caseType>0</caseType>
+        <code>110110110</code>
+        <phone>18010455555</phone>
+        <role>0</role>
+        <traceno>4654646464</traceno>
+    </test>
+</data>
+

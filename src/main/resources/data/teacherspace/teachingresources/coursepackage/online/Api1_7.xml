@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>我的课程包列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <index>0</index>
+        <custom_directory_id>2158726</custom_directory_id>
+        <custom_system_id>36344</custom_system_id>
+        <page_size>1</page_size>
+        <sort_type>0</sort_type>
+        <origin>0</origin>
+
+    </test>
+
+</data>
+

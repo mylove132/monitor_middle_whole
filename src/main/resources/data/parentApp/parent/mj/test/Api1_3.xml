@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>我学会了/我又不会了</testcaseName>
+        <expectedCode>meta.ecode:130162</expectedCode>
+        <caseType>0</caseType>
+        <k_id>1</k_id>
+        <k_type>1</k_type>
+        <type>2</type>
+    </exceptionTest>
+</data>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>注销成功</testcaseName>
+        <expectedCode>meta.emsg:注销成功</expectedCode>
+        <caseType>0</caseType>
+    </exceptionTest>
+</data>
+

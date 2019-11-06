@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Teacherpad_LoginName>教师pad登录</Teacherpad_LoginName>
+    <Teacherpad_Login>/api/t_pad/user/login/</Teacherpad_Login>
+
+    <Api1_2Name>获取个人信息数据</Api1_2Name>
+    <Api1_2>/api/t_pad/user/info</Api1_2>
+
+    <Api1_3Name>获取加密信息</Api1_3Name>
+    <Api1_3>/api/t_pad/user/encryptinfo</Api1_3>
+
+    <Api1_4Name>注销</Api1_4Name>
+    <Api1_4>/api/t_pad/user/logout/</Api1_4>
+
+    <Api1_5Name>我的班级</Api1_5Name>
+    <Api1_5>/api/t_pad/class/class_list</Api1_5>
+
+    <Api1_6Name>获取班级学生</Api1_6Name>
+    <Api1_6>/api/t_pad/class/student_list</Api1_6>
+
+    <Api1_7Name>重置密码</Api1_7Name>
+    <Api1_7>/api/t_pad/class/reset_password</Api1_7>
+
+    <Api1_8Name>编辑班级</Api1_8Name>
+    <Api1_8>/api/t_pad/class/rename</Api1_8>
+
+    <Api1_9Name>移除账号</Api1_9Name>
+    <Api1_9>/api/t_pad/class/remove_student</Api1_9>
+    <Api2_0Name>获取教师辅导权限</Api2_0Name>
+    <Api2_0>/api/t_pad/user/coach_auth</Api2_0>
+</ApiUrl>

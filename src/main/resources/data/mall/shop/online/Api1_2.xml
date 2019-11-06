@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>商品明细</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileGoods</c>
+        <a>getGoodsDetail</a>
+        <goodsId>198</goodsId>
+    </test>
+    <exceptionTest>
+        <testcaseName>商品明细-商品名称为空</testcaseName>
+        <expectedCode>status:-1</expectedCode>
+        <caseType>1</caseType>
+        <m>OkayMall</m>
+        <c>mobileCart</c>
+        <a>del</a>
+        <goodsId></goodsId>
+    </exceptionTest>
+
+</data>
+

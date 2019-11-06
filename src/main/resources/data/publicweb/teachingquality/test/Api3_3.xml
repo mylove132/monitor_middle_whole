@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>答题难度分布</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <code></code>
+        <end></end>
+        <is_pad></is_pad>
+        <org_type>2</org_type>
+        <page>2</page>
+        <page_size>2</page_size>
+        <stage>2</stage>
+        <start></start>
+        <subject></subject>
+        <type>2</type>
+        <user_code>G-RC000028</user_code>
+        <user_type>3</user_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>答题难度分布，未校验必填项</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <code></code>
+        <end></end>
+        <is_pad></is_pad>
+        <org_type></org_type>
+        <page></page>
+        <page_size></page_size>
+        <stage></stage>
+        <start></start>
+        <subject></subject>
+        <type></type>
+        <user_code></user_code>
+        <user_type></user_type>
+    </exceptionTest>
+
+</data>
+

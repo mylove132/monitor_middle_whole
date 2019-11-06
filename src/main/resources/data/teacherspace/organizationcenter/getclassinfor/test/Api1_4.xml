@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取班级学生列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <class_type>1</class_type>
+    </test>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>获取班级列表-题集id错误</testcaseName>-->
+    <!--<expectedCode>code:3996</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<collection_id>X</collection_id>-->
+    <!--</exceptionTest>-->
+
+</data>
+

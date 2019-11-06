@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.5 做错题</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>3</kid>
+        <klevel>1</klevel>
+        <ktype>1</ktype>
+        <sid>3</sid>
+        <pagesize>1</pagesize>
+        <seq>0</seq>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.5 做错题-kid为0</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>0</kid>
+        <klevel>3</klevel>
+        <ktype>3</ktype>
+        <sid>3</sid>
+        <pagesize>3</pagesize>
+        <seq>3</seq>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.5 做错题-klevel为0</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>3</kid>
+        <klevel>0</klevel>
+        <ktype>3</ktype>
+        <sid>3</sid>
+        <pagesize>3</pagesize>
+        <seq>0</seq>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.5 做错题-ktype为0</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>3</kid>
+        <klevel>3</klevel>
+        <ktype>0</ktype>
+        <sid>3</sid>
+        <pagesize>3</pagesize>
+        <seq>0</seq>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.5 做错题-sid为0</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>3</kid>
+        <klevel>3</klevel>
+        <ktype>3</ktype>
+        <sid>0</sid>
+        <pagesize>3</pagesize>
+        <seq>0</seq>
+    </exceptionTest>
+
+</data>
+

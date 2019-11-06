@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pr_LoginName>私立学校后台登录</Pr_LoginName>
+    <Pr_Login>/login</Pr_Login>
+
+    <Api1_1Name>编辑页面展示信息</Api1_1Name>
+    <Api1_1>/api_courseware/ksu/ksuinfo</Api1_1>
+
+    <Api1_2Name>保存</Api1_2Name>
+    <Api1_2>/api_courseware/ksu/setksu</Api1_2>
+
+    <Api1_3Name>根据学段查看学科subjectId</Api1_3Name>
+    <Api1_3>/api_courseware/common/org/subject</Api1_3>
+
+    <Api1_4Name>教师列表</Api1_4Name>
+    <Api1_4>/api_courseware/ksu/subjectteacherlist</Api1_4>
+
+    <Api1_5Name>商品列表展示</Api1_5Name>
+    <Api1_5>/api_courseware/ksu/ksulist</Api1_5>
+
+    <Api1_6Name>商品状态变更</Api1_6Name>
+    <Api1_6>/api_courseware/ksu/setstatus</Api1_6>
+
+    <Api1_7Name>查看操作记录</Api1_7Name>
+    <Api1_7>/api_courseware/ksu/actlog</Api1_7>
+
+    <Api1_8Name>平台后台商品管理-商品列表展示</Api1_8Name>
+    <Api1_8>/api_courseware/ksu/mallksulist</Api1_8>
+
+    <Api1_9Name>平台后台商品管理-商品详情</Api1_9Name>
+    <Api1_9>/api_courseware/ksu/mallksuinfo</Api1_9>
+
+    <Api1_10Name>平台后台商品管理-操作记录</Api1_10Name>
+    <Api1_10>/api_courseware/ksu/mallactlog</Api1_10>
+
+    <Api1_11Name>订单列表-订单列表</Api1_11Name>
+    <Api1_11>/api_courseware/ksu/getorderlist</Api1_11>
+
+    <Api1_12Name>订单列表-获取班级</Api1_12Name>
+    <Api1_12>/api_courseware/ksu/studentclasses</Api1_12>
+
+    <Api1_13Name>配置班级-班级列表</Api1_13Name>
+    <Api1_13>/api_courseware/ksu/classlist</Api1_13>
+
+    <Api1_14Name>配置班级-获取全部年级</Api1_14Name>
+    <Api1_14>/api_courseware/ksu/gradelist</Api1_14>
+
+    <Api1_15Name>配置班级-获取班主任</Api1_15Name>
+    <Api1_15>/api_courseware/ksu/teacherlist</Api1_15>
+
+</ApiUrl>

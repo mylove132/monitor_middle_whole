@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>关键字搜索班级学生</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <keyword>石</keyword>
+    </test>
+</data>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+
+    <exceptionTest>
+        <testcaseName>1.8 提交答题接口-exeid为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>0</workid>
+        <kid>1211</kid>
+        <answertype>1</answertype>
+        <ktype>1</ktype>
+        <qid1>1410106</qid1>
+        <qtype>4</qtype>
+        <selecthelp>true</selecthelp>
+        <submitanswer>submitanswer20160122</submitanswer>
+        <result>6</result>
+        <submittype>1</submittype>
+    </exceptionTest>
+
+</data>
+

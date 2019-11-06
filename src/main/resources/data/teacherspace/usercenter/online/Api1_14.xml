@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>原手机号获取验证码</testcaseName>
+        <expectedCode>code:3011</expectedCode>
+        <caseType>1</caseType>
+    </exceptionTest>
+</data>

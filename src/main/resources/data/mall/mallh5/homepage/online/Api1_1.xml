@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>加入购物车-商品不存在</testcaseName>
+        <expectedCode>meta.code:900302</expectedCode>
+        <caseType>0</caseType>
+        <goodsId>1111111</goodsId>
+        <goodsCnt>1</goodsCnt>
+        <checked>1</checked>
+        <handle>store</handle>
+        <attrCode></attrCode>
+        <attrValue>0</attrValue>
+    </test>
+</data>

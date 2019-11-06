@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取习题的学生作答详情</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <link_id>764452</link_id>
+        <publish_id>423726</publish_id>
+        <quiz_id>4742182</quiz_id>
+        <statistic_type>1</statistic_type>
+        <type>1</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <link_id>764452</link_id>
+        <publish_id>423726</publish_id>
+        <quiz_id>4742182</quiz_id>
+        <statistic_type>1</statistic_type>
+        <type>1</type>
+    </exceptionTest>
+
+
+</data>
+

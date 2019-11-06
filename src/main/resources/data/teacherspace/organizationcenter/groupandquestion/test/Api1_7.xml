@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>题目分组-列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <timestamp>1484207896024</timestamp>
+        <secret>1dbfbc808ca40881020c8ad1b857610c6496c81a</secret>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>题目分组-时间戳为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <timestamp></timestamp>
+        <secret>1dbfbc808ca40881020c8ad1b857610c6496c81a</secret>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>题目分组-秘钥为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <timestamp>1484207896024</timestamp>
+        <secret></secret>
+    </exceptionTest>
+
+</data>

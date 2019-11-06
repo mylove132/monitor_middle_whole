@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1_7记录点击目录</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>used</uid>
+        <token>used</token>
+        <system_id>46380</system_id>
+        <id>2641633</id>
+    </test>
+
+
+</data>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>关联学生成功</testcaseName>
+        <expectedCode>meta.ecode:40027</expectedCode>
+        <caseType>0</caseType>
+        <role>0</role>
+        <studentid>81951367632</studentid>
+        <studentpwd>ERbItiEsZ4c=</studentpwd>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>关联学生成功-已绑定三名家长,不能继续绑定</testcaseName>
+        <expectedCode>meta.ecode:40027</expectedCode>
+        <caseType>0</caseType>
+        <role>0</role>
+        <studentid>81951367632</studentid>
+        <studentpwd>ERbItiEsZ4c=</studentpwd>
+    </exceptionTest>
+</data>
+

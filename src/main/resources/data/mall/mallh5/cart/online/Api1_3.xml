@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--<test>
+        <testcaseName>更新商品数量-成功</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <handle>changeNum</handle>
+        <goodsCnt>1</goodsCnt>
+        <cartId>91</cartId>
+        <goodsId>105</goodsId>
+        <checked>1</checked>
+    </test>-->
+    <exceptionTest>
+        <testcaseName>更新商品数量-无数据</testcaseName>
+        <expectedCode>meta.code:300301</expectedCode>
+        <caseType>0</caseType>
+        <cartId>1</cartId>
+        <checked>1</checked>
+        <goodsCnt>1</goodsCnt>
+        <goodsId>1</goodsId>
+        <handle>changeNum</handle>
+    </exceptionTest>
+</data>

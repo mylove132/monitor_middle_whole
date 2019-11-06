@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取可挂接的自定义目录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <goods_id>87936</goods_id>
+    </test>
+</data>

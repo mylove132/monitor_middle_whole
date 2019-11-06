@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>上课</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <course_id>466750</course_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>不存在课程，上课异常，publish id 不存在</testcaseName>
+        <expectedCode>meta.ecode:60009</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <course_id>466750111</course_id>
+    </exceptionTest>
+
+
+</data>
+

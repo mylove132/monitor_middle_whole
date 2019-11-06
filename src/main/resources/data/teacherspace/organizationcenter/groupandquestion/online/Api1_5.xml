@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>音频校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <audio_url>http://ra.okjiaoyu.cn/ra_IHoy97n7wc.mp3</audio_url>
+    </test>
+
+</data>

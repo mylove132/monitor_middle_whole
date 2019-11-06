@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>自建体系_学科_根据学段获取学科信息</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>2</id>
+        <type>1</type>
+    </test>
+
+
+    <exceptionTest>
+        <testcaseName>自建体系_学科_根据学段获取学科信息,必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <id></id>
+        <type></type>
+    </exceptionTest>
+</data>
+

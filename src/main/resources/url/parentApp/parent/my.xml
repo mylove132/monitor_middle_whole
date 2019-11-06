@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+  <Pa_loginName>家长APP登录</Pa_loginName>
+  <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <!--废弃的接口<Api1_1Name>我学会的-学科列表</Api1_1Name>
+    <Api1_1>/plusapi/witch/mysublist</Api1_1>-->
+
+    <Api1_2Name>我学会的-知识点</Api1_2Name>
+    <Api1_2>/plusapi/witch/myknowlegelist</Api1_2>
+
+    <Api1_3Name>获取会员信息接口</Api1_3Name>
+    <Api1_3>/plusapi/witch/user_role</Api1_3>
+
+    <Api1_4Name>获取学生信息接口</Api1_4Name>
+    <Api1_4>/plusapi/witch/user_info</Api1_4>
+
+    <Api1_5Name>Okay+ ios+android是否升级</Api1_5Name>
+    <Api1_5>/plusapi/appupgrade/getdata</Api1_5>
+
+    <Api1_6Name>学情报告--列表</Api1_6Name>
+    <Api1_6>/plusapi/observe/studyreportlist</Api1_6>
+
+    <Api1_7Name>学情报告-详情</Api1_7Name>
+    <Api1_7>/plusapi/observe/studyreportdetail</Api1_7>
+</ApiUrl>

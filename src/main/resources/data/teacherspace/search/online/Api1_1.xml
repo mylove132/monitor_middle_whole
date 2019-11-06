@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>公共题集列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <keyword></keyword>
+        <page>1</page>
+        <sort_type>1</sort_type>
+        <custom_directory_id>2158725</custom_directory_id>
+        <custom_directory_level>2</custom_directory_level>
+    </test>
+</data>

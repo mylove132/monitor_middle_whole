@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>获取知识点相关资源列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>221</id>
+        <from>2</from>
+        <level>2</level>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <id>221</id>
+        <from>2</from>
+        <level>2</level>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+    </exceptionTest>
+
+</data>

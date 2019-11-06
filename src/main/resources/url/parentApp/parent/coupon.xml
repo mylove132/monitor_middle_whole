@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <Api1_1Name>优惠券:优惠券列表</Api1_1Name>
+    <Api1_1>/plusapi/user/couponlists</Api1_1>
+
+    <Api1_2Name>优惠券:使用优惠券</Api1_2Name>
+    <Api1_2>/plusapi/user/usecoupon</Api1_2>
+
+</ApiUrl>

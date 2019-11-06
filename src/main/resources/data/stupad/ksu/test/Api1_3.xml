@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.3 专属服务内容</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <kid>3</kid>
+        <ktype>20</ktype>
+        <restype>1</restype>
+    </test>
+
+</data>
+

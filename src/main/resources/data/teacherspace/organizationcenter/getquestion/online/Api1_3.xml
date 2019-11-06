@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据条件获取我的习题列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <custom_directory_id>95353</custom_directory_id>
+        <custom_system_id>3507</custom_system_id>
+        <page>1</page>
+        <custom_directory_level>2</custom_directory_level>
+    </test>
+</data>
+

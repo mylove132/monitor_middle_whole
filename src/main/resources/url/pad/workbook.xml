@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>2.1登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api1_1Name>1.1 学科列表</Api1_1Name>
+    <Api1_1>workbook/subjects</Api1_1>
+
+    <Api1_3Name>1.3 章节列表</Api1_3Name>
+    <Api1_3>workbook/cklist</Api1_3>
+
+    <Api1_7Name>1.7 做题</Api1_7Name>
+    <Api1_7>workbook/questions</Api1_7>
+
+    <Api1_11Name>1.11 学科错题列表</Api1_11Name>
+    <Api1_11>workbook/subjectwrongs</Api1_11>
+
+    <Api1_12Name>1.12 移除错题</Api1_12Name>
+    <Api1_12>workbook/removequest</Api1_12>
+
+    <Api1_13Name>1.13 获取错题题集</Api1_13Name>
+    <Api1_13>workbook/wbquests</Api1_13>
+
+    <Api1_14Name>1.14 获取做答记录</Api1_14Name>
+    <Api1_14>workbook/answerlist</Api1_14>
+
+</ApiUrl>

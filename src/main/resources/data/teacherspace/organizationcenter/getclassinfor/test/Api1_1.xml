@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取班级学生列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <class_id>2023</class_id>
+        <collection_id>121</collection_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取班级学生列表-班级id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <class_id></class_id>
+        <collection_id>121</collection_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取班级学生列表-班级id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <class_id>X</class_id>
+        <collection_id>121</collection_id>
+    </exceptionTest>
+
+    <exceptionTest>//如果设置该选项 获取题集相关状态 如作业 评测 考试等 0不获取
+        <testcaseName>获取班级学生列表-题集id为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <class_id>2023</class_id>
+        <collection_id></collection_id>
+    </exceptionTest>
+
+</data>
+

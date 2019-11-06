@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 修改目录名称</Api1_1Name>
+    <Api1_1>myindex/index_update</Api1_1>
+
+    <Api1_2Name>1.2 创建／修改自定义体系名称</Api1_2Name>
+    <Api1_2>myindex/indextag_update</Api1_2>
+
+    <Api1_3Name>1.3 删除自定义体系</Api1_3Name>
+    <Api1_3>myindex/indextag_delete</Api1_3>
+
+    <Api1_4Name>1.4 删除自定义目录</Api1_4Name>
+    <Api1_4>myindex/index_delete</Api1_4>
+
+    <Api1_5Name>1.5 添加目录</Api1_5Name>
+    <Api1_5>myindex/index_add</Api1_5>
+
+    <Api1_6Name>1.6 记录点击的目录</Api1_6Name>
+    <Api1_6>myindex/index_trace_last_add</Api1_6>
+
+    <Api1_7Name>1.7 转移资源并删除目录</Api1_7Name>
+    <Api1_7>myindex/index_transfer</Api1_7>
+
+    <Api1_8Name>1.8 引用目录</Api1_8Name>
+    <Api1_8>myindex/index_refer</Api1_8>
+
+    <Api1_9Name>1.9 取消引用目录</Api1_9Name>
+    <Api1_9>myindex/index_refer_cancel</Api1_9>
+
+    <Api1_10Name>1.10 是否可以跳转首页</Api1_10Name>
+    <Api1_10>myindex/indextag_check</Api1_10>
+
+    <Api1_11Name>1.11 根据自定义体系id获取自定义目录</Api1_11Name>
+    <Api1_11>myindex/index_get_by_indextag</Api1_11>
+
+    <Api1_12Name>1.12 获取目录缓存列表</Api1_12Name>
+    <Api1_12>myindex/index_trace_last_get</Api1_12>
+
+    <Api1_13Name>1.13 获取教材版本列表</Api1_13Name>
+    <Api1_13>myindex/version_list</Api1_13>
+
+    <Api1_14Name>1.14 获取自定义体系列表</Api1_14Name>
+    <Api1_14>myindex/indextag_list_my</Api1_14>
+
+    <Api1_15Name>1.15 获取目录是否可以被删除</Api1_15Name>
+    <Api1_15>myindex/index_delete_check</Api1_15>
+
+    <Api1_16Name>1.16 获取引用体系下列表-机构</Api1_16Name>
+    <Api1_16>myindex/org_code_list</Api1_16>
+
+    <Api1_17Name>1.17 获取教材体系列表-机构</Api1_17Name>
+    <Api1_17>myindex/org_indextag_list</Api1_17>
+
+    <Api1_18Name>1.18 获取引用体系下目录-机构</Api1_18Name>
+    <Api1_18>myindex/org_index_list</Api1_18>
+
+
+</ApiUrl>

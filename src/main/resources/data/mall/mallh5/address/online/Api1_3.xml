@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>地址-修改收货地址（defaultFlag=0）不选中</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <defaultFlag>0</defaultFlag>
+        <address>测试收货地址修改-勿动</address>
+        <areaCode>110101</areaCode>
+        <provinceCode>110000</provinceCode>
+        <cityCode>110100</cityCode>
+        <name>此地址勿动</name>
+        <tel>18555555555</tel>
+        <type>2</type>
+        <id>119</id>
+        <provinceName>北京市</provinceName>
+        <cityName>市辖区</cityName>
+        <areaName>东城区</areaName>
+        <createTime>1548755854000</createTime>
+        <updateTime>1548755854000</updateTime>
+    </test>
+    <test>
+        <testcaseName>地址-修改收货地址（defaultFlag=1）选中</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <defaultFlag>1</defaultFlag>
+        <address>测试收货地址修改-勿动</address>
+        <areaCode>110101</areaCode>
+        <provinceCode>110000</provinceCode>
+        <cityCode>110100</cityCode>
+        <name>此地址勿动</name>
+        <tel>18555555555</tel>
+        <type>2</type>
+        <id>119</id>
+        <provinceName>北京市</provinceName>
+        <cityName>市辖区</cityName>
+        <areaName>东城区</areaName>
+        <createTime>1548755854000</createTime>
+        <updateTime>1548755854000</updateTime>
+    </test>
+</data>

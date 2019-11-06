@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>操作记录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <ksu_id>585</ksu_id>
+        <page>1</page>
+        <page_size>12</page_size>
+    </test>
+
+    <test>
+        <testcaseName>操作记录-查看第二页</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <ksu_id>585</ksu_id>
+        <page>1</page>
+        <page_size>12</page_size>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <ksu_id></ksu_id>
+        <page></page>
+        <page_size></page_size>
+    </exceptionTest>
+
+</data>
+

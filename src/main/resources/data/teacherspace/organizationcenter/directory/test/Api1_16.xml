@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取引用体系下列表-机构</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+    </test>
+
+</data>

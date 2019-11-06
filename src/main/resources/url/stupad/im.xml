@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <!--<Api1_1Name>1.1 根据学生信息获取所有相关老师信息（通讯录）</Api1_1Name>-->
+    <!--<Api1_1>user/getTeacherInfoByStudent</Api1_1>-->
+
+    <!--<Api1_2Name>1.2 请求某些老师的详细信息</Api1_2Name>-->
+    <!--<Api1_2>user/getTeacherInfo</Api1_2>-->
+
+    <Api1_3Name>1.3 请求当前用户是否显示联系人图标的接口</Api1_3Name>
+    <Api1_3>user/getShowContactIcon</Api1_3>
+
+    <!--<Api1_4Name>1.4 文件上传接口</Api1_4Name>-->
+    <!--<Api1_4>user/uploadfile</Api1_4>-->
+</ApiUrl>

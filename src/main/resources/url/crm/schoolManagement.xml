@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Crm_LoginName>crm后台登录</Crm_LoginName>
+    <Crm_Login>/login</Crm_Login>
+
+    <!--<Crm_LoginOutName>crm后台退出</Crm_LoginOutName>-->
+    <!--<Crm_LoginOut>/logout</Crm_LoginOut>-->
+
+    <Api1_1Name>学校管理-获取主管方接口</Api1_1Name>
+    <Api1_1>/customer/director/show</Api1_1>
+
+    <Api1_2Name>学校管理-获取学校权限范围</Api1_2Name>
+    <Api1_2>/customer/school/privilege</Api1_2>
+
+    <Api1_3Name>学校管理-获取学科</Api1_3Name>
+    <Api1_3>/common/stage/subject</Api1_3>
+
+    <Api1_4Name>学校管理-学校管理列表</Api1_4Name>
+    <Api1_4>/customer/school/lists</Api1_4>
+
+    <Api1_5Name>学校管理-获取单个学校信息</Api1_5Name>
+    <Api1_5>/customer/school/detail</Api1_5>
+
+    <Api1_6Name>学校管理-获取学段级联</Api1_6Name>
+    <Api1_6>/customer/school/findSubjectStage</Api1_6>
+
+    <Api1_7Name>学校管理-获取教师信息</Api1_7Name>
+    <Api1_7>/customer/school/unblockTeacherList</Api1_7>
+
+    <Api1_8Name>学校管理-获取黑名单列表</Api1_8Name>
+    <Api1_8>/customer/school/blockList</Api1_8>
+</ApiUrl>

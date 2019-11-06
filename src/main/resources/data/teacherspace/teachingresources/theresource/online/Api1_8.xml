@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>取消已经发布的资源包</testcaseName>
+        <expectedCode>code:60022</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>38</publish_id>
+        <reason>1</reason>
+        <type>8</type>
+    </exceptionTest>
+
+</data>
+

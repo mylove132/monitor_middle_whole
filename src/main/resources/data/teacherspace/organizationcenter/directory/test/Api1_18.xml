@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取引用体系下目录-机构</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <system_id>1</system_id>
+        <material_id>2</material_id>
+        <version_id>19</version_id>
+        <directory_id>178</directory_id>
+    </test>
+
+</data>

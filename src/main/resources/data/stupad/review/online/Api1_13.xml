@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.13 英语作文智批改详情接口</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <qid>12100401</qid>
+        <workid>3688575</workid>
+        <module>2</module>
+        <resource_id>-1</resource_id>
+        <wrongfrom>-1</wrongfrom>
+        <isWrongBook>0</isWrongBook>
+    </test>
+
+
+
+</data>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>通过知识点获取错题本题集</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pagesize>10</pagesize>
+        <fromindex>0</fromindex>
+        <id>12209</id>
+        <flag>2</flag>
+        <level>3</level>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <pagesize>10</pagesize>
+        <fromindex>0</fromindex>
+        <id>121</id>
+        <flag>2</flag>
+        <level>1</level>
+    </exceptionTest>
+
+</data>
+

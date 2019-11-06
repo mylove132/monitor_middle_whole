@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>委托列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <filter_type>1</filter_type>
+        <page>1</page>
+        <page_size>10</page_size>
+    </test>
+
+</data>

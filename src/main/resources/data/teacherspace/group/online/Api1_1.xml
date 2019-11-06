@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>创建编辑分组</testcaseName>
+        <expectedCode>code:70269</expectedCode>
+        <caseType>1</caseType>
+        <name>测试</name>
+        <class_id>1974</class_id>
+        <group_root_id></group_root_id>
+        <student_ids>81112027</student_ids>
+    </exceptionTest>
+</data>

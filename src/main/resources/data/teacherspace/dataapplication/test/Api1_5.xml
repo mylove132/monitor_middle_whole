@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>设置未达标标准</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <class_id>12059</class_id>
+        <level>A</level>
+        <value>50</value>
+    </test>
+</data>

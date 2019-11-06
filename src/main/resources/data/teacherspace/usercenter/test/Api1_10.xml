@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>发送手机验证码-未登陆</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <trace_no_image_code>test</trace_no_image_code>
+        <phone_num>18516280768</phone_num>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>发送手机验证码-手机号为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <trace_no_image_code>test</trace_no_image_code>
+        <phone_num></phone_num>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>发送手机验证码-手机号错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <trace_no_image_code>test</trace_no_image_code>
+        <phone_num>1852216280768</phone_num>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>发送手机验证码-trace_no_image_code为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <trace_no_image_code></trace_no_image_code>
+        <phone_num>18516280768</phone_num>
+    </exceptionTest>
+
+</data>

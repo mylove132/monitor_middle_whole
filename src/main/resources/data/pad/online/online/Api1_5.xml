@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+
+    <exceptionTest>
+        <testcaseName>成功批改上课主观题</testcaseName>
+        <expectedCode>meta.ecode:1058</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <qid1>1410106</qid1>
+        <qtype>4</qtype>
+        <exeid>6248</exeid>
+        <classid>2058</classid>
+        <courseid>19363</courseid>
+        <result>2</result>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <qid1>1410106</qid1>
+        <qtype>4</qtype>
+        <exeid>6248</exeid>
+        <classid>2058</classid>
+        <courseid>19363</courseid>
+        <result>2</result>
+    </exceptionTest>
+
+</data>
+

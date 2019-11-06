@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取学科列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <stage>2</stage>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>自主、非自主答题概览，未校验必填项</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <stage></stage>
+    </exceptionTest>
+
+</data>
+

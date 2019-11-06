@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pr_loginName>资源平台登录</Pr_loginName>
+    <Pr_login>/user/login</Pr_login>
+
+    <!--<Api1_1Name>登录</Api1_1Name>-->
+    <!--<Api1_1>/user/login</Api1_1>-->
+
+    <Api1_2Name>退出</Api1_2Name>
+    <Api1_2>/user/logout</Api1_2>
+
+    <Api1_3Name>知识点列表</Api1_3Name>
+    <Api1_3>/api/knowledge_list</Api1_3>
+
+    <Api1_4Name>题集详情</Api1_4Name>
+    <Api1_4>/api/simul_detail</Api1_4>
+
+    <Api1_5Name>下载接口</Api1_5Name>
+    <Api1_5>/api/resource_download</Api1_5>
+
+    <Api1_6Name>登出</Api1_6Name>
+    <Api1_6>/user/logout</Api1_6>
+
+</ApiUrl>

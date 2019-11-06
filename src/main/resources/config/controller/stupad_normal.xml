@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MySuite" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="usercenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.usercenter"/>
+        </packages>
+    </test>
+
+    <test name="common" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.common"/>
+        </packages>
+    </test>
+
+    <test name="launcher" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.launcher"/>
+        </packages>
+    </test>
+
+    <test name="online" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.online"/>
+        </packages>
+    </test>
+
+    <test name="preview" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.preview"/>
+        </packages>
+    </test>
+
+    <test name="review" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.review"/>
+        </packages>
+    </test>
+
+    <test name="selfstudy" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.selfstudy"/>
+        </packages>
+    </test>
+
+    <test name="im" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.im"/>
+        </packages>
+    </test>
+
+    <test name="ksu" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.ksu"/>
+        </packages>
+    </test>
+
+    <test name="hardware" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.stupad.hardware"/>
+        </packages>
+    </test>
+</suite>

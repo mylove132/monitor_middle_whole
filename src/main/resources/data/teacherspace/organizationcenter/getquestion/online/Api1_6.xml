@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据条件获取题集</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <chapter_level>1</chapter_level>
+        <chapter_id>121</chapter_id>
+        <type></type>
+        <page>1</page>
+        <keyword></keyword>
+    </test>
+
+
+</data>
+

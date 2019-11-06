@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除自定义目录</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>0</caseType>
+        <is_sure>1</is_sure>
+        <id></id>
+    </exceptionTest>
+
+</data>

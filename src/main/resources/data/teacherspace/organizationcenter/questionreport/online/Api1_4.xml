@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--<test>-->
+    <!--<testcaseName>根发布的作业，查看某个学生的习题报告</testcaseName>-->
+    <!--<expectedCode>0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<history_id>12</history_id>-->
+    <!--<student_id>82951051120</student_id>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>根发布的作业，查看某个学生的习题报告-历史id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id></history_id>
+        <student_id>81951036138</student_id>
+    </exceptionTest>
+</data>
+

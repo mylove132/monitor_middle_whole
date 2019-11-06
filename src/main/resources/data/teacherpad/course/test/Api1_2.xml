@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>查询已发布课程</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <class_id>12899</class_id>
+        <directory_id>28</directory_id>
+        <page></page>
+        <type_publish>1</type_publish>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token异常</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <class_id>12899</class_id>
+        <directory_id>28</directory_id>
+        <page></page>
+        <type_publish>1</type_publish>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>直播课</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <class_id></class_id>
+        <directory_id></directory_id>
+        <page>1</page>
+        <type_publish>2</type_publish>
+    </exceptionTest>
+
+
+</data>
+

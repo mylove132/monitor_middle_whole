@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功注销</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>uid为空（只校验token）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid></uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+    </exceptionTest>
+
+</data>
+

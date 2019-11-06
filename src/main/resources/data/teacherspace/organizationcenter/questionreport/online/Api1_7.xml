@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>获取单题的习题报告-历史id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id></history_id>
+        <question_id>1408494</question_id>
+        <type>1</type>
+    </exceptionTest>
+</data>
+

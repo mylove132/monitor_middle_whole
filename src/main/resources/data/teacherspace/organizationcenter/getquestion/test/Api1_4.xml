@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取题集的习题详情</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <collection_id>30</collection_id>
+        <type>1</type>
+        <query_old_quiz></query_old_quiz>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取题集的习题详情-题集id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <collection_id></collection_id>
+        <type>1</type>
+        <query_old_quiz></query_old_quiz>
+    </exceptionTest>
+
+
+</data>
+

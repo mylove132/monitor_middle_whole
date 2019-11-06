@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>地址-收货地址列表</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <id>0</id>
+        <pageNo>1</pageNo>
+        <pageSize>2</pageSize>
+    </test>
+</data>

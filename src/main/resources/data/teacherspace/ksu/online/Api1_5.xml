@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>发布排课</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>0</caseType>
+        <order_ids>80000114353</order_ids>
+        <start_time>1542105899000</start_time>
+        <end_time>1542192359000</end_time>
+        <goods_id>87992</goods_id>
+        <resource_ids>719602,2,simul,2</resource_ids>
+        <type_publish>1</type_publish>
+        <course_name>答题卡</course_name>
+        <custom_system_id>76004</custom_system_id>
+        <custom_directory_id>4304603</custom_directory_id>
+    </exceptionTest>
+</data>

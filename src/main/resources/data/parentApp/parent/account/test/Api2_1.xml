@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>用户修改个人信息（v2.9.1+）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <role>0</role>
+        <name>沈测试</name>
+        <reacode>101111</reacode>
+    </test>
+</data>
+

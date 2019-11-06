@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>进批改之前判断是否可以进入</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <publish_id>330740</publish_id>
+        <link_id>583411</link_id>
+        <resource_id>300550</resource_id>
+        <type>8</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>进批改之前判断是否可以进入-publishd为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300550</resource_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>进批改之前判断是否可以进入-linkid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id></link_id>
+        <resource_id>300550</resource_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>进批改之前判断是否可以进入-Resourceid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id></resource_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>进批改之前判断是否可以进入-type超限</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300550</resource_id>
+        <type>16</type>
+    </exceptionTest>
+</data>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.8 复习刷题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>3235</id>
+        <flag>1</flag>
+        <level>3</level>
+        <name>不定冠词</name>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.8 复习刷题-id为空</testcaseName>
+        <expectedCode>meta.ecode:1057</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>0</id>
+        <flag>1</flag>
+        <level>2</level>
+        <name>zxz2016.01.14-章节-01</name>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.8 复习刷题-flag为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>12</id>
+        <flag>0</flag>
+        <level>2</level>
+        <name>zxz2016.01.14-章节-01</name>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.8 复习刷题-level为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>12</id>
+        <flag>1</flag>
+        <level>0</level>
+        <name>zxz2016.01.14-章节-01</name>
+    </exceptionTest>
+
+</data>
+

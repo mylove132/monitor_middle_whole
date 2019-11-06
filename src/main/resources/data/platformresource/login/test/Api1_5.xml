@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>下载接口</testcaseName>
+        <expectedCode>code:4</expectedCode>
+        <caseType>0</caseType>
+        <id>1164586</id>
+        <rtype>courseware</rtype>
+    </test>
+
+</data>
+

@@ -1,0 +1,11 @@
+﻿<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login>/api/user/login</Pa_login>
+
+    <Api1_1Name>家长创建学生</Api1_1Name>
+    <Api1_1>/usercenter/parent/createStudentAccount</Api1_1>
+
+</ApiUrl>-->

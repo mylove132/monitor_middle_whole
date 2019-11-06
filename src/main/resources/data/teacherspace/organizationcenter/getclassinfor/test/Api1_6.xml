@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>新建班级(班级名不能为汉字)</testcaseName>
+        <expectedCode>code:70266</expectedCode>
+        <caseType>0</caseType>
+        <class_name>测试班级</class_name>
+        <grade_id>8</grade_id>
+    </test>
+
+</data>

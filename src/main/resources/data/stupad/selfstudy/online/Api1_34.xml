@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.34 [自主学习]-- 智能推荐微课列表(智慧学习4.1新增)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <iccid>isFake</iccid>
+        <currentpage>1</currentpage>
+        <pagesize>10</pagesize>
+    </test>
+
+</data>
+

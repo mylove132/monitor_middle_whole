@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>记录点击的目录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <children>{"id":2564}</children>
+        <system_id>51</system_id>
+        <id>2563</id>
+    </test>
+
+</data>

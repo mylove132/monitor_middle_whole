@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Mallh5_loginName>家长APP登录-商城手机H5-smart-mall-server</Mallh5_loginName>
+    <Mallh5_login>/plusapi/signin</Mallh5_login>
+
+    <Api1_1Name>学生档案</Api1_1Name>
+    <Api1_1>/api/v1/user/childrenInfo</Api1_1>
+
+    <Api1_2Name>优惠券列表</Api1_2Name>
+    <Api1_2>/api/v1/coupon/list</Api1_2>
+
+    <Api1_3Name>使用优惠券</Api1_3Name>
+    <Api1_3>/api/v1/coupon/use</Api1_3>
+
+</ApiUrl>

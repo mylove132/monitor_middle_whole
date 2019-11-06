@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取商品信息列表</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <pageNo>1</pageNo>
+        <channelType>2</channelType>
+        <pageSize>2</pageSize>
+        <categoryCode>SXB</categoryCode>
+        <searchFlag>0</searchFlag>
+    </test>
+</data>

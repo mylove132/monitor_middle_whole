@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取商品信息列表(channelType=1)B线代理商</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <pageNo>1</pageNo>
+        <channelType>1</channelType>
+        <pageSize>2</pageSize>
+        <categoryCode>SXB</categoryCode>
+        <searchFlag>0</searchFlag>
+    </test>
+    <test>
+        <testcaseName>获取商品信息列表(channelType=2)Okay自营</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <pageNo>1</pageNo>
+        <channelType>2</channelType>
+        <pageSize>2</pageSize>
+        <categoryCode>SXB</categoryCode>
+        <searchFlag>0</searchFlag>
+    </test>
+    <test>
+        <testcaseName>获取商品信息列表(channelType=3)学习中心线</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <pageNo>1</pageNo>
+        <channelType>3</channelType>
+        <pageSize>2</pageSize>
+        <categoryCode>SXB</categoryCode>
+        <searchFlag>0</searchFlag>
+    </test>
+    <test>
+        <testcaseName>获取商品信息列表(channelType=4)机构线</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <pageNo>1</pageNo>
+        <channelType>4</channelType>
+        <pageSize>2</pageSize>
+        <categoryCode>SXB</categoryCode>
+        <searchFlag>0</searchFlag>
+    </test>
+</data>

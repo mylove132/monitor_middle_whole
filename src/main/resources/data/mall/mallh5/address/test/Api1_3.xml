@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>地址-修改收货地址</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <defaultFlag>0</defaultFlag>
+        <address>测试</address>
+        <areaCode>110101</areaCode>
+        <provinceCode>110000</provinceCode>
+        <cityCode>110100</cityCode>
+        <name>自动化测试</name>
+        <tel>18010466372</tel>
+        <type>2</type>
+        <id>1</id>
+    </test>
+</data>

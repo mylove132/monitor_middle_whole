@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>微课库列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <custom_directory_id>2127405</custom_directory_id>
+        <res_type>0</res_type>
+        <page>1</page>
+        <page_size>10</page_size>
+        <sort_type>0</sort_type>
+        <origin>0</origin>
+    </test>
+
+</data>

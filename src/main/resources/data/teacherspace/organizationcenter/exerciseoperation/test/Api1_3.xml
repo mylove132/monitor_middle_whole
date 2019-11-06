@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>保存发布题集-无权限</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <resource_ids>278919,2,simul</resource_ids>
+        <class_ids>2059</class_ids>
+        <end_time>1490832000000</end_time>
+        <type_target>1</type_target>
+        <type_publish>8</type_publish>
+        <collection_id></collection_id>
+        <title>测试</title>
+        <chapter_id>13871</chapter_id>
+        <chapter_level>2</chapter_level>
+        <!--<resource_ids>2626289</resource_ids>-->
+        <student_ids></student_ids>
+        <directory_id>46</directory_id>
+        <topics>1795</topics>
+        <custom_system_id>36363</custom_system_id>
+        <custom_directory_id>2127403</custom_directory_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>保存发布题集-资源id未空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <resource_ids></resource_ids>
+        <class_ids>12059</class_ids>
+        <end_time>1490832000000</end_time>
+        <type_target>1</type_target>
+        <type_publish>8</type_publish>
+        <collection_id></collection_id>
+        <title>测试</title>
+        <chapter_id>13871</chapter_id>
+        <chapter_level>2</chapter_level>
+        <!--<resource_ids>2626289</resource_ids>-->
+        <student_ids></student_ids>
+        <directory_id>46</directory_id>
+        <topics>1795</topics>
+        <custom_system_id>36363</custom_system_id>
+        <custom_directory_id>2127403</custom_directory_id>
+    </exceptionTest>
+
+    <test>
+        <testcaseName>保存发布题集（无权限）</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>0</caseType>
+        <resource_ids>361721,2,simul</resource_ids>
+        <class_ids>12059</class_ids>
+        <end_time>1505122200000</end_time>
+        <type_target>1</type_target>
+        <type_publish>1</type_publish>
+        <collection_id></collection_id>
+        <title>测试上课</title>
+        <!--<chapter_id>9575</chapter_id>-->
+        <!--<chapter_level>2</chapter_level>-->
+        <!--<resource_ids>2626289</resource_ids>-->
+        <student_ids></student_ids>
+        <!--<directory_id>190</directory_id>-->
+        <!--<topics></topics>-->
+        <system_id>36344</system_id>
+        <custom_directory_id>2158725</custom_directory_id>
+    </test>
+</data>

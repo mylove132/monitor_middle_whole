@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <!--<test>-->
+    <!--<testcaseName>成功获取能力测验刷题</testcaseName>-->
+    <!--<expectedCode>meta.ecode:0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<sid>3</sid>-->
+    <!--<level>1</level>-->
+    <!--<from>2</from>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <sid>3</sid>
+        <level>1</level>
+        <from>2</from>
+    </exceptionTest>
+
+</data>

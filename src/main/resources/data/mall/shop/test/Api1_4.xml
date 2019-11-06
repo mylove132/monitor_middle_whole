@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>添加商品</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileCart</c>
+        <a>add</a>
+        <goodsId>190</goodsId>
+        <gcount>1</gcount>
+    </test>
+
+</data>
+

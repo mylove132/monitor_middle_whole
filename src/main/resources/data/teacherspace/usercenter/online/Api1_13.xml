@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>原手机号校验</testcaseName>
+        <expectedCode>code:3005</expectedCode>
+        <caseType>1</caseType>
+        <verify_code>18516280768</verify_code>
+        <trace_no>test</trace_no>
+    </exceptionTest>
+</data>

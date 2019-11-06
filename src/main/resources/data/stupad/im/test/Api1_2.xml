@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.1 根据学生信息获取所有相关老师信息</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <teacherId1>61951051107</teacherId1>
+        <teacherId2>61951054990</teacherId2>
+    </test>
+
+</data>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据题目id获取学生作答结果</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300550</resource_id>
+        <type>6</type>
+        <question_id>6326443</question_id>
+    </test>
+</data>

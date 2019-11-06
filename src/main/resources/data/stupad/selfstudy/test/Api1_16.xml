@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.16 知识点/章节列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <sid>3</sid>
+        <ktype>1</ktype>
+        <bid>3</bid>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.16 知识点/章节列表-sid为空（返回空列表）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <sid>0</sid>
+        <ktype>1</ktype>
+        <bid>3</bid>
+    </exceptionTest>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.16 知识点/章节列表-ktype为空</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1001</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<sid>3</sid>-->
+    <!--<ktype>0</ktype>-->
+    <!--<bid>3</bid>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.16 知识点/章节列表-bid为空</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1001</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<sid>3</sid>-->
+    <!--<ktype>2</ktype>-->
+    <!--<bid>0</bid>-->
+    <!--</exceptionTest>-->
+
+</data>
+

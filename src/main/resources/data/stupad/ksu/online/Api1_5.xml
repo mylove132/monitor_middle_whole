@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.5 求助我的老师和已购买的机构列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <kid>13871</kid>
+        <ktype>2</ktype>
+        <klevel>2</klevel>
+    </test>
+
+</data>
+

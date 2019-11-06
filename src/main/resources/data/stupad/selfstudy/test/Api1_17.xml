@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.17 查看资源上报</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>9217</kid>
+        <ktype>2</ktype>
+        <klevel>0</klevel>
+        <resid>1441139</resid>
+        <type>3</type>
+        <restype>1</restype>
+        <duration>369</duration>
+        <micduation>1142</micduation>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.17 查看资源上报-kid为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>0</kid>
+        <ktype>2</ktype>
+        <klevel>1</klevel>
+        <resid>12345</resid>
+        <type>2</type>
+        <restype>1</restype>
+        <duration>125000</duration>
+        <micduation>250000</micduation>
+    </exceptionTest>
+
+    <!-- <exceptionTest>
+         <testcaseName>1.17 查看资源上报-ktype为空</testcaseName>
+         <expectedCode>meta.ecode:1001</expectedCode>
+         <caseType>1</caseType>
+         <uid>newest</uid>
+         <token>newest</token>
+         <kid>123</kid>
+         <ktype>0</ktype>
+         <klevel>1</klevel>
+         <resid>12345</resid>
+         <type>2</type>
+         <restype>1</restype>
+         <duration>125000</duration>
+         <micduation>250000</micduation>
+     </exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>1.17 查看资源上报-klevel为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>2</ktype>
+        <klevel>2</klevel>
+        <resid>12345</resid>
+        <type>2</type>
+        <restype>1</restype>
+        <duration>125000</duration>
+        <micduation>250000</micduation>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.17 查看资源上报-resid为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>2</ktype>
+        <klevel>1</klevel>
+        <resid>0</resid>
+        <type>2</type>
+        <restype>1</restype>
+        <duration>125000</duration>
+        <micduation>250000</micduation>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.17 查看资源上报-type为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>2</ktype>
+        <klevel>1</klevel>
+        <resid>12345</resid>
+        <type>0</type>
+        <restype>1</restype>
+        <duration>125000</duration>
+        <micduation>250000</micduation>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.17 查看资源上报-restype为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>2</ktype>
+        <klevel>1</klevel>
+        <resid>12345</resid>
+        <type>2</type>
+        <restype>0</restype>
+        <duration>125000</duration>
+        <micduation>250000</micduation>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api1_1Name>1.1 登录</Api1_1Name>
+    <Api1_1>user/login</Api1_1>
+
+    <Api1_2Name>1.2 修改密码</Api1_2Name>
+    <Api1_2>user/modifypwd</Api1_2>
+
+    <Api1_3Name>1.3 注销</Api1_3Name>
+    <Api1_3>user/logout</Api1_3>
+
+    <Api1_5Name>1.5 获取个人信息数据</Api1_5Name>
+    <Api1_5>user/info</Api1_5>
+
+    <Api1_6Name>1.6 上传修改头像</Api1_6Name>
+    <Api1_6>user/uploadavatar</Api1_6>
+
+    <Api1_7Name>1.7 学生加入班级</Api1_7Name>
+    <Api1_7>user/joincls</Api1_7>
+
+    <Api1_8Name>1.8 意见反馈</Api1_8Name>
+    <Api1_8>user/feedback</Api1_8>
+
+    <Api1_9Name>1.9 意见反馈列表</Api1_9Name>
+    <Api1_9>user/feedbacklist</Api1_9>
+
+    <Api1_10Name>1.10 客服回复</Api1_10Name>
+    <Api1_10>user/servicereply</Api1_10>
+
+    <Api1_11Name>1.11 获取教材版本</Api1_11Name>
+    <Api1_11>user/textbooklist</Api1_11>
+
+    <Api1_12Name>1.12 修改教材版本</Api1_12Name>
+    <Api1_12>user/altertextbook</Api1_12>
+
+    <Api1_13Name>1.13 请求班级信息</Api1_13Name>
+    <Api1_13>user/querycls</Api1_13>
+
+    <Api1_14Name>1.14 获取加密信息</Api1_14Name>
+    <Api1_14>user/encryptinfo</Api1_14>
+
+    <Api1_15Name>1.15 申请重置密码</Api1_15Name>
+    <Api1_15>user/applyreset</Api1_15>
+
+    <Api1_16Name>1.16 重置密码</Api1_16Name>
+    <Api1_16>user/resetpwd</Api1_16>
+
+    <Api1_17Name>1.17 重置密码</Api1_17Name>
+    <Api1_17>user/checkpwd</Api1_17>
+
+    <Api1_18Name>1.18 查询学生班级(新增）</Api1_18Name>
+    <Api1_18>user/allclass</Api1_18>
+</ApiUrl>

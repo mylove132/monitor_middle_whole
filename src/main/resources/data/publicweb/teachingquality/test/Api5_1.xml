@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取用户信息</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <user_type>3</user_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取用户信息，未校验必填项</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <user_type></user_type>
+    </exceptionTest>
+
+</data>
+

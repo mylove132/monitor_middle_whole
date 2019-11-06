@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>教师管理-列表接口</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <authority>all</authority>
+        <page>1</page>
+        <status>all</status>
+        <subject>31</subject>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <authority></authority>
+        <page></page>
+        <status></status>
+        <subject></subject>
+    </exceptionTest>
+
+</data>
+

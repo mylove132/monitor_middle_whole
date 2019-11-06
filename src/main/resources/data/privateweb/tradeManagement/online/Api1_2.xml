@@ -1,0 +1,31 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<data>-->
+    <!--<test>-->
+        <!--<testcaseName>保存</testcaseName>-->
+        <!--<expectedCode>code:0</expectedCode>-->
+        <!--<caseType>0</caseType>-->
+        <!--<org_id>54</org_id>-->
+        <!--<org_name>学校</org_name>-->
+        <!--<org_type>4</org_type>-->
+        <!--<admin_id>661</admin_id>-->
+        <!--<raw_data>{↵ "topic":1806,↵ "directory_id": "12",↵ "ksu_id": "",↵ "ksu_name": "0516创建商品-02",↵ "module_list": [↵-->
+            <!--{↵ "content":"http://common.okjiaoyu.cn/fb_YLk3y4l5jW.png",↵ "intro": "说明文字",↵ "sub_title": "标题老师简介",↵-->
+            <!--"title": "模块一老师简介"↵ }↵ ],↵ "server_list": [↵ {↵ "price": "11.00",↵ "type": 2↵ }↵ ],↵ "stage_id": "1",↵-->
+            <!--"subject_id": "3",↵ "status": 2,↵ "teacher": {↵ "content":"http://common.okjiaoyu.cn/fb_YLk1ILychi.png",↵-->
+            <!--"intro": "SADA"↵ },↵ "teacher_id": "62951118988",↵ "version_id": "0"↵ }-->
+        <!--</raw_data>-->
+    <!--</test>-->
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>必填项未校验</testcaseName>-->
+        <!--<expectedCode>code:500</expectedCode>-->
+        <!--<caseType>0</caseType>-->
+        <!--<org_id></org_id>-->
+        <!--<org_name></org_name>-->
+        <!--<org_type></org_type>-->
+        <!--<admin_id></admin_id>-->
+        <!--<raw_data></raw_data>-->
+    <!--</exceptionTest>-->
+
+<!--</data>-->
+

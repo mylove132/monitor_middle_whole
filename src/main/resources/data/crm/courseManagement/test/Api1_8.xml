@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>课程管理-获取课程详情</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <course_id>122</course_id>
+        <page>1</page>
+        <page_size>10</page_size>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <course_id></course_id>
+        <page></page>
+        <page_size></page_size>
+    </exceptionTest>
+
+</data>
+

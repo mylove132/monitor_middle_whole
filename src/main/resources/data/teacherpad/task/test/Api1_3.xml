@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>按题获取当前学生报告</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <link_id>764851</link_id>
+        <q_flag>0</q_flag>
+        <question_id>4645272</question_id>
+        <resource_id>178786</resource_id>
+        <scene_type>6</scene_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <link_id>764851</link_id>
+        <q_flag>0</q_flag>
+        <question_id>4645272</question_id>
+        <resource_id>178786</resource_id>
+        <scene_type>6</scene_type>
+    </exceptionTest>
+
+</data>
+

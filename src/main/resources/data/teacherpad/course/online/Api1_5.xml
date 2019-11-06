@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>开放资源给学生</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <resource_id>178849</resource_id>
+        <publish_id>466750</publish_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>开放资源给学生异常，publish id 不存在</testcaseName>
+        <expectedCode>meta.ecode:60009</expectedCode>
+        <caseType>1</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <resource_id>178849</resource_id>
+        <publish_id>4667501111</publish_id>
+    </exceptionTest>
+
+</data>
+

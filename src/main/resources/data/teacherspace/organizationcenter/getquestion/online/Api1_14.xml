@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>移动题所属目录</testcaseName>
+        <expectedCode>code:29358</expectedCode>
+        <caseType>1</caseType>
+        <custom_system_id>36344</custom_system_id>
+        <custom_directory_id>2158725</custom_directory_id>
+        <id>1095942</id>
+    </exceptionTest>
+
+</data>
+

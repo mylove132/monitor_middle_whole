@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.11 学习记录列表</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>221</kid>
+        <klevel>1</klevel>
+        <ktype>1</ktype>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.11 学习记录列表-kid为空</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>0</kid>
+        <klevel>1</klevel>
+        <ktype>2</ktype>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.11 学习记录列表-klevel为空</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>221</kid>
+        <klevel>2</klevel>
+        <ktype>2</ktype>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.11 学习记录列表-ktype为空</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>221</kid>
+        <klevel>1</klevel>
+        <ktype>0</ktype>
+        <pagesize>1</pagesize>
+        <currentpage>1</currentpage>
+    </exceptionTest>
+
+</data>
+

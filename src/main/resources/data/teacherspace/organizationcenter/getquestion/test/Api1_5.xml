@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据习题ID数组获取习题列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <question_ids>569</question_ids>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>根据习题ID数组获取习题列表-题目id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <question_ids></question_ids>
+    </exceptionTest>
+
+
+</data>
+

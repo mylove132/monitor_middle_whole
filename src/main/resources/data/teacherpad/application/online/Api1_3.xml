@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>线上监控rom版本升级</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <systemid>82951382683</systemid>
+        <token></token>
+        <ua>OKAY_EBOOK_S4_OKUI_5.1.0.9_20190522_T</ua>
+        <sn>L1806012264</sn>
+        <sidlist>54</sidlist>
+    </test>
+
+</data>
+

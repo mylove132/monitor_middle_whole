@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <!-- <test>
+        <testcaseName>取消订单</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <orderId>33180</orderId>
+        <userName>shen</userName>
+    </test>-->
+
+    <exceptionTest>
+        <testcaseName>订单不存在</testcaseName>
+        <expectedCode>meta.code:170102</expectedCode>
+        <caseType>0</caseType>
+        <orderId>33180</orderId>
+        <userName>shen</userName>
+    </exceptionTest>
+</data>

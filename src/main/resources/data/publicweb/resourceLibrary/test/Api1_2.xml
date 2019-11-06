@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>资源库-根据体系类型选择获取对应的目录结构</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <region_list_group_id>46</region_list_group_id>
+        <stage_id>1</stage_id>
+        <subject_id>3</subject_id>
+        <topic>4</topic>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <region_list_group_id></region_list_group_id>
+        <stage_id></stage_id>
+        <subject_id></subject_id>
+        <topic></topic>
+    </exceptionTest>
+
+</data>
+

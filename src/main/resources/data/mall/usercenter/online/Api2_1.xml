@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除地址</testcaseName>
+        <expectedCode>status:35201</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileAddress</c>
+        <a>del</a>
+        <m>OkayMall</m>
+        <id></id>
+    </exceptionTest>
+
+</data>
+

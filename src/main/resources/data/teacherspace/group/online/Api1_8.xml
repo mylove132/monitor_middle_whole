@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取班级列表以及分组信息</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <!--<class_id>12059</class_id>-->
+        <!--<group_root_id>12059</group_root_id>-->
+    </test>
+</data>

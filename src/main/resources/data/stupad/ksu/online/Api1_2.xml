@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.2 [小云] 获取推荐学习内容</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <kid>14139</kid>
+        <klevel>3</klevel>
+        <ktype>1</ktype>
+    </test>
+
+</data>
+

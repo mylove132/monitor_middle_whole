@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>移动课程包</testcaseName>
+        <expectedCode>code:2</expectedCode>
+        <caseType>1</caseType>
+        <id>283725</id>
+        <custom_directory_id>2158725</custom_directory_id>
+    </exceptionTest>
+
+</data>
+

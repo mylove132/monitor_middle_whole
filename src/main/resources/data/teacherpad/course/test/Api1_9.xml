@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取资源列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <statistic_type>1</statistic_type>
+        <publish_id>423726</publish_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>0</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <statistic_type>1</statistic_type>
+        <publish_id>423726</publish_id>
+    </exceptionTest>
+
+
+</data>
+

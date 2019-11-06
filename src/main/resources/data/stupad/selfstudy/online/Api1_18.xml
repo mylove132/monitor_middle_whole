@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.18 查看知识点的求助状态详情</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>1</ktype>
+        <klevel>1</klevel>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.18 查看知识点的求助状态详情-ktype为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>0</ktype>
+        <klevel>1</klevel>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.18 查看知识点的求助状态详情-klevel为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <ktype>2</ktype>
+        <klevel>0</klevel>
+    </exceptionTest>
+
+
+</data>
+

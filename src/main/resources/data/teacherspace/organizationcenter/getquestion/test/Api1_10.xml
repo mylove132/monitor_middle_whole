@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>题纠错-题和题集不一致</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id>2625926</id>
+        <collection_id>1</collection_id>
+        <code>1</code>
+        <remark>test</remark>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>题纠错-id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id></id>
+        <collection_id>1</collection_id>
+        <code>1</code>
+        <remark>test</remark>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>题纠错-code为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id>2625926</id>
+        <collection_id>1</collection_id>
+        <code></code>
+        <remark>test</remark>
+    </exceptionTest>
+
+    <test>
+        <testcaseName>题纠错</testcaseName>
+        <expectedCode>code:3999</expectedCode>
+        <caseType>0</caseType>
+        <id>10309025</id>
+        <collection_id></collection_id>
+        <code>1</code>
+        <remark>test</remark>
+    </test>
+
+</data>
+

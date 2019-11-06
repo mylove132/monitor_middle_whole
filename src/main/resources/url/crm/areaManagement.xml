@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Crm_LoginName>crm后台登录</Crm_LoginName>
+    <Crm_Login>/login</Crm_Login>
+
+    <!--<Crm_LoginOutName>crm后台退出</Crm_LoginOutName>-->
+    <!--<Crm_LoginOut>/logout</Crm_LoginOut>-->
+
+    <Api1_1Name>区域管理-根据学校类型获取对应的主管方</Api1_1Name>
+    <Api1_1>/customer/director/show</Api1_1>
+
+    <Api1_2Name>区域管理-获取区域权限范围</Api1_2Name>
+    <Api1_2>/customer/director/privilege</Api1_2>
+
+    <Api1_3Name>区域管理-获取省市区</Api1_3Name>
+    <Api1_3>/common/area/show</Api1_3>
+
+    <Api1_4Name>区域管理-获取区域列表</Api1_4Name>
+    <Api1_4>/customer/director/lists</Api1_4>
+
+    <Api1_5Name>区域管理-获取单个区域信息</Api1_5Name>
+    <Api1_5>/customer/director/detail</Api1_5>
+
+</ApiUrl>

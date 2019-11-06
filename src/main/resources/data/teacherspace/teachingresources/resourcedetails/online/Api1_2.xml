@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>共享我的资源</testcaseName>
+        <expectedCode>code:60018</expectedCode>
+        <caseType>0</caseType>
+        <rid>6666666</rid>
+        <type>7</type>
+        <share_type>platform</share_type>
+    </exceptionTest>
+
+</data>
+

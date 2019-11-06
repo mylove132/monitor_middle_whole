@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>判断会员手机号是否注册</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <c>Users</c>
+        <a>okayMallTelisRegisted</a>
+        <verifyTel>18810569168</verifyTel>
+    </test>
+</data>
+

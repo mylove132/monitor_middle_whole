@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1.3 获取正在上课的课程列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <currentpage>1</currentpage>
+        <pagesize>1</pagesize>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.3 获取正在上课的课程列表-页数为负数</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <token>newest</token>
+        <currentpage>-1</currentpage>
+        <pagesize>-1</pagesize>
+    </exceptionTest>
+
+    <!--<test>-->
+    <!--<testcaseName>miss(token)</testcaseName>-->
+    <!--<expectedCode>1004</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>miss</token>-->
+    <!--</test>-->
+
+    <!--<test>-->
+    <!--<testcaseName>miss(uid)</testcaseName>-->
+    <!--<expectedCode>0</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>miss</uid>-->
+    <!--<token>newest</token>-->
+    <!--</test>-->
+
+    <!--<test>-->
+    <!--<testcaseName>empty(token)</testcaseName>-->
+    <!--<expectedCode>1004</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token></token>-->
+    <!--</test>-->
+
+    <!--<test>-->
+    <!--<testcaseName>empty(uid)</testcaseName>-->
+    <!--<expectedCode>0</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid></uid>-->
+    <!--<token>newest</token>-->
+    <!--</test>-->
+
+
+</data>
+

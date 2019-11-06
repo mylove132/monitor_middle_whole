@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1_2删除收藏</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>used</uid>
+        <token>used</token>
+        <rid>283379</rid>
+        <type>2</type>
+        <custom_directory_id>2641639</custom_directory_id>
+        <custom_system_id>46380</custom_system_id>
+    </test>
+
+
+</data>
+

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 创建编辑分组</Api1_1Name>
+    <Api1_1>classgroup/cgroup_update</Api1_1>
+
+    <Api1_2Name>1.2 删除分组</Api1_2Name>
+    <Api1_2>classgroup/cgroup_delete</Api1_2>
+
+    <Api1_3Name>1.3 学生切换小组</Api1_3Name>
+    <Api1_3>classgroup/stu_cgroup_change</Api1_3>
+
+    <Api1_4Name>1.4 获取小组内学生列表</Api1_4Name>
+    <Api1_4>classgroup/cgroup_list_stu</Api1_4>
+
+    <Api1_5Name>1.5 获取小组内加学生信息</Api1_5Name>
+    <Api1_5>classgroup/cgroup_list</Api1_5>
+
+    <Api1_6Name>1.6 获取我的班级分组</Api1_6Name>
+    <Api1_6>classgroup/cgroup_list_children</Api1_6>
+
+    <Api1_7Name>1.7 获取未分组的学生列表</Api1_7Name>
+    <Api1_7>classgroup/ungroup_stu_list</Api1_7>
+
+    <Api1_8Name>1.8 获取班级列表以及分组信息</Api1_8Name>
+    <Api1_8>classgroup/class_list_groups</Api1_8>
+
+
+</ApiUrl>

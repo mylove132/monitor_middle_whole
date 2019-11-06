@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>请求某些老师的详细信息</testcaseName>
+        <expectedCode>meta.ecode:40001</expectedCode>
+        <caseType>0</caseType>
+        <studentId>82951270248</studentId>
+        <teacherIds>[62951260131,62951270240]</teacherIds>
+    </exceptionTest>
+
+</data>
+

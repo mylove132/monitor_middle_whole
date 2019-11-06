@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取所有省</testcaseName>
+        <expectedCode>110000.areaId:110000</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileAreas</c>
+        <a>getAllProvince</a>
+        <m>OkayMall</m>
+    </test>
+
+</data>
+

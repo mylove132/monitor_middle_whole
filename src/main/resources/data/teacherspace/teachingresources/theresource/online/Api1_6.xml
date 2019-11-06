@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>创建/更新并发布资源包</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <resource_ids>361598,2,simul</resource_ids>
+        <!--<resource_ids>24582,1,ppt</resource_ids>-->
+        <publish_name>test</publish_name>
+        <title>test</title>
+        <chapter_id>13888</chapter_id>
+        <chapter_level>2</chapter_level>
+        <type_publish>1</type_publish>
+        <type_target>1</type_target>
+        <class_ids>12059</class_ids>
+        <end_time>1479772800000</end_time>
+        <system_id>36363</system_id>
+        <!--<custom_directory_id>2127405</custom_directory_id>-->
+        <custom_directory_id></custom_directory_id>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取当前资源的详情</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <r_id>178786</r_id>
+        <r_type>2</r_type>
+    </test>
+    <test>
+        <t  estcaseName>获取当前资源的详情(小数分值)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <link_id>2625843</link_id>
+        <publish_id>1386758</publish_id>
+        <r_id>672761</r_id>
+        <r_type>2</r_type>
+        <scene_type>8</scene_type>
+    </test>
+    <test>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <r_id>178786</r_id>
+        <r_type>2</r_type>
+    </test>
+
+
+</data>
+

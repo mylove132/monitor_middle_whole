@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>发送手机验证码</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <!--<phone_num>18310269027</phone_num>-->
+        <phone_num>18516280768</phone_num>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>发送手机验证码-手机号为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num></phone_num>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>发送手机验证码-手机号错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>12321312313</phone_num>
+    </exceptionTest>
+
+</data>

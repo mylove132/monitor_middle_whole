@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取聊天历史记录</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <count>1</count>
+       <!-- <fromAccount>99951060462</fromAccount>-->
+        <im_token>otc3niycka+zGLSBEmkMhbwnhOmNh+XCBIz/Gu7vf6lUZJyTDkPaJN5B0NX/52wf59iZFxqbpGWQUttgoemzX3BRw/CHpjct7ypzMBLpZvzw54xVjaGHBIvimSPf16vb9Xrlw+tYl2SugH4RfPEhYOfn/cuR/GUOTbmbEnM5MG5WETveICaUIKW9so5un0+8/ZF3u3Y/SmKLhCptZK5BI2xLvhGKQI6WcmRxs+F+CNulZ052EA7lOMxKFhGRzs83sN1ux6lSeXt8Vt/Q8SIZkSZ09/cxQ+c3gDLNbq/SwbDi03C6BJLCJBTq8YXddyovtvnjBR/jxRZ7fIiBDy816q4Om/rnET0/G0fsvKUc1IWL4Iytawe+9SbaFyCejhG2zkGuDx2iXkt2/oLWCX6NiJfjlOwSTpYmBavv7i756xaOJddXVHR/Rxi7C+LPlnA5drRORevuDWpELSCrS6WLoA==</im_token>
+       <!-- <toAccount>99951060462</toAccount>-->
+        <type>USER</type>
+        <utcToTime>7260768000000</utcToTime>
+    </test>
+</data>

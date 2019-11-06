@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>知识点列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <area_id>0</area_id>
+        <class_id>7</class_id>
+        <page>1</page>
+        <pagesize>5</pagesize>
+        <point_sign>1</point_sign>
+        <subject_id>0</subject_id>
+    </test>
+</data>
+

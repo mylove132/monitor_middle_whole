@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据条件获取习题列表-按知识点</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <chapter_level>1</chapter_level>
+        <type></type>
+        <difficulty></difficulty>
+        <page>1</page>
+        <directory_id>621</directory_id>
+        <chapter_id>4240</chapter_id>
+    </test>
+
+
+</data>
+

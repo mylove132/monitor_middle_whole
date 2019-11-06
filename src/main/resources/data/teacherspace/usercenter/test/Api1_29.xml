@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>退出教学班--class_id错误</testcaseName>
+        <expectedCode>code:70260</expectedCode>
+        <caseType>1</caseType>
+        <class_id>35063434336</class_id>
+        <password>123456</password>
+    </exceptionTest>
+</data>

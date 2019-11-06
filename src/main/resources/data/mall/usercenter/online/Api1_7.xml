@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>重置密码-确认新密码</testcaseName>
+        <expectedCode>status:33001</expectedCode>
+        <caseType>1</caseType>
+        <c>MobileUsers</c>
+        <a>okayMallFindPassThird</a>
+        <comfirmPassword>123456</comfirmPassword>
+        <password>123456</password>
+    </exceptionTest>
+
+</data>
+

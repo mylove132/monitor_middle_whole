@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.3 作业提交答案</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1001</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<workid>1</workid>-->
+        <!--<duration>125000</duration>-->
+        <!--<qid1>1414338</qid1>-->
+        <!--<qid2>1410636</qid2>-->
+    <!--</exceptionTest>-->
+
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.3 作业提交答案-workid为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1228</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<workid>0</workid>-->
+        <!--<duration>125000</duration>-->
+        <!--<qid1>1414338</qid1>-->
+        <!--<qid2>1410636</qid2>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+        <!--<testcaseName>1.3 作业提交答案-questionID为空</testcaseName>-->
+        <!--<expectedCode>meta.ecode:1228</expectedCode>-->
+        <!--<caseType>1</caseType>-->
+        <!--<uid>newest</uid>-->
+        <!--<token>newest</token>-->
+        <!--<workid>1</workid>-->
+        <!--<duration>125000</duration>-->
+        <!--<qid1>0</qid1>-->
+        <!--<qid2>0</qid2>-->
+    <!--</exceptionTest>-->
+</data>
+

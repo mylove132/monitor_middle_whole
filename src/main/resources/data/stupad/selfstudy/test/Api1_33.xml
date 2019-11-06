@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.25 [自主学习]--学习记录中的习题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <scene>1</scene>
+        <kid>9241</kid>
+        <ktype>2</ktype>
+        <sid>1</sid>
+        <answertype>3</answertype>
+        <exersice_key>ff3547af02e84b4c8a52826e91bd19cc</exersice_key>
+
+        <intelligent>0</intelligent>
+        <qids>2636709</qids>
+        <qtype>4</qtype>
+        <submitanswer>B</submitanswer>
+        <result>7</result>
+        <submittype>0</submittype>
+        <structid>3</structid>
+    </test>
+
+</data>
+

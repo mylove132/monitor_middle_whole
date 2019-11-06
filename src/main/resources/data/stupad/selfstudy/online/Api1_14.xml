@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <!--<test>-->
+    <!--<testcaseName>1.14 [自主学习]&#45;&#45;提交求助</testcaseName>-->
+    <!--<expectedCode>meta.ecode:0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<kid>123</kid>-->
+    <!--<klevel>1</klevel>-->
+    <!--<ktype>1</ktype>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>提交求助-kid为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>0</kid>
+        <klevel>1</klevel>
+        <ktype>1</ktype>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>提交求助-ktype为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kid>123</kid>
+        <klevel>1</klevel>
+        <ktype>0</ktype>
+    </exceptionTest>
+
+</data>
+

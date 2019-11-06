@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>商品列表展示</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <day_start></day_start>
+        <day_end></day_end>
+        <ksu_status>0</ksu_status>
+        <key_type>1</key_type>
+        <page>1</page>
+        <page_size>15</page_size>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <subject_id></subject_id>
+    </exceptionTest>
+
+</data>
+

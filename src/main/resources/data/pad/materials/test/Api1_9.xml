@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <sid>3</sid>
+        <pagesize>1</pagesize>
+        <level>2</level>
+        <lastid>0</lastid>
+        <knowledgeid>14086</knowledgeid>
+        <from>1</from>
+        <currentpage>1</currentpage>
+    </exceptionTest>
+
+</data>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>验证手机号是否被注册</testcaseName>
+        <expectedCode>meta.emsg:成功</expectedCode>
+        <caseType>0</caseType>
+        <phone>18516280768</phone>
+        <pwd>5vet04B51lo=</pwd>
+    </test>
+
+</data>
+

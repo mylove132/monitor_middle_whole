@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取商品列表</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileGoods</c>
+        <a>getGoods</a>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取商品列表</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileGoods</c>
+        <a>getGoods</a>
+    </exceptionTest>
+
+</data>

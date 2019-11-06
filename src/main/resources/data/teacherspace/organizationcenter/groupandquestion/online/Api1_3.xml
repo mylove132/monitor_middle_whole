@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>新增题目</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <status>0</status>
+        <html>{"body":"<p>test</p>","options":["<p>test</p>","<p>test</p>","<p>test</p>","<p>test</p>"],"analysis":"<p>
+            test</p>","answer":["A"],"questions":[]}
+        </html>
+        <id>2504492</id>
+        <level>1</level>
+        <ref>0</ref>
+        <type>1</type>
+        <topic>0</topic>
+        <chapter>9145</chapter>
+        <versionId>19</versionId>
+        <directoryId>178</directoryId>
+        <customDirectoryId></customDirectoryId>
+        <groupId>101586</groupId>
+        <source>test</source>
+    </exceptionTest>
+</data>

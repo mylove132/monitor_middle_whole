@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>使用智能批改结果（学生未做答,不能使用智能批改）</testcaseName>
+        <expectedCode>code:29342</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>6</type>
+        <question_id>6326443</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>使用智能批改结果-publishd为空（学生未做答,不能使用智能批改）</testcaseName>
+        <expectedCode>code:29342</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>6</type>
+        <question_id>6326443</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>使用智能批改结果i-linkid为空（学生未做答,不能使用智能批改）</testcaseName>
+        <expectedCode>code:29342</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>6</type>
+        <question_id>6326443</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>使用智能批改结果-Resourceid为空（学生未做答,不能使用智能批改）</testcaseName>
+        <expectedCode>code:29342</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>6</type>
+        <question_id>6326443</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>使用智能批改结果-type超限（学生未做答,不能使用智能批改）</testcaseName>
+        <expectedCode>code:29342</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>16</type>
+        <question_id>6326443</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>使用智能批改结果-question_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>16</type>
+        <question_id></question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>使用智能批改结果-student_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <link_id>583408</link_id>
+        <resource_id>300552</resource_id>
+        <type>16</type>
+        <question_id>6326443</question_id>
+        <student_id></student_id>
+        <struct_id>1</struct_id>
+    </exceptionTest>
+</data>

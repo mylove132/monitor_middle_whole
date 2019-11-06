@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>个人当前密码校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <password>9c56ea0313a37c7d8fdb19ba0eb29afa</password>
+        <password_new>2838bae836e82ddedc81bdccc29e75c6</password_new>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>个人当前密码校验-password为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <password></password>
+        <password_new>2838bae836e82ddedc81bdccc29e75c6</password_new>
+    </exceptionTest>
+
+
+    <test>
+        <testcaseName>个人当前密码校验-password_new为空</testcaseName>
+        <expectedCode>code:3015</expectedCode>
+        <caseType>0</caseType>
+        <password>9c56ea0313a37c7d8fdb19ba0eb29afa</password>
+        <password_new></password_new>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>个人当前密码校验-password错误</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <password>9c56ea0313a37c7dsdfsdf8fdb19ba0eb29afa</password>
+        <password_new>2838bae836e82ddedc81bdccc29e75c6</password_new>
+    </exceptionTest>
+
+    <test>
+        <testcaseName>个人当前密码校验-password-new错误</testcaseName>
+        <expectedCode>code:3015</expectedCode>
+        <caseType>0</caseType>
+        <password>9c56ea0313a37c7d8fdb19ba0eb29afa</password>
+        <password_new>2838bae836e82ddedc81bssssdfdccc29e75c6</password_new>
+    </test>
+</data>

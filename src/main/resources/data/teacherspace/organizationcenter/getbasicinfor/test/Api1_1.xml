@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取习题类型</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <subject_id>3</subject_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取习题类型-科目id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <subject_id></subject_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取习题类型-科目id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <subject_id>X</subject_id>
+    </exceptionTest>
+
+</data>
+

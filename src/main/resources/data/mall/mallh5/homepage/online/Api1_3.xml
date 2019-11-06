@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取配件型号列表(channelType=1)B线代理商</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <categoryCode>1</categoryCode>
+        <channelType>1</channelType>
+    </test>
+    <test>
+        <testcaseName>获取配件型号列表(channelType=2)Okay自营 </testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <categoryCode>1</categoryCode>
+        <channelType>2</channelType>
+    </test>
+    <test>
+        <testcaseName>获取配件型号列表(channelType=3)学习中心线</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <categoryCode>1</categoryCode>
+        <channelType>3</channelType>
+    </test>
+    <test>
+        <testcaseName>获取配件型号列表(channelType=4)机构线</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <categoryCode>1</categoryCode>
+        <channelType>4</channelType>
+    </test>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据学生或家长信息获取相关老师和机构通讯录（scene=im）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <scene>im</scene>
+    </test>
+
+    <!--<test>
+        <testcaseName>根据学生或家长信息获取相关老师和机构通讯录（scene=deep_learning）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <scene>deep_learning</scene>
+    </test>-->
+</data>

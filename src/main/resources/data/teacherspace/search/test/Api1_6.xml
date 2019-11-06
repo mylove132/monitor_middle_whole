@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>导航栏中获取单题的数量</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <subject_id>6</subject_id>
+        <org_id>135</org_id>
+        <org_type>2</org_type>
+        <query_type>1</query_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>导航栏中获取单题的数量-科目id为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <subject_id></subject_id>
+        <org_id>135</org_id>
+        <org_type>2</org_type>
+        <query_type>1</query_type>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>导航栏中获取单题的数量-orgid为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <subject_id>6</subject_id>
+        <org_id></org_id>
+        <org_type>2</org_type>
+        <query_type>1</query_type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>导航栏中获取单题的数量-orgtype为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <subject_id>6</subject_id>
+        <org_id>135</org_id>
+        <org_type></org_type>
+        <query_type>1</query_type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>导航栏中获取单题的数量-查询类型为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <subject_id>6</subject_id>
+        <org_id>135</org_id>
+        <org_type>2</org_type>
+        <query_type></query_type>
+    </exceptionTest>
+
+</data>

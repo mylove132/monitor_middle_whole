@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>1.6 知识点薄弱提醒接口</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <qid>85409</qid>
+    </exceptionTest>
+
+</data>
+

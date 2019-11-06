@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>取消订单</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileOrders</c>
+        <a>cancelOrder</a>
+        <orderId>33177</orderId>
+    </test>
+    <exceptionTest>
+        <testcaseName>取消订单-订单id为空</testcaseName>
+        <expectedCode>status:-1</expectedCode>
+        <caseType>1</caseType>
+        <m>OkayMall</m>
+        <c>mobileCart</c>
+        <a>cancelOrder</a>
+        <orderId></orderId>
+    </exceptionTest>
+</data>
+

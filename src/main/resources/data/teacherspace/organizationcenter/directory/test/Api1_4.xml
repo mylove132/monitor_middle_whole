@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>删除自定义目录</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <is_sure>1</is_sure>
+        <id>2599111111</id>
+    </test>
+
+</data>

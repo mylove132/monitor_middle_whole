@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>关注成功（重复关注）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <id>5</id>
+        <from>1</from>
+        <level>1</level>
+        <operation>1</operation>
+
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <id>221</id>
+        <from>1</from>
+        <level>1</level>
+        <operation>1</operation>
+
+    </exceptionTest>
+
+</data>

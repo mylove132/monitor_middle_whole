@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>创建资源-filename为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <fileName></fileName>
+    </exceptionTest>
+
+    <test>
+        <testcaseName>创建资源</testcaseName>
+        <expectedCode>code:60059</expectedCode>
+        <caseType>0</caseType>
+        <fileName>
+            [{"id":"","resource_name":"PPT模版(2013版)","type":"1","open_to_student":0,"custom_directory_id":"407567","custom_system_id":"2903","chapter_id":"","share_type":"school","directory_id":"","version_id":"","topics":"","file_id":"o_1bucr1ehqm5k28t15e2fncn6oc","file_name":"PPT模版(2013版).ppt","file_size":1740800,"md5":"rw_THDKoWU7Ju.ppt","file_type":"PPT"}]
+        </fileName>
+    </test>
+
+</data>

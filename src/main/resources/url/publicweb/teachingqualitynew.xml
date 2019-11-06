@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pw_LoginName>学校后台登录</Pw_LoginName>
+    <Pw_Login>/login</Pw_Login>
+
+    <Api1_1Name>总体数据情况</Api1_1Name>
+    <Api1_1>/api_courseware/statistics/summery</Api1_1>
+
+    <Api1_2Name>知识点贡献</Api1_2Name>
+    <Api1_2>/api_courseware/statistics/topic</Api1_2>
+
+    <Api1_3Name>资源贡献</Api1_3Name>
+    <Api1_3>/api_courseware/statistics/resource</Api1_3>
+</ApiUrl>

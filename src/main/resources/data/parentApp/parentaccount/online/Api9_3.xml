@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>已订阅内容页-talkId为空</testcaseName>
+        <expectedCode>meta.ecode:40001</expectedCode>
+        <caseType>0</caseType>
+        <topicId>18</topicId>
+        <talkId></talkId>
+    </exceptionTest>
+
+</data>
+

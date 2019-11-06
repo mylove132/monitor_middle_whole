@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>联网权限白名单</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <orgtype>2</orgtype>
+        <sid>80</sid>
+        <sidlist>80</sidlist>
+        <channel>t_pad</channel>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>联网权限白名单</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <orgtype>2</orgtype>
+        <sid>80</sid>
+        <sidlist>80</sidlist>
+        <channel>t_pad</channel>
+    </exceptionTest>
+
+</data>
+

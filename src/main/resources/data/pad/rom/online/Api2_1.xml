@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功登陆</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uname>newest</uname>
+        <pwd>newest</pwd>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>密码错误</testcaseName>
+        <expectedCode>meta.ecode:1003</expectedCode>
+        <caseType>1</caseType>
+        <uname>newest</uname>
+        <pwd>23423424234</pwd>
+    </exceptionTest>
+
+</data>
+

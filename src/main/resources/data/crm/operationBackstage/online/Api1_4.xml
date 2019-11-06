@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>运营后台--获取群体商家</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <org_type>3</org_type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:500</expectedCode>
+        <caseType>0</caseType>
+        <org_type></org_type>
+    </exceptionTest>
+
+</data>
+

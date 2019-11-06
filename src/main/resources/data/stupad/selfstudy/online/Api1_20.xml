@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.20 请求单题数据</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <intros>推荐习题|推荐错题|推荐微课</intros>
+        <qid>6560410</qid>
+    </test>
+
+</data>
+

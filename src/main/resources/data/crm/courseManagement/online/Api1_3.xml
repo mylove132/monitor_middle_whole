@@ -1,0 +1,26 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<data>-->
+<!--    <test>-->
+<!--        <testcaseName>课程管理-待排课学生列表</testcaseName>-->
+<!--        <expectedCode>code:0</expectedCode>-->
+<!--        <caseType>0</caseType>-->
+<!--        <page>1</page>-->
+<!--        <page_size>10</page_size>-->
+<!--        <org_id>640</org_id>-->
+<!--        <goods_id>533</goods_id>-->
+<!--        <stu_id>81951187486</stu_id>-->
+<!--    </test>-->
+
+<!--    <exceptionTest>-->
+<!--        <testcaseName>必填项未校验</testcaseName>-->
+<!--        <expectedCode>code:1</expectedCode>-->
+<!--        <caseType>0</caseType>-->
+<!--        <page>1</page>-->
+<!--        <page_size>10</page_size>-->
+<!--        <org_id></org_id>-->
+<!--        <goods_id>533</goods_id>-->
+<!--        <stu_id>81951187486</stu_id>-->
+<!--    </exceptionTest>-->
+
+<!--</data>-->
+

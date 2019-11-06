@@ -1,0 +1,27 @@
+﻿<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<global>-->
+<!--&lt;!&ndash;test target&ndash;&gt;-->
+<!--<hotfixUrlHeader>http://hotfix.studentpad.xk12.cn/api/pad/</hotfixUrlHeader>-->
+<!--<testUrlHeader>http://studentpad.xk12.cn/api/pad/</testUrlHeader>-->
+<!--<onlineUrlHeader>http://padapi.okjiaoyu.cn/api/pad/</onlineUrlHeader>-->
+
+<!--&lt;!&ndash;test account&ndash;&gt;-->
+<!--&lt;!&ndash;<hotfix-account>81951051706</hotfix-account>&ndash;&gt;-->
+<!--&lt;!&ndash;<hotfix-pwd>123456</hotfix-pwd>&ndash;&gt;-->
+<!--&lt;!&ndash;<test-account>81951051149</test-account>&ndash;&gt;-->
+<!--&lt;!&ndash;<test-account>81951052543</test-account>&ndash;&gt;-->
+<!--&lt;!&ndash;<test-pwd>123456</test-pwd>&ndash;&gt;-->
+<!--&lt;!&ndash;<online-account>81951051706</online-account>&ndash;&gt;-->
+<!--<online-account>81951052543</online-account>-->
+<!--<online-pwd>123456</online-pwd>-->
+<!--&lt;!&ndash;<online-account>81951058259</online-account>&ndash;&gt;-->
+<!--&lt;!&ndash;<online-pwd>058259</online-pwd>&ndash;&gt;-->
+
+
+<!--<mailReceivers>okayqa@okjiaoyu.cn;pad@okjiaoyu.cn;java@okjiaoyu.cn;op@okjiaoyu.cn</mailReceivers>-->
+<!--&lt;!&ndash;<mailReceivers>shenzhenhua@okjiaoyu.cn;</mailReceivers>&ndash;&gt;-->
+
+<!--<errorlogPath-linux>/xdfapp/logs/middle_monitors/online/error.log</errorlogPath-linux>-->
+<!--<errorlogPath-windows>E:\\xdfapp\\logs\\middle_monitors\\online\\error.log</errorlogPath-windows>-->
+
+<!--</global>-->

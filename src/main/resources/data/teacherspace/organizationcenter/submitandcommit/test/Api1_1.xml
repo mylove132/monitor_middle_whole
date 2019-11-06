@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>获取题集的发布信息</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <publish_id>278601</publish_id>
+        <type>7</type>
+        <resource_id>278644</resource_id>
+        <link_id>543823</link_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取题集的发布信息-发布id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <type>7</type>
+        <resource_id>278644</resource_id>
+        <link_id>543823</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取题集的发布信息-type超出规定</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>278601</publish_id>
+        <type>2</type>
+        <resource_id>278644</resource_id>
+        <link_id>543823</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取题集的发布信息-资源id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>278601</publish_id>
+        <type>7</type>
+        <resource_id></resource_id>
+        <link_id>543823</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取题集的发布信息-linkid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>278601</publish_id>
+        <type>7</type>
+        <resource_id>278644</resource_id>
+        <link_id></link_id>
+    </exceptionTest>
+
+</data>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>图表数据</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>328</id>
+        <sid>82951184241</sid>
+        <class_id>12059</class_id>
+        <type>1</type>
+    </test>
+</data>

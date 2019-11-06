@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>自建体系_创建及编辑</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <id>60</id>
+        <name>初中英语1201</name>
+        <stage_id>1</stage_id>
+        <status>1</status>
+        <subject_id>5</subject_id>
+    </test>
+
+</data>

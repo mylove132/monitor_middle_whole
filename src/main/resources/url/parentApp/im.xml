@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+
+    <Api1_1Name>根据学生信息获取所有相关老师信息（通讯录）</Api1_1Name>
+    <Api1_1>/api/user/getTeacherInfoByStudent</Api1_1>
+
+    <Api1_2Name>获取家长购买老师订单信息(KSU)</Api1_2Name>
+    <Api1_2>/api/ksu/getKsuOrderInfo</Api1_2>
+
+    <Api1_3Name>请求上传图片文件，回传地址（七牛）</Api1_3Name>
+    <Api1_3>/api/user/uploadFileToQiNiu</Api1_3>
+
+    <Api1_4Name>请求当前用户是否显示联系人图标的接口</Api1_4Name>
+    <Api1_4>/api/user/getShowContactIcon</Api1_4>
+
+    <Api1_5Name>请求服务器获取小米 TOKEN 接口</Api1_5Name>
+    <Api1_5>/api/user/getImToken</Api1_5>
+
+    <Api1_6Name>请求某些老师的详细信息</Api1_6Name>
+    <Api1_6>/api/user/getTeacherInfo</Api1_6>
+
+    <Api1_7Name>发送 Im 消息</Api1_7Name>
+    <Api1_7>/plusapi/sendimmsg</Api1_7>
+
+    <Api1_8Name>获取某场景下所有未读消息数</Api1_8Name>
+    <Api1_8>/im/get_unread_scene/v1</Api1_8>
+
+    <Api1_9Name>根据联系人ids获取联系人信息</Api1_9Name>
+    <Api1_9>/api/list_contactinfo</Api1_9>
+
+    <Api1_10Name>根据联系人ids获取联系人信息</Api1_10Name>
+    <Api1_10>/im/get_chat_list</Api1_10>
+
+    <Api1_11Name>修改语音已读和未读</Api1_11Name>
+    <Api1_11>/im/audio/unread</Api1_11>
+
+    <Api1_12Name>创建群信息(beta)</Api1_12Name>
+    <Api1_12>/im/get_group_info/v1</Api1_12>
+
+    <Api1_13Name>根据群id查询群信息(beta)</Api1_13Name>
+    <Api1_13>/im/get_room_info/v1</Api1_13>
+
+    <Api1_14Name>根据联系人ids获取未读消息数</Api1_14Name>
+    <Api1_14>/im/unread_list</Api1_14>
+
+    <Api1_15Name>根据联系人ids获取未读消息数_机构后台用</Api1_15Name>
+    <Api1_15>/im/list_unread</Api1_15>
+
+    <Api1_16Name>根据联系人ids获取联系人信息_APP</Api1_16Name>
+    <Api1_16>/api/app/list_contactinfo</Api1_16>
+
+    <Api1_17Name>根据联系人id修改未读消息数</Api1_17Name>
+    <Api1_17>/im/update_unread</Api1_17>
+
+    <Api1_18Name>根据联系人id修改未读消息数(beta)</Api1_18Name>
+    <Api1_18>/im/update_unread/v1</Api1_18>
+
+    <Api1_19Name>获取小米token</Api1_19Name>
+    <Api1_19>/im/auth</Api1_19>
+
+    <Api1_20Name>获取群信息并创建群</Api1_20Name>
+    <Api1_20>/im/get_group_info</Api1_20>
+
+    <Api1_21Name>获取聊天列表(beta)</Api1_21Name>
+    <Api1_21>/im/get_chat_list/v1</Api1_21>
+
+    <Api1_22Name>获取聊天历史记录</Api1_22Name>
+    <Api1_22>/im/get_chat_history</Api1_22>
+
+    <Api1_23Name>根据学生或家长信息获取相关老师和机构通讯录</Api1_23Name>
+    <Api1_23>/api/address_list</Api1_23>
+
+    <Api1_24Name>获取用户信息</Api1_24Name>
+    <Api1_24>/api/user</Api1_24>
+
+    <Api1_25Name>主体消息列表</Api1_25Name>
+    <Api1_25>/plusapi/noticetype/messagelist</Api1_25>
+
+    <Api1_26Name>修改消息开启状态</Api1_26Name>
+    <Api1_26>/plusapi/noticetype/update</Api1_26>
+
+    <Api1_27Name>消息类型列表</Api1_27Name>
+    <Api1_27>/plusapi/noticetype/list</Api1_27>
+
+    <Api1_28Name>获取不同类型消息列表</Api1_28Name>
+    <Api1_28>/plusapi/noticetype/typebranchlist</Api1_28>
+
+</ApiUrl>

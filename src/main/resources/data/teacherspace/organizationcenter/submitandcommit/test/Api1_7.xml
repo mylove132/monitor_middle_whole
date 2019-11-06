@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>批改</testcaseName>
+        <expectedCode>code:22300</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改-type错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>2</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改-发布id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改-学生id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id></student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改-题目id错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id></question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改-structid错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id></struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改-answer错误</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer></answer>
+        <resource_id>174128</resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+
+    <exceptionTest>
+        <testcaseName>批改-资源id错误</testcaseName>
+        <expectedCode>code:22300</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>2541</publish_id>
+        <type>7</type>
+        <sub_question_id></sub_question_id>
+        <student_id>81951058243</student_id>
+        <question_id>2437261</question_id>
+        <struct_id>3</struct_id>
+        <answer>%7B%22status%22:1%7D</answer>
+        <resource_id></resource_id>
+        <link_id>280059</link_id>
+    </exceptionTest>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>批改-linkid错误</testcaseName>-->
+    <!--<expectedCode>code:22300</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<publish_id>2541</publish_id>-->
+    <!--<type>7</type>-->
+    <!--<sub_question_id></sub_question_id>-->
+    <!--<student_id>81951058243</student_id>-->
+    <!--<question_id>2437261</question_id>-->
+    <!--<struct_id>3</struct_id>-->
+    <!--<answer>%7B%22status%22:1%7D</answer>-->
+    <!--<resource_id>174128</resource_id>-->
+    <!--<link_id></link_id>-->
+    <!--</exceptionTest>-->
+
+</data>

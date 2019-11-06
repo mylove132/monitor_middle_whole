@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功获得复习科目列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <avatarurl>hd_BM9WAq9zHO.png</avatarurl>
+        <baseurl>hd.okjiaoyu.cn</baseurl>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <avatarurl>hd_BM9WAq9zHO.png</avatarurl>
+        <baseurl>hd.okjiaoyu.cn</baseurl>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据群id查询群信息(beta)-群信息不存在</testcaseName>
+        <expectedCode>meta.ecode:-1</expectedCode>
+        <caseType>0</caseType>
+        <topicId>P-CC000085</topicId>
+    </test>
+</data>

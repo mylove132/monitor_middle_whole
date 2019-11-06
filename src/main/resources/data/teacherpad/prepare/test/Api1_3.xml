@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1_3推荐资源</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>used</uid>
+        <token>used</token>
+        <orig_type>0</orig_type>
+        <res_type>0</res_type>
+        <start_num>0,0,0</start_num>
+        <custom_directory_id>2641635</custom_directory_id>
+        <custom_system_id>46380</custom_system_id>
+    </test>
+
+
+</data>
+

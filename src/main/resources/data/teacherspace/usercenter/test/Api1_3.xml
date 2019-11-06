@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>重置密码-公立</testcaseName>
+        <expectedCode>success:false</expectedCode>
+        <caseType>1</caseType>
+        <systemId>82951072899</systemId>
+    </exceptionTest>
+
+</data>

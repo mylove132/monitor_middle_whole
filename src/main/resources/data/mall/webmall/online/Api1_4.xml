@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除购物车某个商品</testcaseName>
+        <expectedCode>status:37301</expectedCode>
+        <caseType>1</caseType>
+        <c>Cart</c>
+        <a>delOkayMallCartGoods</a>
+        <m>OkayMall</m>
+        <goodsid>100</goodsid>
+        <goodsAttrId>2</goodsAttrId>
+    </exceptionTest>
+
+</data>
+

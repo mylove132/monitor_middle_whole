@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>各区县或学校教师学生使用比较</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <stage_id>1</stage_id>
+        <subject_id>3</subject_id>
+    </test>
+
+</data>
+

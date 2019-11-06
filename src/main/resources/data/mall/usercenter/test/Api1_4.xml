@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>校验token是否失效</testcaseName>
+        <expectedCode>result:30200</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileUsers</c>
+        <a>checkToken</a>
+    </test>
+
+</data>
+

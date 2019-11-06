@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>我的资源列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <version_id>95</version_id>
+        <page>1</page>
+        <page_size>10</page_size>
+        <type>chapter</type>
+        <res_type>1</res_type>
+        <directory_id>621</directory_id>
+    </test>
+</data>

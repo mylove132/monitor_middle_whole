@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>注册</testcaseName>
+        <expectedCode>status:31002</expectedCode>
+        <caseType>1</caseType>
+        <c>MobileUsers</c>
+        <a>toOkayMallRegist</a>
+        <verifyTel>18516280768</verifyTel>
+        <comfirmPassword>123456</comfirmPassword>
+        <password>123456</password>
+        <protocol>1</protocol>
+        <regcode>1234</regcode>
+    </exceptionTest>
+
+</data>
+

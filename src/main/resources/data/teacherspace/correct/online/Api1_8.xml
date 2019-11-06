@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>批改结果提交</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>1</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+</data>

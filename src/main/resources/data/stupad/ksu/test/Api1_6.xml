@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>1.6 求助页面获取推荐老师列表</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <token>newest</token>
+        <kid>13871</kid>
+        <ktype>2</ktype>
+        <pagesize>20</pagesize>
+        <currentpage>0</currentpage>
+    </exceptionTest>
+
+</data>
+

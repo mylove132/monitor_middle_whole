@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+
+    <test>
+        <testcaseName>提交答题答案</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <flag>2</flag>
+        <from>3</from>
+        <fhome>1</fhome>
+        <workid>1557267</workid>
+        <classid>12058</classid>
+        <qid1>1403479</qid1>
+        <qtype>1</qtype>
+        <submitanswer>this is a answer</submitanswer>
+        <result>6</result>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>86665</uid>
+        <token>8147459df85fe14963b95ac51ac7ac81d1</token>
+        <flag>2</flag>
+        <from>3</from>
+        <fhome>1</fhome>
+        <workid>1557267</workid>
+        <classid>12058</classid>
+        <qid1>1403479</qid1>
+        <qtype>1</qtype>
+        <submitanswer>this is a answer</submitanswer>
+        <result>6</result>
+    </exceptionTest>
+
+</data>
+

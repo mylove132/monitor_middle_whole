@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>保存修改题集-问题id为空</testcaseName>
+        <expectedCode>code:60018</expectedCode>
+        <caseType>1</caseType>
+        <title>修改测试题集</title>
+        <!--<question_ids></question_ids>-->
+        <sort_type>2</sort_type>
+        <share_info>school</share_info>
+        <question_ids>2550829</question_ids>
+        <collection_id>174300</collection_id>
+        <chapter_id>4242</chapter_id>
+        <chapter_level>2</chapter_level>
+        <directory_id>178</directory_id>
+        <custom_system_id>36363</custom_system_id>
+        <custom_directory_id>2127403</custom_directory_id>
+    </exceptionTest>
+
+</data>

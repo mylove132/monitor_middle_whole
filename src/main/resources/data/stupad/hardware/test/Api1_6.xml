@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>4.3知识点报告页加入魔镜，加入主屏 从主屏移除，我学会了</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <ktype>2</ktype>
+        <kid>9223</kid>
+        <klevel>2</klevel>
+        <operation>2</operation>
+    </test>
+
+</data>
+

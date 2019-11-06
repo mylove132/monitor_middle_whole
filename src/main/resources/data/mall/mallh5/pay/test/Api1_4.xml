@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取支付URL</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <backUrl>https:%2F%2Fm.okay.cn%2F%23%2Fitem%2F109%2F0%2F0%2F11</backUrl>
+    </test>
+</data>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pr_LoginName>私立学校后台登录</Pr_LoginName>
+    <Pr_Login>/login</Pr_Login>
+
+    <Api1_1Name>获取订单列表</Api1_1Name>
+    <Api1_1>/api_courseware/ksu/getorderlist</Api1_1>
+
+    <Api1_2Name>获取班级</Api1_2Name>
+    <Api1_2>/api_courseware/ksu/studentclasses</Api1_2>
+
+    <Api1_3Name>班级列表</Api1_3Name>
+    <Api1_3>/api_courseware/ksu/classlist</Api1_3>
+
+    <Api1_4Name>获取全部年级</Api1_4Name>
+    <Api1_4>/api_courseware/ksu/gradelist</Api1_4>
+
+    <Api1_5Name>获取班主任</Api1_5Name>
+    <Api1_5>/api_courseware/ksu/teacherlist</Api1_5>
+
+    <Api1_6Name>获取物流信息</Api1_6Name>
+    <Api1_6>/api_courseware/order/getlogisticscompany</Api1_6>
+
+    <Api1_7Name>获取退款/货理由</Api1_7Name>
+    <Api1_7>/api_courseware/order/getreasons</Api1_7>
+
+    <Api1_8Name>退货状态</Api1_8Name>
+    <Api1_8>/api_courseware/order/getreturngoodsstatus</Api1_8>
+
+    <Api1_9Name>发货类型字段列表</Api1_9Name>
+    <Api1_9>/api_courseware/order/deliver_type/list</Api1_9>
+
+    <Api1_10Name>支付状态字段列表</Api1_10Name>
+    <Api1_10>/api_courseware/order/pay_status/list</Api1_10>
+
+    <Api1_11Name>订单列表</Api1_11Name>
+    <Api1_11>/api_courseware/order/list</Api1_11>
+
+    <Api1_12Name>订单状态字段列表</Api1_12Name>
+    <Api1_12>/api_courseware/order/status/list</Api1_12>
+
+    <Api1_13Name>订单类型字段列表</Api1_13Name>
+    <Api1_13>/api_courseware/order/type/list</Api1_13>
+
+    <Api1_14Name>获取流程节点信息</Api1_14Name>
+    <Api1_14>/api_courseware/order/getorderlog</Api1_14>
+
+    <Api1_15Name>订单信息</Api1_15Name>
+    <Api1_15>/api_courseware/order/details</Api1_15>
+
+    <Api1_16Name>获取收货地址</Api1_16Name>
+    <Api1_16>/api_courseware/order/get_receiving_address</Api1_16>
+
+    <Api1_17Name>获取省市区</Api1_17Name>
+    <Api1_17>/api_courseware/order/get_district</Api1_17>
+
+    <Api1_18Name>获取流程节点信息</Api1_18Name>
+    <Api1_18>/api_courseware/order/getorderlog</Api1_18>
+
+    <Api1_19Name>订单信息</Api1_19Name>
+    <Api1_19>/api_courseware/order/details</Api1_19>
+
+    <Api1_20Name>获取退货退款类型</Api1_20Name>
+    <Api1_20>/api_courseware/order/get_refund_type</Api1_20>
+
+    <Api1_21Name>退款退货列表</Api1_21Name>
+    <Api1_21>/api_courseware/order/refund_list</Api1_21>
+
+    <Api1_22Name>获取历史</Api1_22Name>
+    <Api1_22>/api_courseware/order/refund_history</Api1_22>
+
+</ApiUrl>

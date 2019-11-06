@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>订单管理2.0--获取收货地址信息 </testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+
+    </exceptionTest>
+
+</data>
+

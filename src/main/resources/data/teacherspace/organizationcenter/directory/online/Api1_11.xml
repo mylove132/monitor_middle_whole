@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据自定义体系id获取自定义目录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <is_waste>0</is_waste>
+        <id>101586</id>
+    </test>
+
+</data>

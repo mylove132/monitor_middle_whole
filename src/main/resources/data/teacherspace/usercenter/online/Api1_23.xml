@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>添加教学班学生</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <classId>36122</classId>
+        <studentIds>82951051132,82951051123,82951051120</studentIds>
+    </test>
+</data>

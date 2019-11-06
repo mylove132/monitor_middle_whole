@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TeacherSpace" verbose="1" parallel="false" thread-count="1">
+    <listeners>
+        <listener class-name="okjiaoyu.qa.tools.CustomListener"/>
+    </listeners>
+
+    <test name="exerciseoperation" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.exerciseoperation"/>
+        </packages>
+    </test>
+
+    <test name="getbasicinfor" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.getbasicinfor"/>
+        </packages>
+    </test>
+
+    <test name="getclassinfor" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.getclassinfor"/>
+        </packages>
+    </test>
+
+    <test name="getquestion" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.getquestion"/>
+        </packages>
+    </test>
+
+    <test name="paper" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.paper"/>
+        </packages>
+    </test>
+
+    <test name="questionreport" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.questionreport"/>
+        </packages>
+    </test>
+
+    <test name="submitandcommit" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.submitandcommit"/>
+        </packages>
+    </test>
+
+    <test name="wrongbook" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.wrongbook"/>
+        </packages>
+    </test>
+
+    <test name="usercenter" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.usercenter"/>
+        </packages>
+    </test>
+
+    <test name="preparation" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.teachingresources.preparation"/>
+        </packages>
+    </test>
+
+    <test name="resourcedetails" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.teachingresources.resourcedetails"/>
+        </packages>
+    </test>
+
+    <test name="resource" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.teachingresources.theresource"/>
+        </packages>
+    </test>
+
+    <test name="groupandquestion" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.groupandquestion"/>
+        </packages>
+    </test>
+
+    <test name="search" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.search"/>
+        </packages>
+    </test>
+
+    <test name="correct" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.correct"/>
+        </packages>
+    </test>
+
+    <test name="uploadresources" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.teachingresources.uploadresources"/>
+        </packages>
+    </test>
+
+    <test name="coursepackage" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.teachingresources.coursepackage"/>
+        </packages>
+    </test>
+
+    <test name="directory" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.organizationcenter.directory"/>
+        </packages>
+    </test>
+
+    <test name="group" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.group"/>
+        </packages>
+    </test>
+
+    <test name="dataapplication" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.dataapplication"/>
+        </packages>
+    </test>
+
+    <test name="im" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.im"/>
+        </packages>
+    </test>
+
+    <test name="ksu" preserve-order="true">
+        <groups>
+            <run>
+                <include name="normal"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="okjiaoyu.qa.middle.auto.testcase.teacherspace.ksu"/>
+        </packages>
+    </test>
+
+</suite>

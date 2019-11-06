@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>加为我的</testcaseName>
+        <expectedCode>code:60059</expectedCode>
+        <caseType>0</caseType>
+        <rid>9608</rid>
+        <type>2</type>
+        <custom_system_id>36344</custom_system_id>
+        <custom_directory_id>2158725</custom_directory_id>
+    </test>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>加为我的-type错误</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<rid>9608</rid>-->
+    <!--<type>11</type>-->
+    <!--<custom_directory_id>2563</custom_directory_id>-->
+    <!--<custom_system_id>51</custom_system_id>-->
+    <!--</exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>加为我的-rid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <rid></rid>
+        <type>1</type>
+        <custom_directory_id>2563</custom_directory_id>
+        <custom_system_id>51</custom_system_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>加为我的-type为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <rid>9608</rid>
+        <type></type>
+        <custom_directory_id>2563</custom_directory_id>
+        <custom_system_id>51</custom_system_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>加为我的-custom_directory_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <rid>9608</rid>
+        <type>1</type>
+        <custom_directory_id></custom_directory_id>
+        <custom_system_id>51</custom_system_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>加为我的-custom_system_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <rid>9608</rid>
+        <type>1</type>
+        <custom_directory_id>2563</custom_directory_id>
+        <custom_system_id></custom_system_id>
+    </exceptionTest>
+
+</data>
+

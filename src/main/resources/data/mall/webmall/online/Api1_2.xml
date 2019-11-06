@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>添加购物车</testcaseName>
+        <expectedCode>status:30200</expectedCode>
+        <caseType>1</caseType>
+        <c>Cart</c>
+        <a>addToOkayMallCartAjax</a>
+        <m>OkayMall</m>
+        <gcount>1</gcount>
+        <goodsId>100</goodsId>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>添加地址</testcaseName>
+        <expectedCode>status:31001</expectedCode>
+        <caseType>0</caseType>
+        <c>UserAddress</c>
+        <a>add</a>
+        <m>OkayMall</m>
+        <email>te1st@okjiaoyu.cn</email>
+        <address>海淀新东方三楼</address>
+        <areaId1>1100001</areaId1>
+        <areaId2>659004403</areaId2>
+        <areaId3>659004412</areaId3>
+        <userName>海淀</userName>
+        <userPhone></userPhone>
+        <isDefault>0</isDefault>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>发送 Im 消息</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <extras>1</extras>
+        <msg>测试内容</msg>
+        <title>上课</title>
+        <uids>99951296570</uids>
+        <url>www.baidu.com</url>
+        <url_text>测试百度能打开不</url_text>
+    </test>
+</data>
+

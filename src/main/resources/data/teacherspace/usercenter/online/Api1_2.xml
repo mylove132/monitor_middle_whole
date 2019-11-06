@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>手机号绑定</testcaseName>
+        <expectedCode>code:3005</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>18516280768</phone_num>
+        <verify_code>1234</verify_code>
+        <trace_no>1dsfqweqwe</trace_no>
+    </exceptionTest>
+
+</data>

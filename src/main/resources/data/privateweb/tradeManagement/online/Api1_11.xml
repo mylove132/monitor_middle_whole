@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>订单列表-订单列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <day>2018-05-23</day>
+        <key_type>4</key_type>
+        <page>2</page>
+        <page_size>3</page_size>
+        <keyword>18915262525</keyword>
+        <price_end>1</price_end>
+        <price_start>0.01</price_start>
+        <order_source>10</order_source>
+
+
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <day></day>
+        <key_type></key_type>
+        <page></page>
+        <page_size></page_size>
+        <keyword></keyword>
+        <price_end></price_end>
+        <price_start></price_start>
+        <order_source></order_source>
+
+
+    </exceptionTest>
+
+
+</data>
+

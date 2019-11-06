@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 共享课程包</Api1_1Name>
+    <Api1_1>resource/course_pkg_share</Api1_1>
+
+    <Api1_2Name>1.2 收藏课程包</Api1_2Name>
+    <Api1_2>resource/course_pkg_fav</Api1_2>
+
+    <Api1_3Name>1.3 新增/编辑课程包</Api1_3Name>
+    <Api1_3>resource/course_pkg_add</Api1_3>
+
+    <Api1_4Name>1.4 获取课程包详情</Api1_4Name>
+    <Api1_4>resource/course_pkg_detail</Api1_4>
+
+    <Api1_5Name>1.5 删除课程包</Api1_5Name>
+    <Api1_5>resource/course_pkg_delete</Api1_5>
+
+    <Api1_6Name>1.6 移动课程包</Api1_6Name>
+    <Api1_6>resource/course_pkg_move</Api1_6>
+
+    <Api1_7Name>1.7 我的课程包列表</Api1_7Name>
+    <Api1_7>home/course_pkg_list</Api1_7>
+
+    <Api1_8Name>1.8 获取多解答案</Api1_8Name>
+    <Api1_8>quiz/quiz_rules</Api1_8>
+
+</ApiUrl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.31 [自主学习]--智能可筛选题型(智慧学习4.1新增)</testcaseName>
+        <expectedCode>meta.emsg:成功</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <iccid>isFake</iccid>
+        <ktype>2</ktype>
+        <kid>9218</kid>
+        <klevel>2</klevel>
+        <name>芦花荡</name>
+    </test>
+
+</data>
+

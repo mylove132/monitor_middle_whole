@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>我的商品列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <directory_id>2649113</directory_id>
+        <goods_id>87936</goods_id>
+        <system_id>69934</system_id>
+    </test>
+</data>

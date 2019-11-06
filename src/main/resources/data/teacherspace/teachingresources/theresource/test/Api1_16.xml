@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取文件上传token</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <fileNames>公立-学生模板.xlsx</fileNames>
+    </test>
+
+    <test>
+        <testcaseName>获取文件上传token</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <fileNames>jmeter待解决问题</fileNames>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取文件上传token-filename为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <fileNames></fileNames>
+    </exceptionTest>
+
+</data>
+

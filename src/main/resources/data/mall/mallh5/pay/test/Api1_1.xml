@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>IOS支付验证-凭证保存失败</testcaseName>
+        <expectedCode>meta.ecode:170107</expectedCode>
+        <caseType>0</caseType>
+        <orderId>33180</orderId>
+        <productId>shen</productId>
+        <receiptData>shen</receiptData>
+        <transactionId>shen</transactionId>
+    </exceptionTest>
+</data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>资源列表--根据版本ID获取年级列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <version_id>5</version_id>
+    </test>
+
+
+    <exceptionTest>
+        <testcaseName>资源列表--根据版本ID获取年级列表,必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <version_id></version_id>
+    </exceptionTest>
+</data>
+

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<global>
+
+    //@@@@@@@@@@@@@@@@@@@ please change the info below before deploy on linux @@@@@@@@@@@@@@@@@@@@@
+
+    @@@@@@@@@@@@@@@@@@@@@@@@@
+    @ @
+    @ change the database @
+    @ @
+    @@@@@@@@@@@@@@@@@@@@@@@@@
+
+    <!--日志文件路径环境-->
+    <!--<machine>linux</machine>-->
+    <!--<machine>windows</machine>-->
+
+    <!--使用环境(url，account)-->
+    <!--<env>online</env>-->
+    <!--<env>test</env>-->
+    <!--<env>hotfix</env>-->
+    <!--1 online    2 test   3 hotfix -->
+    <!--<env_id>2</env_id>-->
+    <!--<env_id>2</env_id>-->
+
+
+    <!--branch-->
+    <!--<branch>readonly</branch>-->
+    <!--<branch>fuctest</branch>-->
+    <!--<branch>test</branch>-->
+    <!--<branch>online</branch>-->
+
+    <!--<ip>10.60.0.158</ip>-->
+    <!--<ip>172.18.4.188</ip>-->
+    <ip>172.18.4.55</ip>
+    <!--<ip>localhost</ip>-->
+
+    <!--是否发送邮件报告,false时,只有报错才会发邮件,true不论对错都发邮件-->
+    <!--<sendPassReport>true</sendPassReport>-->
+
+    <!--存放生成的二进制文件-->
+    <!--<GzipFolderPath_Windows>F:\GzipPackage</GzipFolderPath_Windows>-->
+    <!--<GzipFolderPath_Linux>/xdfapp/data/gzipFiles</GzipFolderPath_Linux>-->
+
+    <!--发送邮件的地址-->
+    <from>qa-autotest@okjiaoyu.cn</from>
+    <servername>qa-autotest@okjiaoyu.cn</servername>
+    <serverpaswd>dsjwqa123</serverpaswd>
+    <mimeType>text/html;charset=gb2312</mimeType>
+
+    <!--<redisIp_test>10.10.6.7</redisIp_test>-->
+    <!--<redisIp_hotfix>172.18.4.48</redisIp_hotfix>-->
+    <!--<redisIp_online>172.18.4.99</redisIp_online>-->
+    <!--<redisPort_hotfix>6381</redisPort_hotfix>-->
+    <!--<redisPort_test>6381</redisPort_test>-->
+    <!--<redisPort_online>6379</redisPort_online>-->
+
+</global>

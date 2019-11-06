@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.4 作业历史列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <sid>3</sid>
+        <syid>2016</syid>
+        <cp>1</cp>
+        <ps>1</ps>
+    </test>
+
+</data>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>收藏课程包</testcaseName>
+        <expectedCode>code:60059</expectedCode>
+        <caseType>0</caseType>
+        <custom_directory_id>2158726</custom_directory_id>
+        <custom_system_id>36344</custom_system_id>
+        <id>283725</id>
+    </test>
+</data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>平台后台商品管理-商品列表展示</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <act>585</act>
+        <day_start>2018-05-17</day_start>
+        <day_end>2018-05-23</day_end>
+        <ksu_status></ksu_status>
+        <key_type></key_type>
+        <teacher_id></teacher_id>
+        <page></page>
+        <page_size>12</page_size>
+        <keyword></keyword>
+        <price_start></price_start>
+        <price_end></price_end>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <act></act>
+        <day_start></day_start>
+        <day_end></day_end>
+        <ksu_status></ksu_status>
+        <key_type></key_type>
+        <teacher_id></teacher_id>
+        <page></page>
+        <page_size></page_size>
+        <keyword></keyword>
+        <price_start></price_start>
+        <price_end></price_end>
+    </exceptionTest>
+
+
+</data>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取已经发布课程的资源详情</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <publish_id>278891</publish_id>
+        <directory_id>178</directory_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取已经发布课程的资源详情-publish为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <directory_id>178</directory_id>
+    </exceptionTest>
+
+
+</data>
+

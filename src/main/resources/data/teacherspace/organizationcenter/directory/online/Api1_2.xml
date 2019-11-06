@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>创建／修改自定义体系名称</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <id></id>
+    </exceptionTest>
+
+</data>

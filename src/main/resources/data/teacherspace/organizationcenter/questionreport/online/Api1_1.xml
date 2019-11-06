@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>查询题集中的题目的正确率</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <history_id>132</history_id>
+        <collection_id>138</collection_id>
+        <type>6</type>
+    </test>
+</data>

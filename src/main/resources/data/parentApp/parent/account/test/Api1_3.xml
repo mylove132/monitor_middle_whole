@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>修改密码失败</testcaseName>
+        <expectedCode>meta.emsg:新密码与旧密码相同</expectedCode>
+        <caseType>1</caseType>
+        <oldpwd>NUjT61hb5CvYcu+Gu9AkUQ==</oldpwd>
+        <newpwd>NUjT61hb5CvYcu+Gu9AkUQ==</newpwd>
+    </exceptionTest>
+</data>
+

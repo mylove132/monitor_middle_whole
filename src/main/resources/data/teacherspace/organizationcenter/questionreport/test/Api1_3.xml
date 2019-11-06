@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取某个学生的测评报告详情</testcaseName>
+        <expectedCode>code:30013</expectedCode>
+        <caseType>0</caseType>
+        <history_id>12</history_id>
+        <student_id>82951051120</student_id>
+        <type>1</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取某个学生的测评报告详情-历史id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id></history_id>
+        <student_id>82951051120</student_id>
+        <id>692</id>
+        <type>1</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取某个学生的测评报告详情-历史id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <history_id>x</history_id>
+        <student_id>81951036138</student_id>
+        <id>692</id>
+        <type>1</type>
+    </exceptionTest>
+
+    <!--<test>-->
+    <!--<testcaseName>获取某个学生的测评报告详情-学生id为空</testcaseName>-->
+    <!--<expectedCode>3996</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<history_id>685</history_id>-->
+    <!--<student_id></student_id>-->
+    <!--<id>692</id>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>获取某个学生的测评报告详情-学生id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <history_id>9</history_id>
+        <student_id>x</student_id>
+        <id>692</id>
+        <type>1</type>
+    </exceptionTest>
+
+    <!--<test>-->
+    <!--<testcaseName>获取某个学生的测评报告详情-id为空</testcaseName>-->
+    <!--<expectedCode>0</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<history_id>685</history_id>-->
+    <!--<student_id>81951036138</student_id>-->
+    <!--<id></id>-->
+    <!--</test>-->
+
+    <!--<test>-->
+    <!--<testcaseName>获取某个学生的测评报告详情-id错误</testcaseName>-->
+    <!--<expectedCode>0</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<history_id>685</history_id>-->
+    <!--<student_id>81951036138</student_id>-->
+    <!--<id>x</id>-->
+    <!--</test>-->
+
+</data>
+

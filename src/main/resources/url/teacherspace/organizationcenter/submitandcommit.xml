@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 获取题集的发布信息</Api1_1Name>
+    <Api1_1>rectify/collection_pub_info</Api1_1>
+
+    <Api1_2Name>1.2 已提交的题list</Api1_2Name>
+    <Api1_2>rectify/submit_list_quiz</Api1_2>
+
+    <Api1_3Name>1.3 已提交的学生list</Api1_3Name>
+    <Api1_3>rectify/submit_list_student</Api1_3>
+
+    <Api1_4Name>1.4 获取题集</Api1_4Name>
+    <Api1_4>rectify/quizset_detail</Api1_4>
+
+    <Api1_5Name>1.5 按学生获取题集作答list</Api1_5Name>
+    <Api1_5>rectify/quizset_student_list_quiz</Api1_5>
+
+    <Api1_6Name>1.6 按题集中的题取学生作答list</Api1_6Name>
+    <Api1_6>rectify/quizset_quiz_list_student</Api1_6>
+
+    <Api1_7Name>1.7 批改</Api1_7Name>
+    <Api1_7>rectify/submit</Api1_7>
+
+    <Api1_8Name>1.8 批注</Api1_8Name>
+    <Api1_8>rectify/submit_commit</Api1_8>
+
+
+</ApiUrl>

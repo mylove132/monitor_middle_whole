@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功获得预习资源列表</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <kpoint>242</kpoint>
+        <type>1</type>
+        <currentpage>1</currentpage>
+        <pagesize>10</pagesize>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <kpoint>242</kpoint>
+        <type>1</type>
+        <currentpage>1</currentpage>
+        <pagesize>10</pagesize>
+    </exceptionTest>
+
+</data>
+

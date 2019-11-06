@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>成功</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pid>1768</pid>
+        <sid>3</sid>
+        <stype>9</stype>
+        <timeout>true</timeout>
+    </test>
+
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <pid>1768</pid>
+        <sid>3</sid>
+        <stype>9</stype>
+        <timeout>true</timeout>
+    </exceptionTest>
+
+</data>
+

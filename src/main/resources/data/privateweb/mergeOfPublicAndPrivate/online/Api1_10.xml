@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>搜索教师</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <pageNumber>1</pageNumber>
+        <pageSize>30</pageSize>
+        <andOr>AND</andOr>
+        <searchTable>tbl</searchTable>
+        <page_size>30</page_size>
+        <page>1</page>
+        <stage_id>3</stage_id>
+        <grade_id>0</grade_id>
+        <class_id>0</class_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <pageNumber></pageNumber>
+        <pageSize></pageSize>
+        <andOr></andOr>
+        <searchTable></searchTable>
+        <page_size></page_size>
+        <page></page>
+        <stage_id></stage_id>
+        <grade_id></grade_id>
+        <class_id></class_id>
+    </exceptionTest>
+
+</data>

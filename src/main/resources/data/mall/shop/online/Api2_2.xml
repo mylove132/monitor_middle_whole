@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>生成订单</testcaseName>
+        <expectedCode>status:-1</expectedCode>
+        <caseType>1</caseType>
+        <m>OkayMall</m>
+        <c>mobileOrders</c>
+        <a>orderSubmit</a>
+        <!--<callback>jsonpReturn</callback>-->
+        <callback></callback>
+        <invoice></invoice>
+        <invoiceTitle></invoiceTitle>
+        <addressId></addressId>
+    </exceptionTest>
+
+</data>
+

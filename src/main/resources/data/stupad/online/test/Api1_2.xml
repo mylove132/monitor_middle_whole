@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.2 获取课程包详情接口</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <courseid>20041</courseid>
+        <classid>12155</classid>
+        <ps>1</ps>
+        <cp>1</cp>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>1.2 获取课程包详情接口-courseid为空</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <courseid>0</courseid>
+        <classid>12155</classid>
+        <ps>1</ps>
+        <cp>1</cp>
+    </exceptionTest>
+
+</data>
+

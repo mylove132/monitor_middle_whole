@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--<exceptionTest>-->
+    <!--<testcaseName>创建资源</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<chapter_id>1042306</chapter_id>-->
+    <!--<file_name>rw_Ihf8u3aBs4</file_name>-->
+    <!--<file_size>2143357</file_size>-->
+    <!--<md5>rw_K7q3UPDAQw.pptx</md5>-->
+    <!--<open_to_student>0</open_to_student>-->
+    <!--<resource_name>test</resource_name>-->
+    <!--<share>school%2Cregion</share>-->
+    <!--</exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>创建资源-filename为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <fileName></fileName>
+    </exceptionTest>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>创建资源</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<id></id>-->
+    <!--<resource_name>rw_Ihf8u3aBs4</resource_name>-->
+    <!--<type></type>-->
+    <!--<open_to_student>0</open_to_student>-->
+    <!--<directory_id>46</directory_id>-->
+    <!--<chapter_id>13871</chapter_id>-->
+    <!--<share_type>platform</share_type>-->
+    <!--<topics>1795</topics>-->
+    <!--<file_id>o_1baov1qleapc1258icj199mrv1c</file_id>-->
+    <!--<file_name>rw_Ihf8u3aBs4.pptx</file_name>-->
+    <!--<file_size>2143357</file_size>-->
+    <!--<md5>rw_NaVqgDnbO0.pptx</md5>-->
+    <!--<file_type>PPT</file_type>-->
+    <!--</exceptionTest>-->
+
+</data>
+

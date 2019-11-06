@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>请求当前用户是否显示联系人图标的接口</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <studentId>82951270248</studentId>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>学生id为空</testcaseName>
+        <expectedCode>meta.ecode:40002</expectedCode>
+        <caseType>0</caseType>
+        <studentId></studentId>
+    </exceptionTest>
+</data>
+

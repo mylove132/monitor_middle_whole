@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Crm_LoginName>crm后台登录</Crm_LoginName>
+    <Crm_Login>/login</Crm_Login>
+
+    <!--<Crm_LoginOutName>crm后台退出</Crm_LoginOutName>-->
+    <!--<Crm_LoginOut>/logout</Crm_LoginOut>-->
+
+    <Api1_1Name>商品中心--查看商品</Api1_1Name>
+    <Api1_1>/goodscenter/goods/info</Api1_1>
+
+    <Api1_2Name>商品中心--根据商户类型获取商户列表</Api1_2Name>
+    <Api1_2>/common/school/business_lists</Api1_2>
+
+    <Api1_3Name>商品中心--获取会员选项</Api1_3Name>
+    <Api1_3>/goodscenter/common/member_type_lists</Api1_3>
+
+    <Api1_4Name>商品中心-获取商品列表</Api1_4Name>
+    <Api1_4>/goodscenter/goods/lists</Api1_4>
+
+    <Api1_5Name>商品中心--获取商品属性</Api1_5Name>
+    <Api1_5>/goodscenter/goods/attributes</Api1_5>
+
+    <Api1_6Name>商品中心--获取商品类目</Api1_6Name>
+    <Api1_6>/goodscenter/common/category_lists</Api1_6>
+
+    <Api1_7Name>商品中心--获取商品类型</Api1_7Name>
+    <Api1_7>/common/school/org_type_list</Api1_7>
+
+    <Api1_8Name>商品中心--会员商品详情</Api1_8Name>
+    <Api1_8>/goodscenter/memGoodsInfo</Api1_8>
+
+    <Api1_9Name>商品中心--获取ksu商品列表</Api1_9Name>
+    <Api1_9>/goodscenter/ksuGoodsList</Api1_9>
+
+    <Api1_10Name>商品中心--获取会员商品审核列表</Api1_10Name>
+    <Api1_10>/goodscenter/memGoodsList</Api1_10>
+
+    <Api1_11Name>商品中心--获取会员操作记录</Api1_11Name>
+    <Api1_11>/goodscenter/verifyList</Api1_11>
+</ApiUrl>

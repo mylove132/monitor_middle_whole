@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>IOS获取productId</testcaseName>
+        <expectedCode>meta.code:170102</expectedCode>
+        <caseType>0</caseType>
+        <orderId></orderId>
+    </exceptionTest>
+</data>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>获取错题本筛选知识点</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <knowledge_id>241</knowledge_id>
+        <level>1</level>
+    </test>
+</data>

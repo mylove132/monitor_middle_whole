@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取题列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <chapter_id>13870</chapter_id>
+        <chapter_level>1</chapter_level>
+        <directory_id>46</directory_id>
+        <page>1</page>
+        <knowledge_id>1794</knowledge_id>
+        <knowledge_level>3</knowledge_level>
+    </test>
+
+</data>
+

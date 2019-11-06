@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>用户解绑手机号（v2.9.1+）</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <phone>18014545454</phone>
+        <role>0</role>
+    </test>
+</data>

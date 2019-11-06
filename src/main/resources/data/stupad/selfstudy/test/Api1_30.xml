@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.30 [自主学习]--智能答题(智慧学习4.1新增)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <iccid>isFake</iccid>
+        <pagesize>1</pagesize>
+    </test>
+
+</data>
+

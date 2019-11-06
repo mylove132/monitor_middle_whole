@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除购物车商品-cartId下无数据</testcaseName>
+        <expectedCode>meta.code:300306</expectedCode>
+        <caseType>0</caseType>
+        <cartId>XXXXXXXX</cartId>
+        <handle>delete</handle>
+    </exceptionTest>
+</data>

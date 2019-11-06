@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根发布的作业，查看某个学生的习题报告</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <history_id>327073</history_id>
+        <student_id>81951073802</student_id>
+        <resource_id>187153</resource_id>
+        <type_scene>6</type_scene>
+    </test>
+
+    <!--history_id:327073-->
+    <!--student_id:81951073802-->
+    <!--type_scene:6-->
+    <!--resource_id:187153-->
+
+    <exceptionTest>
+        <testcaseName>根发布的作业，查看某个学生的习题报告-历史id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id></history_id>
+        <student_id>81951036138</student_id>
+        <resource_id>174385</resource_id>
+        <type_scene>6</type_scene>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>根发布的作业，查看某个学生的习题报告-历史id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <history_id>x</history_id>
+        <student_id>81951036138</student_id>
+        <resource_id>174385</resource_id>
+        <type_scene>6</type_scene>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>根发布的作业，查看某个学生的习题报告-学生id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <history_id>682</history_id>
+        <student_id></student_id>
+        <resource_id>174385</resource_id>
+        <type_scene>6</type_scene>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>根发布的作业，查看某个学生的习题报告-学生id错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <history_id>682</history_id>
+        <student_id>x</student_id>
+        <resource_id>174385</resource_id>
+        <type_scene>6</type_scene>
+    </exceptionTest>
+
+</data>
+

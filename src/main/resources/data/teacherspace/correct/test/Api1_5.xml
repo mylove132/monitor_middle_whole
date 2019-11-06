@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取批改基础信息</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <publish_id>370827</publish_id>
+        <resource_id>315587</resource_id>
+        <type>6</type>
+        <link_id>1</link_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取批改基础信息-publishd为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <resource_id>300550</resource_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取批改基础信息-Resourceid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330739</publish_id>
+        <resource_id></resource_id>
+        <type>6</type>
+    </exceptionTest>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>获取批改基础信息-type超限</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<publish_id>330739</publish_id>-->
+    <!--<resource_id>300550</resource_id>-->
+    <!--<type>16</type>-->
+    <!--</exceptionTest>-->
+</data>

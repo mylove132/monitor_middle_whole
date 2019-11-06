@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取某预习/复习资源维度详情</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <preview_id>20</preview_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取某预习/复习资源维度详情-previewid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <preview_id></preview_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>获取某预习/复习资源维度详情-previewid为空</testcaseName>
+        <expectedCode>code:60009</expectedCode>
+        <caseType>1</caseType>
+        <preview_id>1111111111</preview_id>
+    </exceptionTest>
+
+
+</data>
+

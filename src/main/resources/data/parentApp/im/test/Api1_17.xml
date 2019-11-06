@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据联系人id修改未读消息数-canRide=true(修改在线未读消息数)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <canRide>true</canRide>
+        <counts>2</counts>
+        <ids>P-CC000085</ids>
+    </test>
+
+    <test>
+        <testcaseName>根据联系人id修改未读消息数-canRide=false(离线消息数累加)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <canRide>false</canRide>
+        <counts>2</counts>
+        <ids>P-CC000085</ids>
+    </test>
+</data>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1.13 主屏推荐内容列表(智慧学习4.0新增)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <kid>0</kid>
+        <ktype>0</ktype>
+        <refresh>1</refresh>
+        <pagesize>4</pagesize>
+    </test>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.13 主屏推荐内容列表(智慧学习4.0新增)-kid为负数</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1001</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<token>expired</token>-->
+    <!--<kid>-1</kid>-->
+    <!--<ktype>0</ktype>-->
+    <!--<refresh>1</refresh>-->
+    <!--<pagesize>4</pagesize>-->
+    <!--</exceptionTest>-->
+
+</data>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1_5查看总体详情</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <link_id>855382</link_id>
+        <r_id>178849</r_id>
+        <scene_type>8</scene_type>
+        <show_type>2</show_type>
+        <seq>1</seq>
+        <sort>1</sort>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:2008</expectedCode>
+        <caseType>0</caseType>
+        <token>expired</token>
+        <uid>used</uid>
+        <link_id>855382</link_id>
+        <r_id>498578</r_id>
+        <scene_type>8</scene_type>
+        <show_type>1</show_type>
+        <seq>0</seq>
+        <sort>2</sort>
+    </exceptionTest>
+
+
+</data>
+

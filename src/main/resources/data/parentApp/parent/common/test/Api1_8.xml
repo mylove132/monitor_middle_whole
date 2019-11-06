@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>用户接受协议授权接口-家长账号(该身份暂无权益)-OKAY VIP会员协议</testcaseName>
+        <expectedCode>meta.ecode:900401</expectedCode>
+        <caseType>0</caseType>
+        <agree_key>VIP_MEMBER_SHIP</agree_key>
+        <agree_version>181129134646</agree_version>
+    </exceptionTest>
+    <exceptionTest>
+        <testcaseName>用户接受协议授权接口-家长账号(该身份暂无权益)-OKAY＋登录注册用户协议及隐私条款</testcaseName>
+        <expectedCode>meta.ecode:900401</expectedCode>
+        <caseType>0</caseType>
+        <agree_key>LOGIN_REGISTERED</agree_key>
+        <agree_version>181129134646</agree_version>
+    </exceptionTest>
+    <exceptionTest>
+        <testcaseName>用户接受协议授权接口-家长账号(该身份暂无权益)-深度学习服务体验条款</testcaseName>
+        <expectedCode>meta.ecode:900401</expectedCode>
+        <caseType>0</caseType>
+        <agree_key>DEEP_SERVICE</agree_key>
+        <agree_version>181129134646</agree_version>
+    </exceptionTest>
+</data>
+

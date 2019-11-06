@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Pa_loginName>家长APP登录</Pa_loginName>
+    <Pa_login_parent>/plusapi/signin</Pa_login_parent>
+    <Api1_1Name>登录</Api1_1Name>
+    <Api1_1>/api/user/login</Api1_1>
+
+    <Api1_2Name>自动登录</Api1_2Name>
+    <Api1_2>/api/user/autologin</Api1_2>
+
+    <Api1_3Name>注销</Api1_3Name>
+    <Api1_3>/api/user/logout</Api1_3>
+
+    <Api1_4Name>修改密码</Api1_4Name>
+    <Api1_4>/api/user/modifypwd</Api1_4>
+
+    <Api1_5Name>注册</Api1_5Name>
+    <Api1_5>/api/user/register</Api1_5>
+
+    <Api1_6Name>忘记密码</Api1_6Name>
+    <Api1_6>/api/user/mforgetpwd</Api1_6>
+
+    <Api1_7Name>向手机发送验证码</Api1_7Name>
+    <Api1_7>/api/user/getverifynum</Api1_7>
+
+    <Api1_8Name>验证手机号是否被注册</Api1_8Name>
+    <Api1_8>/api/user/verifyphone</Api1_8>
+
+    <Api1_9Name>获取加密key</Api1_9Name>
+    <Api1_9>/api/user/key</Api1_9>
+
+    <Api3_1Name>添加（学生）帐号</Api3_1Name>
+    <Api3_1>/api/user/addchild</Api3_1>
+
+    <Api3_2Name>获取学生学习动态</Api3_2Name>
+    <Api3_2>/api/user/learninginfo</Api3_2>
+
+    <Api3_3Name>删除（学生）帐号</Api3_3Name>
+    <Api3_3>/api/user/deletechild</Api3_3>
+
+    <Api3_4Name>根据题集id获取作业详情</Api3_4Name>
+    <Api3_4>/api/user/detailpage</Api3_4>
+
+    <Api4_1Name>App检查更新</Api4_1Name>
+    <Api4_1>/api/user/updateapp</Api4_1>
+
+    <Api5_1Name>运营消息列表</Api5_1Name>
+    <Api5_1>/api/system/announcementhistory</Api5_1>
+
+    <Api5_2Name>获取推送信息详情</Api5_2Name>
+    <Api5_2>/api/system/announcementdesc</Api5_2>
+
+    <Api6_1Name>push</Api6_1Name>
+    <Api6_1>/api/user/regpush</Api6_1>
+
+    <Api7_1Name>获取学生学习动态</Api7_1Name>
+    <Api7_1>/api/user/learninfonew</Api7_1>
+
+    <Api7_2Name>修改姓名</Api7_2Name>
+    <Api7_2>/api/user/modifyuname</Api7_2>
+
+    <Api7_3Name>修改性别</Api7_3Name>
+    <Api7_3>/api/user/modifygender</Api7_3>
+
+    <Api7_4Name>获取对应类型下资讯列表</Api7_4Name>
+    <Api7_4>/api/familyedu/articlelist</Api7_4>
+
+    <Api7_5Name>获取资讯类型</Api7_5Name>
+    <Api7_5>/api/familyedu/allcolumns</Api7_5>
+
+    <Api8_1Name>用户其它配置信息</Api8_1Name>
+    <Api8_1>/api/user/getoptions</Api8_1>
+
+    <Api8_2Name>获取PAD信息</Api8_2Name>
+    <Api8_2>/api/child/padinfo</Api8_2>
+
+    <Api8_3Name>获取标签</Api8_3Name>
+    <Api8_3>/api/user/getlabel</Api8_3>
+
+    <Api8_4Name>获取助手列表</Api8_4Name>
+    <Api8_4>/api/assistant/assistantlist</Api8_4>
+
+    <Api8_5Name>获取助手圈信息列表</Api8_5Name>
+    <Api8_5>/api/assistant/assistantcircle</Api8_5>
+
+    <Api9_1Name>发现列表</Api9_1Name>
+    <Api9_1>/api/app/expert/topics</Api9_1>
+
+    <Api9_2Name>已订阅专栏详情</Api9_2Name>
+    <Api9_2>/api/app/expert/subscribedTopicDetail</Api9_2>
+
+    <Api9_3Name>已订阅内容页</Api9_3Name>
+    <Api9_3>/api/app/expert/subscribeTalkDetail</Api9_3>
+
+    <Api9_4Name>已订阅列表</Api9_4Name>
+    <Api9_4>/api/app/expert/subscribed</Api9_4>
+
+    <Api9_5Name>未订阅及未登录专栏详情</Api9_5Name>
+    <Api9_5>/api/app/expert/noSubscribedTopicDetail</Api9_5>
+
+    <Api9_6Name>确认订阅列表</Api9_6Name>
+    <Api9_6>/api/app/expert/subscribeTopic</Api9_6>
+
+    <Api9_7Name>获取轮播图</Api9_7Name>
+    <Api9_7>/api/ad/getBanner</Api9_7>
+
+</ApiUrl>

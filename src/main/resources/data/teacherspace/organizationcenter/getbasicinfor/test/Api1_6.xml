@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取知识点</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <level>1</level>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取知识点</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <level>2</level>
+    </exceptionTest>
+
+</data>
+

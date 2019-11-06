@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>1.9 提交主观题批改结果</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>3</workid>
+        <flag>3</flag>
+        <selecthelp>3</selecthelp>
+        <qid1>12345</qid1>
+        <qid1>12346</qid1>
+    </exceptionTest>
+
+</data>
+

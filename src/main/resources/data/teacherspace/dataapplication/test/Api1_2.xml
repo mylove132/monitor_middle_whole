@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>右侧评测数据列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <type>1</type>
+        <class_id>12059</class_id>
+        <id>40</id>
+        <filter>1</filter>
+    </test>
+</data>

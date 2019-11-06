@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--<test>-->
+    <!--<testcaseName>更新资源</testcaseName>-->
+    <!--<expectedCode>code:0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<id>1811331</id>-->
+    <!--<resource_name>test1</resource_name>-->
+    <!--<type></type>-->
+    <!--<open_to_student>0</open_to_student>-->
+    <!--<custom_directory_id>2158725</custom_directory_id>-->
+    <!--<custom_system_id>36344</custom_system_id>-->
+    <!--<chapter_id>4241</chapter_id>-->
+    <!--<share>school</share>-->
+    <!--<directory_id>621</directory_id>-->
+    <!--<version_id>95</version_id>-->
+    <!--<topics></topics>-->
+    <!--<file_id></file_id>-->
+    <!--<file_name>PPT模版(2013版).ppt</file_name>-->
+    <!--<file_size>1740800</file_size>-->
+    <!--<md5>rw_S9mYu0UqWc.ppt</md5>-->
+    <!--<file_type>ppt</file_type>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>更新资源</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id>1808000</id>
+        <resource_name>test1</resource_name>
+        <type></type>
+        <open_to_student>0</open_to_student>
+        <custom_directory_id></custom_directory_id>
+        <!--<custom_directory_id>2127405</custom_directory_id>-->
+        <custom_system_id>36363</custom_system_id>
+        <chapter_id>0</chapter_id>
+        <share_type>school</share_type>
+        <chapter_id>0</chapter_id>
+        <directory_id></directory_id>
+        <version_id></version_id>
+        <topics>328</topics>
+        <md5>rw_RUqWmDpH3O.pptx</md5>
+        <file_type>ppt</file_type>
+        <file_id></file_id>
+        <file_name>test</file_name>
+        <file_size>2143357</file_size>
+        <share>school</share>
+    </exceptionTest>
+</data>

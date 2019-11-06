@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pr_LoginName>私立学校后台登录</Pr_LoginName>
+    <Pr_Login>/login</Pr_Login>
+
+    <Api1_1Name>数据感知--用户列表</Api1_1Name>
+    <Api1_1>/api_courseware/vipsale/userlist</Api1_1>
+
+    <Api1_2Name>数据感知--查看所有地区</Api1_2Name>
+    <Api1_2>/api_courseware/vipsale/arealist</Api1_2>
+
+    <Api1_3Name>数据感知--查看所有年级</Api1_3Name>
+    <Api1_3>/api_courseware/vipsale/gradelist</Api1_3>
+
+    <Api1_4Name>数据感知--查看所有注册方式</Api1_4Name>
+    <Api1_4>/api_courseware/vipsale/wayofreglist</Api1_4>
+
+    <Api1_5Name>数据感知--会员购买意向等级获取</Api1_5Name>
+    <Api1_5>/api_courseware/vipsale/purposelevellist</Api1_5>
+
+    <Api1_6Name>数据感知--赠送会员列表</Api1_6Name>
+    <Api1_6>/api_courseware/vipsale/viptypelist</Api1_6>
+</ApiUrl>

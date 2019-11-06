@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>2.1 微课资源信息获取接口(泰微课新增)</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <resid>1282712</resid>
+    </test>
+    <exceptionTest>
+        <testcaseName>2.0 微课资源校验的接口(泰微课新增)</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <token>newest</token>
+        <resid>-1</resid>
+    </exceptionTest>
+
+</data>
+

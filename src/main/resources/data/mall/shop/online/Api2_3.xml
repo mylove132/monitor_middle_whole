@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--已经取消的订单，不能再次取消-->
+    <test>
+        <testcaseName>取消订单</testcaseName>
+        <expectedCode>status:-1</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileOrders</c>
+        <a>cancelOrder</a>
+        <orderId>157</orderId>
+    </test>
+</data>
+

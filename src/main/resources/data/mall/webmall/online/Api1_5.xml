@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取购物车商品</testcaseName>
+        <expectedCode>ha:30200</expectedCode>
+        <caseType>0</caseType>
+        <c>Cart</c>
+        <a>getAjaxOkayMallCartInfo</a>
+    </test>
+
+</data>
+

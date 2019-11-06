@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.2 资源打开上报</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pid>2</pid>
+        <resid>12345</resid>
+        <stype>1</stype>
+        <timeout>true</timeout>
+    </test>
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.2 资源打开上报-pid为空</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1004</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<pid>0</pid>-->
+    <!--<resid>12345</resid>-->
+    <!--<stype>1</stype>-->
+    <!--<timeout>true</timeout>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.2 资源打开上报-resid为空</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1004</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<pid>2</pid>-->
+    <!--<resid>0</resid>-->
+    <!--<stype>1</stype>-->
+    <!--<timeout>true</timeout>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.2 资源打开上报-stype为空</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1004</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<pid>2</pid>-->
+    <!--<resid>12345</resid>-->
+    <!--<stype>0</stype>-->
+    <!--<timeout>true</timeout>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>1.2 资源打开上报-pid为空</testcaseName>-->
+    <!--<expectedCode>meta.ecode:1004</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<pid>2</pid>-->
+    <!--<resid>12345</resid>-->
+    <!--<stype>1</stype>-->
+    <!--<timeout>false</timeout>-->
+    <!--</exceptionTest>-->
+
+</data>
+

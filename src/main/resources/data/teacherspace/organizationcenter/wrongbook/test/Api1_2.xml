@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>获取错题本筛选知识点</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <knowledge_id></knowledge_id>
+        <level></level>
+    </test>
+
+    <test>
+        <testcaseName>获取错题本筛选知识点-知识点id为空</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <knowledge_id></knowledge_id>
+        <level>1</level>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>获取错题本筛选知识点-知识点级别为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <knowledge_id>241</knowledge_id>
+        <level></level>
+    </exceptionTest>
+
+</data>

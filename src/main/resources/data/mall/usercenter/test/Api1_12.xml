@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>获取市区</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <c>MobileAreas</c>
+        <a>getAreasByParentId</a>
+        <m>OkayMall</m>
+        <parentId>820332</parentId>
+    </test>
+
+</data>
+

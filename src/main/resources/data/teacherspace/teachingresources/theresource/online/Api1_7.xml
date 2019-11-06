@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>发布资源包</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <id>91867</id>
+        <type_publish>1</type_publish>
+        <type_target>1</type_target>
+        <class_ids>2059</class_ids>
+        <end_time>1479772800000</end_time>
+        <student_ids>3</student_ids>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>1.36[自主学习]-- 习题、微课数据页面</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>newest</token>
+        <iccid>isFake</iccid>
+        <type>1</type>
+        <form>0</form>
+    </test>
+
+</data>
+

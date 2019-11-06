@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>向手机发送验证码失败</testcaseName>
+        <expectedCode>meta.ecode:40013</expectedCode>
+        <caseType>1</caseType>
+        <phone>185162807681</phone>
+    </exceptionTest>
+
+</data>
+

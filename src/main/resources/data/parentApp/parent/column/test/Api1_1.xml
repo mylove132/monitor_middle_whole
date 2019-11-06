@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>专栏下发表留言</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <content>test</content>
+        <role>0</role>
+        <talk_id>162</talk_id>
+    </test>
+
+    <test>
+        <testcaseName>专栏下发表留言-talk_id不存在</testcaseName>
+        <expectedCode>meta.ecode:900101</expectedCode>
+        <caseType>0</caseType>
+        <content>test</content>
+        <role>0</role>
+        <talk_id>xxxxxxxxx</talk_id>
+    </test>
+</data>

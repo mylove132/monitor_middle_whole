@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <Api1_1Name>1.1 课程列表</Api1_1Name>
+    <Api1_1>online/courselist</Api1_1>
+
+    <Api1_2Name>1.2 获取课程包详情接口</Api1_2Name>
+    <Api1_2>online/coursedetail</Api1_2>
+
+    <Api1_3Name>1.3 获取上课课程习题接口</Api1_3Name>
+    <Api1_3>online/skexe</Api1_3>
+
+    <Api1_4Name>1.4 上课提交答题接口</Api1_4Name>
+    <Api1_4>online/sksubmit</Api1_4>
+
+    <Api1_5Name>1.5 主观题批改接口</Api1_5Name>
+    <Api1_5>online/skcrt</Api1_5>
+
+    <Api1_6Name>1.6 知识点薄弱提醒接口</Api1_6Name>
+    <Api1_6>online/kweak</Api1_6>
+
+    <Api1_7Name>1.7 上课ticket</Api1_7Name>
+    <Api1_7>online/ticket</Api1_7>
+
+    <Api1_8Name>1.8 直播预告列表（3.2项目新增）</Api1_8Name>
+    <Api1_8>online/prelivelist</Api1_8>
+
+</ApiUrl>

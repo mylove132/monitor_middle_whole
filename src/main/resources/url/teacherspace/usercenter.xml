@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 发送手机验证码</Api1_1Name>
+    <Api1_1>user/send_sms</Api1_1>
+
+    <Api1_2Name>1.2 手机号绑定</Api1_2Name>
+    <Api1_2>user/set_mobile</Api1_2>
+
+    <Api1_3Name>1.3 重置密码-公立</Api1_3Name>
+    <Api1_3>class/public/student/resetpwd</Api1_3>
+
+    <Api1_4Name>1.4 重置密码-私立</Api1_4Name>
+    <Api1_4>class/private/student/resetpwd</Api1_4>
+
+    <Api1_5Name>1.5 修改密码（登陆状态)</Api1_5Name>
+    <Api1_5>user/modify_pass_login</Api1_5>
+
+    <Api1_6Name>1.6 获取图形验证码</Api1_6Name>
+    <Api1_6>captchahtm</Api1_6>
+
+    <Api1_7Name>1.7 验证手机号</Api1_7Name>
+    <Api1_7>user/verify_mobile</Api1_7>
+
+    <Api1_8Name>1.8 短信验证码校验</Api1_8Name>
+    <Api1_8>user/modify_pass_check_sms</Api1_8>
+
+    <Api1_9Name>1.9 修改密码（未登录状态）</Api1_9Name>
+    <Api1_9>user/modify_pass_nologin</Api1_9>
+
+    <Api1_10Name>1.10 发送手机验证码-未登陆</Api1_10Name>
+    <Api1_10>user/modify_pass_send_sms</Api1_10>
+
+    <Api1_11Name>1.11 手机号绑定</Api1_11Name>
+    <Api1_11>user/set_mobile</Api1_11>
+
+    <Api1_12Name>1.12 手机号替绑</Api1_12Name>
+    <Api1_12>user/replace_mobile</Api1_12>
+
+    <Api1_13Name>1.13 原手机号校验</Api1_13Name>
+    <Api1_13>user/old_mobile_authorization</Api1_13>
+
+    <Api1_14Name>1.14 原手机号获取验证码</Api1_14Name>
+    <Api1_14>user/old_mobile_send_sms</Api1_14>
+
+    <Api1_15Name>1.15 个人当前密码校验</Api1_15Name>
+    <Api1_15>pwd/check</Api1_15>
+
+    <Api1_16Name>1.16 获取近期发布</Api1_16Name>
+    <Api1_16>get_recent_published</Api1_16>
+
+    <Api1_17Name>1.17 获取预习下资料列表</Api1_17Name>
+    <Api1_17>get_preparation</Api1_17>
+
+    <Api1_18Name>1.18 获取任务列表</Api1_18Name>
+    <Api1_18>task/get_tasks</Api1_18>
+
+    <Api1_19Name>1.19 请求是否完成新手任务</Api1_19Name>
+    <Api1_19>task/is_finished</Api1_19>
+
+    <Api1_20Name>1.20 领取徽章</Api1_20Name>
+    <Api1_20>task/get_badge</Api1_20>
+
+    <Api1_21Name>1.21 我的习题列表</Api1_21Name>
+    <Api1_21>home/exercise_list</Api1_21>
+
+    <Api1_22Name>1.22 我的课件列表</Api1_22Name>
+    <Api1_22>home/course_list</Api1_22>
+
+    <Api1_23Name>1.23 添加教学班</Api1_23Name>
+    <Api1_23>class/add_student</Api1_23>
+
+    <Api1_24Name>1.24 新建班级</Api1_24Name>
+    <Api1_24>class/create</Api1_24>
+
+    <Api1_25Name>1.25 搜索班级学生</Api1_25Name>
+    <Api1_25>class/student_search</Api1_25>
+
+    <Api1_26Name>1.26 获取班级内学生列表</Api1_26Name>
+    <Api1_26>common/class_students</Api1_26>
+
+    <Api1_27Name>1.27 获取班级列表</Api1_27Name>
+    <Api1_27>class/class_list</Api1_27>
+
+    <Api1_28Name>1.28 获取班级学生</Api1_28Name>
+    <Api1_28>class/student_list</Api1_28>
+
+    <Api1_29Name>1.29 退出班级</Api1_29Name>
+    <Api1_29>class/teacher_class_quit</Api1_29>
+</ApiUrl>

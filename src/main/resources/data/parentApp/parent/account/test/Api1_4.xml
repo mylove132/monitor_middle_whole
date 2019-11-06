@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>向手机发送验证码失败-手机号格式不正确</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>1</caseType>
+        <phone>112112</phone>
+    </exceptionTest>
+</data>
+

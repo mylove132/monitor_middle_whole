@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>Okay+ ios+android是否升级</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <apppkg>com.okay.education</apppkg>
+      <!--  <ua>iPhone6Plus(A1522/A1524)_12.1.1</ua>-->
+        <vc>291</vc>
+    </test>
+</data>

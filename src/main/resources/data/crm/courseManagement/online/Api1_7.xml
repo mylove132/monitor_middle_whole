@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>课程管理-筛选列表接口</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <teacher_name>初数二</teacher_name>
+        <page>1</page>
+        <page_size>10</page_size>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:1</expectedCode>
+        <caseType>0</caseType>
+        <teacher_name></teacher_name>
+        <page></page>
+        <page_size></page_size>
+    </exceptionTest>
+
+</data>
+

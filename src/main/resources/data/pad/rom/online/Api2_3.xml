@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>修改密码失败(新老密码相同，安全性低)</testcaseName>
+        <expectedCode>meta.ecode:1085</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <oldpwd>newest</oldpwd>
+        <newpwd>newest</newpwd>
+    </exceptionTest>
+
+    <!--<test>-->
+    <!--<testcaseName>成功修改密码</testcaseName>-->
+    <!--<expectedCode>meta.ecode:0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<oldpwd>newest</oldpwd>-->
+    <!--<newpwd>012345</newpwd>-->
+    <!--</test>-->
+
+    <!--<test>-->
+    <!--<testcaseName>成功修改密码</testcaseName>-->
+    <!--<expectedCode>meta.ecode:0</expectedCode>-->
+    <!--<caseType>0</caseType>-->
+    <!--<uid>newest</uid>-->
+    <!--<token>newest</token>-->
+    <!--<oldpwd>012345</oldpwd>-->
+    <!--<newpwd>123456</newpwd>-->
+    <!--</test>-->
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <oldpwd>newest</oldpwd>
+        <newpwd>newest</newpwd>
+    </exceptionTest>
+
+</data>
+

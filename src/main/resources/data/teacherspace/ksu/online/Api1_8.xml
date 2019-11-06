@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>查看订单下的课程</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <page>1</page>
+        <page_size>3</page_size>
+        <order_id>30000030163</order_id>
+        <student_id>62951051116</student_id>
+        <type>1</type>
+    </test>
+</data>

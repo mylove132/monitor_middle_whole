@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>更新题目</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type>1</type>
+        <!--<json>{"body":[{"type":"text","value":"test"}],"options":[[{"type":"option","value":"A"},{"type":"text","value":"test"}],[{"type":"option","value":"B"},{"type":"text","value":"test"}],[{"type":"option","value":"C"},{"type":"text","value":"test"}],[{"type":"option","value":"D"},{"type":"text","value":"特色"}]],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":[{"type":"text","value":"set"}],"questions":[]}</json>-->
+        <html>{"body":"<p>test</p>","options":["<p>test</p>","<p>test</p>","<p>test</p>","<p>特色</p>"],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":"<p>
+            set</p>","questions":[]}
+        </html>
+        <group>0</group>
+        <topic>1888</topic>
+        <chapter>0</chapter>
+        <ref>1</ref>
+        <level>2</level>
+        <source>testmodify</source>
+        <id></id>
+    </exceptionTest>
+
+</data>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>删除资源</testcaseName>
+        <expectedCode>code:3999</expectedCode>
+        <caseType>1</caseType>
+        <rid>1111111</rid>
+        <type>1</type>
+    </exceptionTest>
+
+    <test>
+        <testcaseName>删除资源</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>1</caseType>
+        <rid>39241</rid>
+        <type>1</type>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>删除资源-rid不存在</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <rid></rid>
+        <type>1</type>
+    </exceptionTest>
+
+</data>
+

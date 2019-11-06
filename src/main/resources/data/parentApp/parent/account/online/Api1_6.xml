@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>创建学生信息失败1</testcaseName>
+        <expectedCode>meta.ecode:40042</expectedCode>
+        <caseType>1</caseType>
+        <phone></phone>
+        <reacode>110101</reacode>
+        <stuclasstype>1</stuclasstype>
+        <studentid></studentid>
+        <stugradeid>1</stugradeid>
+        <stuname>test</stuname>
+        <stusex>1</stusex>
+        <stustageid>3</stustageid>
+        <type>2</type>
+        <role>0</role>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>修改学生信息失败</testcaseName>
+        <expectedCode>meta.ecode:40042</expectedCode>
+        <caseType>1</caseType>
+        <phone>1</phone>
+        <reacode>10</reacode>
+        <stuclasstype>1</stuclasstype>
+        <studentid></studentid>
+        <stugradeid></stugradeid>
+        <stuname>test</stuname>
+        <stusex></stusex>
+        <stustageid></stustageid>
+        <type>1</type>
+        <role>0</role>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>修改学生信息失败-姓名为空</testcaseName>
+        <expectedCode>meta.ecode:40008</expectedCode>
+        <caseType>1</caseType>
+        <phone>1</phone>
+        <reacode>10</reacode>
+        <stuclasstype>1</stuclasstype>
+        <studentid></studentid>
+        <stugradeid></stugradeid>
+        <stuname></stuname>
+        <stusex></stusex>
+        <stustageid></stustageid>
+        <type>1</type>
+        <role>0</role>
+    </exceptionTest>
+
+
+</data>
+

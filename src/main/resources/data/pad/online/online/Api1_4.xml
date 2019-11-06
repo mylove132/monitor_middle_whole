@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>提交上课答题</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <uname>newest</uname>
+        <exeid>6248</exeid>t
+        <classid>2058</classid>
+        <courseid>19363</courseid>
+        <qid1>1410106</qid1>
+        <qtype>4</qtype>
+        <submitanswer>submitanswer20160122</submitanswer>
+        <result>6</result>
+        <submittype>1</submittype>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>818b847fa3fd2e46c3adbfca8191a4f139</token>
+        <uname>newest</uname>
+        <exeid>6248</exeid>
+        <classid>2058</classid>
+        <courseid>19363</courseid>
+        <qid1>1410106</qid1>
+        <qtype>4</qtype>
+        <submitanswer>submitanswer20160122</submitanswer>
+        <result>6</result>
+        <submittype>1</submittype>
+    </exceptionTest>
+
+</data>
+

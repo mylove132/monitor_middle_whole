@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 题目修改</Api1_1Name>
+    <Api1_1>quiz/quiz_update</Api1_1>
+
+    <Api1_2Name>1.2 题目删除</Api1_2Name>
+    <Api1_2>quiz/quiz_delete</Api1_2>
+
+    <Api1_3Name>1.3 题目新增</Api1_3Name>
+    <Api1_3>quiz/quiz_add</Api1_3>
+
+    <Api1_4Name>1.4 题目详情</Api1_4Name>
+    <Api1_4>quiz/quiz_detail</Api1_4>
+
+    <Api1_5Name>1.5 题目音频校验</Api1_5Name>
+    <Api1_5>quiz/quiz_audio_check</Api1_5>
+
+    <Api1_6Name>1.6 题目分组-修改</Api1_6Name>
+    <Api1_6>quiz/group_quiz_update</Api1_6>
+
+    <Api1_7Name>1.7 题目分组-列表</Api1_7Name>
+    <Api1_7>quiz/group_quiz_list</Api1_7>
+
+    <Api1_8Name>1.8 题目分组-删除</Api1_8Name>
+    <Api1_8>quiz/group_quiz_delete</Api1_8>
+
+    <Api1_9Name>1.9 题目分组-新增</Api1_9Name>
+    <Api1_9>quiz/group_quiz_add</Api1_9>
+
+    <Api1_10Name>1.10 题目分组-移动题目的分组</Api1_10Name>
+    <Api1_10>quiz/group_quiz_transfer</Api1_10>
+
+    <Api1_13Name>1.13 创建委托</Api1_13Name>
+    <Api1_13>qust/entrust_upload</Api1_13>
+
+    <Api1_12Name>1.12 委托列表</Api1_12Name>
+    <Api1_12>qust/quiz_list_entrust</Api1_12>
+
+</ApiUrl>

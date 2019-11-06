@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>批改结果提交</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>1</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-publishid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id></publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>1</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-link_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id></link_id>
+        <resource_id>300566</resource_id>
+        <type>1</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-resource_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id></resource_id>
+        <type>1</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>1</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-type超限</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>111</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>11</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-question_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>111</type>
+        <question_id></question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>11</struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-student_id为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>111</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id></struct_id>
+        <answer>%7B%22status%22%3A1%7D</answer>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>批改结果提交-answer为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <publish_id>330818</publish_id>
+        <link_id>583775</link_id>
+        <resource_id>300566</resource_id>
+        <type>111</type>
+        <question_id>6326489</question_id>
+        <student_id>81951087568</student_id>
+        <struct_id>11</struct_id>
+        <answer></answer>
+    </exceptionTest>
+</data>

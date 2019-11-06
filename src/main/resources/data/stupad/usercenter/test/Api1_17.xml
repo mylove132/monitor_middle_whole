@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1.17 校验密码</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uname>81951055741</uname>
+        <pwd>newest</pwd>
+        <token>newest</token>
+    </test>
+</data>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>新增题目</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <status>0</status>
+        <html>{"body":"<p>test</p>","options":["<p>test</p>","<p>test</p>","<p>test</p>","<p>test</p>"],"analysis":"<p>
+            test</p>","answer":["A"],"questions":[]}
+        </html>
+        <id>2504492</id>
+        <level>1</level>
+        <ref>0</ref>
+        <type>1</type>
+        <topic>0</topic>
+        <chapter>9145</chapter>
+        <versionId>19</versionId>
+        <directoryId>178</directoryId>
+        <customDirectoryId>3129910</customDirectoryId>
+        <groupId>101586</groupId>
+        <source>test</source>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>新增题目-type为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type></type>
+        <json>
+            {"body":[{"type":"text","value":"test"}],"options":[[{"type":"option","value":"A"},{"type":"text","value":"test"}],[{"type":"option","value":"B"},{"type":"text","value":"test"}],[{"type":"option","value":"C"},{"type":"text","value":"test"}],[{"type":"option","value":"D"},{"type":"text","value":"特色"}]],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":[{"type":"text","value":"set"}],"questions":[]}
+        </json>
+        <html>{"body":"<p>test</p>","options":["<p>test</p>","<p>test</p>","<p>test</p>","<p>特色</p>"],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":"<p>
+            set</p>","questions":[]}
+        </html>
+        <group>0</group>
+        <topic>1888</topic>
+        <chapter>0</chapter>
+        <ref>1</ref>
+        <level>2</level>
+        <source>test</source>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>新增题目-html为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type>1</type>
+        <json>
+            {"body":[{"type":"text","value":"test"}],"options":[[{"type":"option","value":"A"},{"type":"text","value":"test"}],[{"type":"option","value":"B"},{"type":"text","value":"test"}],[{"type":"option","value":"C"},{"type":"text","value":"test"}],[{"type":"option","value":"D"},{"type":"text","value":"特色"}]],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":[{"type":"text","value":"set"}],"questions":[]}
+        </json>
+        <html></html>
+        <group>0</group>
+        <topic>1888</topic>
+        <chapter>0</chapter>
+        <ref>1</ref>
+        <level>2</level>
+        <source>test</source>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>新增题目-ref为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <type>1</type>
+        <json>
+            {"body":[{"type":"text","value":"test"}],"options":[[{"type":"option","value":"A"},{"type":"text","value":"test"}],[{"type":"option","value":"B"},{"type":"text","value":"test"}],[{"type":"option","value":"C"},{"type":"text","value":"test"}],[{"type":"option","value":"D"},{"type":"text","value":"特色"}]],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":[{"type":"text","value":"set"}],"questions":[]}
+        </json>
+        <html>{"body":"<p>test</p>","options":["<p>test</p>","<p>test</p>","<p>test</p>","<p>特色</p>"],"audio":{"url":"","name":"","size":""},"map":{"url":"","name":"","size":""},"answer":["C"],"analysis":"<p>
+            set</p>","questions":[]}
+        </html>
+        <group>0</group>
+        <topic>1888</topic>
+        <chapter>0</chapter>
+        <ref></ref>
+        <level>2</level>
+        <source>test</source>
+    </exceptionTest>
+
+</data>

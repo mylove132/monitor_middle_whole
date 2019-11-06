@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>使用优惠券</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>210500</caseType>
+        <childid>81951375484</childid>
+        <coupon_combination_code>5</coupon_combination_code>
+    </test>
+</data>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>资源库-资源列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <classifys_type>0</classifys_type>
+        <region_list_group_id>0</region_list_group_id>
+        <region_list_id>0</region_list_id>
+        <region_list_level>0</region_list_level>
+        <stage_id>0</stage_id>
+        <subject_id>0</subject_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>必填项未校验</testcaseName>
+        <expectedCode>code:400</expectedCode>
+        <caseType>0</caseType>
+        <classifys_type></classifys_type>
+        <region_list_group_id></region_list_group_id>
+        <region_list_id></region_list_id>
+        <region_list_level></region_list_level>
+        <stage_id></stage_id>
+        <subject_id></subject_id>
+    </exceptionTest>
+
+</data>
+

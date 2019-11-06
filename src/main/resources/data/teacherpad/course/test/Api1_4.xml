@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <!--需要执行上课用例-->
+        <testcaseName>下课</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <course_id>466750</course_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>不存在的id，下课异常</testcaseName>
+        <expectedCode>meta.ecode:2012</expectedCode>
+        <caseType>1</caseType>
+        <token>used</token>
+        <uid>used</uid>
+        <course_id>4237261111</course_id>
+    </exceptionTest>
+
+</data>
+

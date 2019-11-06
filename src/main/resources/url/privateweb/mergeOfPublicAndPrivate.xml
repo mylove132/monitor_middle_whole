@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Pr_LoginName>私立学校后台登录</Pr_LoginName>
+    <Pr_Login>/login</Pr_Login>
+
+    <Api1_1Name>学号重复性校验</Api1_1Name>
+    <Api1_1>/api_courseware/student/stu_number_repeatability</Api1_1>
+
+    <Api1_2Name>学生管理--来源</Api1_2Name>
+    <Api1_2>/api_courseware/student/student_source</Api1_2>
+
+    <Api1_3Name>获取学生信息</Api1_3Name>
+    <Api1_3>/api_courseware/student/get_info</Api1_3>
+
+    <Api1_4Name>获取学生列表</Api1_4Name>
+    <Api1_4>/api_courseware/student/get_list</Api1_4>
+
+    <Api1_5Name>获取待审核记录</Api1_5Name>
+    <Api1_5>/api_courseware/student/get_no_review_list</Api1_5>
+
+    <Api1_6Name>获取操作记录--审核记录</Api1_6Name>
+    <Api1_6>/api_courseware/student/get_review_log_list</Api1_6>
+
+    <Api1_7Name>获取移除记录</Api1_7Name>
+    <Api1_7>/api_courseware/student/get_del_log_list</Api1_7>
+
+    <Api1_8Name>获取行政班历史列表</Api1_8Name>
+    <Api1_8>/api_courseware/classes/get_history_list</Api1_8>
+
+    <Api1_9Name>可添加班级的年度</Api1_9Name>
+    <Api1_9>/api_courseware/classes/get_year</Api1_9>
+
+    <Api1_10Name>搜索教师</Api1_10Name>
+    <Api1_10>/api_courseware/classes/search_teacher</Api1_10>
+
+    <Api1_11Name>查看班级信息</Api1_11Name>
+    <Api1_11>/api_courseware/classes/get_info</Api1_11>
+
+    <Api1_12Name>获取班级学生列表</Api1_12Name>
+    <Api1_12>/api_courseware/classes/get_student_list</Api1_12>
+</ApiUrl>

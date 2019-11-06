@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>修改语音已读和未读-新增未读语音 </testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <msgIds>1CCCCCCCCCCCxxxxx</msgIds>
+        <type>add</type>
+    </test>
+
+    <test>
+        <testcaseName>修改语音已读和未读-删出已读 </testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <msgIds>1CCCCCCCCCCCxxx</msgIds>
+        <type>del</type>
+    </test>
+</data>

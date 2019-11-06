@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>地址-删除收货地址-(收货地址不存在)</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <addressIdList>[1,2]</addressIdList>
+    </test>
+
+
+    <test>
+        <testcaseName>地址-删除收货地址-(收货地址不存在)</testcaseName>
+        <expectedCode>meta.code:200</expectedCode>
+        <caseType>0</caseType>
+        <addressIdList>117</addressIdList>
+    </test>
+</data>

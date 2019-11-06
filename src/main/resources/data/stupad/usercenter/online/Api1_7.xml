@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <exceptionTest>
+        <testcaseName>班级码有误</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>expired</token>
+        <clsid>118367</clsid>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>参数错误</testcaseName>
+        <expectedCode>meta.ecode:1005</expectedCode>
+        <caseType>1</caseType>
+        <uid></uid>
+        <token>newest</token>
+        <clsid>118367</clsid>
+    </exceptionTest>
+</data>
+

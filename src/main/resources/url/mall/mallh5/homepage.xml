@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Mallh5_loginName>家长APP登录-商城手机H5-smart-mall-server</Mallh5_loginName>
+    <Mallh5_login>/plusapi/signin</Mallh5_login>
+
+    <Api1_1Name>首页-商品页:加入购物车</Api1_1Name>
+    <Api1_1>/api/v1/carts/handle</Api1_1>
+
+    <Api1_2Name>首页-商品页:获取商品信息列表</Api1_2Name>
+    <Api1_2>/api/v1/goods/list</Api1_2>
+
+    <Api1_3Name>首页-商品页:获取配件型号列表</Api1_3Name>
+    <Api1_3>/api/v1/goods/list</Api1_3>
+
+</ApiUrl>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>1.6设置是否使用智能批改-关闭</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <correct>1</correct>
+    </test>
+
+    <test>
+        <testcaseName>1.6设置是否使用智能批改-打开</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <correct>2</correct>
+    </test>
+
+    <!-- <exceptionTest>
+         <testcaseName>1.6设置是否使用智能批改-token失效</testcaseName>
+         <expectedCode>meta.ecode:1004</expectedCode>
+         <caseType>1</caseType>
+         <uid>newest</uid>
+         <token>expired</token>
+         <correct>1</correct>
+     </exceptionTest>-->
+
+</data>
+

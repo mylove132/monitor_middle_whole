@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>1.11 错题本获取题集</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pagesize>1</pagesize>
+        <fromindex>0</fromindex>
+        <id>12</id>
+        <flag>1</flag>
+        <level>1</level>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.11 错题本获取题集-id为0</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pagesize>1</pagesize>
+        <fromindex>0</fromindex>
+        <id>12</id>
+        <flag>1</flag>
+        <level>1</level>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.11 错题本获取题集-flag为0</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pagesize>1</pagesize>
+        <fromindex>0</fromindex>
+        <id>12</id>
+        <flag>0</flag>
+        <level>1</level>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.11 错题本获取题集-level为0</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <pagesize>1</pagesize>
+        <fromindex>0</fromindex>
+        <id>12</id>
+        <flag>1</flag>
+        <level>0</level>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>1.13 学习记录中的做错题-没有数据</testcaseName>
+        <expectedCode>meta.ecode:1015</expectedCode>
+        <caseType>0</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>8625077</workid>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>1.13 学习记录中的做错题-workid为空</testcaseName>
+        <expectedCode>meta.ecode:1001</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <workid>0</workid>
+    </exceptionTest>
+
+</data>
+

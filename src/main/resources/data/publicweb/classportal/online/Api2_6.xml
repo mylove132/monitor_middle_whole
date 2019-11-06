@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>教师使用情况-列表</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <grade>8</grade>
+        <pad_class>9999</pad_class>
+        <week_time>43</week_time>
+        <year>2017</year>
+        <caseType>0</caseType>
+    </test>
+
+
+</data>
+

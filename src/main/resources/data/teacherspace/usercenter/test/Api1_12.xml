@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>手机号替绑</testcaseName>
+        <expectedCode>code:3007</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>18516280768</phone_num>
+        <verify_code>1234</verify_code>
+        <trace_no>test</trace_no>
+        <authorize_code>1234</authorize_code>
+        <old_trace_no>test</old_trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>手机号替绑-手机号为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num></phone_num>
+        <verify_code>1234</verify_code>
+        <trace_no>test</trace_no>
+        <authorize_code>1234</authorize_code>
+        <old_trace_no>test</old_trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>手机号替绑-verifycode为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>18516280768</phone_num>
+        <verify_code></verify_code>
+        <trace_no>test</trace_no>
+        <authorize_code>1234</authorize_code>
+        <old_trace_no>test</old_trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>手机号替绑-traceno为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>18516280768</phone_num>
+        <verify_code>1234</verify_code>
+        <trace_no></trace_no>
+        <authorize_code>1234</authorize_code>
+        <old_trace_no>test</old_trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>手机号替绑-authorize_code为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>18516280768</phone_num>
+        <verify_code>1234</verify_code>
+        <trace_no>test</trace_no>
+        <authorize_code></authorize_code>
+        <old_trace_no>test</old_trace_no>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>手机号替绑-old_trace_no为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <phone_num>18516280768</phone_num>
+        <verify_code>1234</verify_code>
+        <trace_no>test</trace_no>
+        <authorize_code>1234</authorize_code>
+        <old_trace_no></old_trace_no>
+    </exceptionTest>
+</data>

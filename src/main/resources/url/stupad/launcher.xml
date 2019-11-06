@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+
+    <Api_loginName>pad登录</Api_loginName>
+    <Api_login>user/login</Api_login>
+
+    <!--<Api1_1Name>1.1 主屏知识点列表</Api1_1Name>-->
+    <!--<Api1_1>launcher/knowledge</Api1_1>-->
+
+    <Api1_2Name>1.2 获取未完成的课前预习列表</Api1_2Name>
+    <Api1_2>launcher/plist</Api1_2>
+
+    <Api1_3Name>1.3 获取正在上课的课程列表</Api1_3Name>
+    <Api1_3>launcher/sklist</Api1_3>
+
+    <Api1_4Name>1.4 获取未完成的作业列表</Api1_4Name>
+    <Api1_4>launcher/hwlist</Api1_4>
+
+    <Api1_5Name>1.5 复习测评待完成列表</Api1_5Name>
+    <Api1_5>launcher/exam</Api1_5>
+
+    <!--<Api1_6Name>1.6 复习小云推荐列表</Api1_6Name>-->
+    <!--<Api1_6>launcher/klist</Api1_6>-->
+
+    <!--<Api1_7Name>1.7 自主学习推荐列表</Api1_7Name>-->
+    <!--<Api1_7>launcher/selfklist</Api1_7>-->
+
+    <Api1_8Name>1.8 获取任务类型知识点信息</Api1_8Name>
+    <Api1_8>launcher/kinfo</Api1_8>
+
+    <!--<Api1_9Name>1.9 自主学习推荐内容列表(智慧学习2.0新增)</Api1_9Name>
+    <Api1_9>launcher1/selfclist</Api1_9>-->
+
+    <Api1_13Name>1.13 主屏推荐内容列表(智慧学习4.0新增)</Api1_13Name>
+    <Api1_13>launcher/mainclist</Api1_13>
+
+    <Api1_14Name>1.14 获取主屏推荐的任务列表(智慧学习4.0新增)</Api1_14Name>
+    <Api1_14>launcher/mainplist</Api1_14>
+
+    <Api1_15Name>1.15 获取主屏DOCK 预习/作业/测评 未完成数量(智慧学习4.0新增)</Api1_15Name>
+    <Api1_15>launcher/docktasks</Api1_15>
+</ApiUrl>

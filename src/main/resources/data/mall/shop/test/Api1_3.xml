@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>根据省份ID取得市县数据</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>0</caseType>
+        <m>OkayMall</m>
+        <c>mobileAreas</c>
+        <a>getAllAreas</a>
+        <parentId>130000</parentId>
+    </test>
+    <exceptionTest>
+        <testcaseName>商品明细-省份ID为空</testcaseName>
+        <expectedCode>status:200</expectedCode>
+        <caseType>1</caseType>
+        <m>OkayMall</m>
+        <c>mobileAreas</c>
+        <a>getAllAreas</a>
+        <parentId></parentId>
+    </exceptionTest>
+</data>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ApiUrl>
+    <Th_loginName>teacherspace登录</Th_loginName>
+    <Th_login>login</Th_login>
+
+    <Api1_1Name>1.1 试卷筛选条件</Api1_1Name>
+    <Api1_1>quizcenter/paper_types</Api1_1>
+
+    <Api1_2Name>1.2 获取地区</Api1_2Name>
+    <Api1_2>quizcenter/paper_area</Api1_2>
+
+
+</ApiUrl>

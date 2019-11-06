@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <test>
+        <testcaseName>删除题集/试卷上传记录</testcaseName>
+        <expectedCode>code:0</expectedCode>
+        <caseType>0</caseType>
+        <exam_id>325778</exam_id>
+    </test>
+
+    <exceptionTest>
+        <testcaseName>删除题集/试卷上传记录-examid为空</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <exam_id></exam_id>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>删除题集/试卷上传记录-examid错误</testcaseName>
+        <expectedCode>code:3996</expectedCode>
+        <caseType>1</caseType>
+        <exam_id>x</exam_id>
+    </exceptionTest>
+
+</data>

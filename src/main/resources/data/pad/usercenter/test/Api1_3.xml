@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <test>
+        <testcaseName>升级包名错误</testcaseName>
+        <expectedCode>meta.ecode:0</expectedCode>
+        <caseType>1</caseType>
+        <token>newest</token>
+        <vcode>2.1.3</vcode>
+        <pkgname>pkg-1.2.1-snapshot</pkgname>
+    </test>
+
+    <test>
+        <testcaseName>token失效</testcaseName>
+        <expectedCode>meta.ecode:1004</expectedCode>
+        <caseType>1</caseType>
+        <token>expired</token>
+        <vcode>2.1.3</vcode>
+        <pkgname>pkg-1.2.1-snapshot</pkgname>
+    </test>
+
+</data>
+

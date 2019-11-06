@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <exceptionTest>
+        <testcaseName>意见反馈</testcaseName>
+        <expectedCode>meta.ecode:1096</expectedCode>
+        <caseType>1</caseType>
+        <uid>newest</uid>
+        <token>newest</token>
+        <content>反馈test—online-monitor</content>
+        <contact>12345678</contact>
+        <type>1</type>
+        <needreply>false</needreply>
+    </exceptionTest>
+
+    <exceptionTest>
+        <testcaseName>重复反馈</testcaseName>
+        <expectedCode>meta.ecode:1096</expectedCode>
+        <caseType>1</caseType>
+        <uid></uid>
+        <token>newest</token>
+        <content>反馈test—online-monitor</content>
+        <contact>12345678</contact>
+        <type>1</type>
+        <needreply>false</needreply>
+    </exceptionTest>
+
+</data>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!--<exceptionTest>-->
+    <!--<testcaseName>保存并发布题集-题集已经发布</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<student_ids></student_ids>-->
+    <!--<class_ids>2059</class_ids>-->
+    <!--<end_time>1498608000000</end_time>-->
+    <!--<questionset_id>692</questionset_id>-->
+    <!--<question_ids>2437289</question_ids>-->
+    <!--<type>3</type>-->
+    <!--</exceptionTest>-->
+
+    <!--<exceptionTest>-->
+    <!--<testcaseName>保存发布题集</testcaseName>-->
+    <!--<expectedCode>code:3000</expectedCode>-->
+    <!--<caseType>1</caseType>-->
+    <!--<question_ids>2550829,2550833</question_ids>-->
+    <!--<class_ids>12059</class_ids>-->
+    <!--<end_time>1472601600000</end_time>-->
+    <!--<type_target>1</type_target>-->
+    <!--<type_publish>2</type_publish>-->
+    <!--<collection_id>172426</collection_id>-->
+    <!--<title>test</title>-->
+    <!--<chapter_id>4241</chapter_id>-->
+    <!--<chapter_level>2</chapter_level>-->
+    <!--<student_ids>8177682,8177688,8177694</student_ids>-->
+    <!--</exceptionTest>-->
+
+    <exceptionTest>
+        <testcaseName>保存发布题集-测评</testcaseName>
+        <expectedCode>code:3000</expectedCode>
+        <caseType>1</caseType>
+        <question_ids></question_ids>
+        <!--<question_ids>2550829,2550833</question_ids>-->
+        <class_ids>12059</class_ids>
+        <end_time>99</end_time>
+        <type_target>1</type_target>
+        <type_publish>3</type_publish>
+        <title>test</title>
+        <chapter_id>4241</chapter_id>
+        <chapter_level>2</chapter_level>
+        <share_info>school,region</share_info>
+    </exceptionTest>
+
+</data>
+
